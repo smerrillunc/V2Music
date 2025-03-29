@@ -17,6 +17,7 @@ from torch.utils.data import DataLoader, Dataset
 
 from models import AutoregressiveModelSegmented
 import utils
+from torch.cuda.amp import autocast, GradScaler
 
 if __name__ == '__main__':
     torch.set_default_dtype(torch.float32)
@@ -78,7 +79,7 @@ if __name__ == '__main__':
     test_filenames = pd.read_csv(args['data_path']+'/test.csv')['filename'].values[:10]
 
     train_dataset = VideoAudioDataset(args['data_path'], train_filenames)
-    train_loader = DataLoader(train_dataset, batch_size=args['batch_size'], shuffle=True, )
+    train_loader = DataLoader(train_dataset, batch_size=args['batch_size'], shuffle=True, pin_memory=True)
 
     # we'll compute this after
     #test_dataset = VideoAudioDataset(args['data_path'], test_filenames)
@@ -89,6 +90,7 @@ if __name__ == '__main__':
     df = pd.DataFrame()
 
     criterion = nn.CrossEntropyLoss()
+    scaler = GradScaler()
 
     # Batch iterator
     for epoch in tqdm.tqdm(range(args['epochs'])):
@@ -100,15 +102,16 @@ if __name__ == '__main__':
             audio_targets = audio_targets.to(device)
 
             optimizer.zero_grad()
-            predictions = model(video_feats, flow_feats)
+            with autocast():  # Enable mixed precision
+                predictions = model(video_feats, flow_feats)
+                #print(predictions.view(-1, args['codebook_size']).shape) #[batch_size*music_seq_len, codebooksize]
+                #print(audio_targets.shape)#[batch_size*music_seq_len]
 
-            #print(predictions.view(-1, args['codebook_size']).shape) #[batch_size*music_seq_len, codebooksize]
-            #print(audio_targets.shape)#[batch_size*music_seq_len]
-
-            # predictions are logits for audio codes with CELoss Function
-            loss = criterion(predictions.view(-1, args['codebook_size']), (audio_targets.long()).view(-1)) 
-            loss.backward()
-            optimizer.step()
+                # predictions are logits for audio codes with CELoss Function
+                loss = criterion(predictions.view(-1, args['codebook_size']), (audio_targets.long()).view(-1)) 
+            scaler.scale(loss).backward()
+            scaler.step(optimizer)
+            scaler.update()
             losses.append(loss.detach().item())
             print(f'Batch Train Loss {loss}')
 
