@@ -54,6 +54,10 @@ if __name__ == '__main__':
 
     args = vars(parser.parse_args())
 
+    # Detect device (GPU if available, otherwise CPU)
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    print(f"Using device: {device}")
+
     # make checkpoint dir
     os.makedirs(args['save_path'], exist_ok=True)
 
@@ -65,6 +69,8 @@ if __name__ == '__main__':
                                          num_layers=args['num_layers'],
                                          num_heads=args['num_heads'],
                                          num_segments=args['num_segments'])
+    model = model.to(device)
+
     optimizer = optim.Adam(model.parameters(), lr=args['learning_rate'])
 
 
@@ -89,6 +95,10 @@ if __name__ == '__main__':
         i = 0
         losses = []
         for video_feats, flow_feats, audio_targets in train_loader:
+            video_feats = video_feats.to(device)
+            flow_feats = flow_feats.to(device)
+            audio_targets = audio_targets.to(device)
+
             optimizer.zero_grad()
             predictions = model(video_feats, flow_feats)
 
