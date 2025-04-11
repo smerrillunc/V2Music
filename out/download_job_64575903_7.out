@@ -1,0 +1,3709 @@
+FFMPEG located at: /work/users/t/i/tis/ffmpeg/ffmpeg
+ffmpeg version 7.1.1 Copyright (c) 2000-2025 the FFmpeg developers
+built with gcc 8 (GCC)
+configuration: --prefix=/work/users/t/i/tis/ffmpeg/ffmpeg_build --enable-openssl --disable-shared --enable-static --extra-cflags=-I/work/users/t/i/tis/ffmpeg/openssl/include --extra-ldflags=-L/work/users/t/i/tis/ffmpeg/openssl/lib
+libavutil      59. 39.100 / 59. 39.100
+libavcodec     61. 19.101 / 61. 19.101
+libavformat    61.  7.100 / 61.  7.100
+libavdevice    61.  3.100 / 61.  3.100
+libavfilter    10.  4.100 / 10.  4.100
+libswscale      8.  3.100 /  8.  3.100
+libswresample   5.  3.100 /  5.  3.100
+Running download.py with --start 11750 --end 12000
+[youtube] Extracting URL: https://www.youtube.com/watch?v=iWO_A7tRKvQ
+[youtube] iWO_A7tRKvQ: Downloading webpage
+[youtube] iWO_A7tRKvQ: Downloading tv client config
+[youtube] iWO_A7tRKvQ: Downloading player 9599b765-main
+[youtube] iWO_A7tRKvQ: Downloading tv player API JSON
+[info] iWO_A7tRKvQ: Downloading 2 format(s): 137, 251
+[info] iWO_A7tRKvQ: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/iWO_A7tRKvQ.mp4
+[download] 100% of    7.75MiB in 00:00:16 at 492.56KiB/s
+[download] Destination: data/audio/iWO_A7tRKvQ.webm
+[download] 100% of  420.54KiB in 00:00:00 at 903.51KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=wRWt-mxt5S8
+[youtube] wRWt-mxt5S8: Downloading webpage
+[youtube] wRWt-mxt5S8: Downloading tv client config
+[youtube] wRWt-mxt5S8: Downloading player 9599b765-main
+[youtube] wRWt-mxt5S8: Downloading tv player API JSON
+[info] wRWt-mxt5S8: Downloading 2 format(s): 137, 251
+[info] wRWt-mxt5S8: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/wRWt-mxt5S8.mp4
+[download] 100% of    5.49MiB in 00:00:14 at 376.69KiB/s
+[download] Destination: data/audio/wRWt-mxt5S8.webm
+[download] 100% of  487.73KiB in 00:00:00 at 2.05MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=n64H3WXoEs8
+[youtube] n64H3WXoEs8: Downloading webpage
+[youtube] n64H3WXoEs8: Downloading tv client config
+[youtube] n64H3WXoEs8: Downloading player 9599b765-main
+[youtube] n64H3WXoEs8: Downloading tv player API JSON
+[info] n64H3WXoEs8: Downloading 2 format(s): 398, 251
+[info] n64H3WXoEs8: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/n64H3WXoEs8.mp4
+[download] 100% of    1.38MiB in 00:00:00 at 6.20MiB/s
+[download] Destination: data/audio/n64H3WXoEs8.webm
+[download] 100% of  489.95KiB in 00:00:00 at 2.48MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=xZp0EktowJw
+[youtube] xZp0EktowJw: Downloading webpage
+[youtube] xZp0EktowJw: Downloading tv client config
+[youtube] xZp0EktowJw: Downloading player 9599b765-main
+[youtube] xZp0EktowJw: Downloading tv player API JSON
+[info] xZp0EktowJw: Downloading 2 format(s): 137, 251
+[info] xZp0EktowJw: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/xZp0EktowJw.mp4
+[download] 100% of    8.92MiB in 00:00:20 at 445.84KiB/s
+[download] Destination: data/audio/xZp0EktowJw.webm
+[download] 100% of  450.11KiB in 00:00:00 at 710.40KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=e1O67nNmQVA
+[youtube] e1O67nNmQVA: Downloading webpage
+[youtube] e1O67nNmQVA: Downloading tv client config
+[youtube] e1O67nNmQVA: Downloading player 9599b765-main
+[youtube] e1O67nNmQVA: Downloading tv player API JSON
+[info] e1O67nNmQVA: Downloading 2 format(s): 137, 251
+[info] e1O67nNmQVA: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/e1O67nNmQVA.mp4
+[download] 100% of    7.66MiB in 00:00:17 at 458.62KiB/s
+[download] Destination: data/audio/e1O67nNmQVA.webm
+[download] 100% of  475.59KiB in 00:00:00 at 2.65MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=sPZJQCGk24A
+[youtube] sPZJQCGk24A: Downloading webpage
+[youtube] sPZJQCGk24A: Downloading tv client config
+[youtube] sPZJQCGk24A: Downloading player 9599b765-main
+[youtube] sPZJQCGk24A: Downloading tv player API JSON
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Ss7xGo5ZlLs
+[youtube] Ss7xGo5ZlLs: Downloading webpage
+[youtube] Ss7xGo5ZlLs: Downloading tv client config
+[youtube] Ss7xGo5ZlLs: Downloading player 9599b765-main
+[youtube] Ss7xGo5ZlLs: Downloading tv player API JSON
+[info] Ss7xGo5ZlLs: Downloading 2 format(s): 137, 251
+[info] Ss7xGo5ZlLs: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/Ss7xGo5ZlLs.mp4
+[download] 100% of    8.53MiB in 00:00:19 at 451.06KiB/s
+[download] Destination: data/audio/Ss7xGo5ZlLs.webm
+[download] 100% of  467.57KiB in 00:00:00 at 1.65MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=VIuGtdQ96EI
+[youtube] VIuGtdQ96EI: Downloading webpage
+[youtube] VIuGtdQ96EI: Downloading tv client config
+[youtube] VIuGtdQ96EI: Downloading player 9599b765-main
+[youtube] VIuGtdQ96EI: Downloading tv player API JSON
+[info] VIuGtdQ96EI: Downloading 2 format(s): 137, 251
+[info] VIuGtdQ96EI: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/VIuGtdQ96EI.mp4
+[download] 100% of   11.29MiB in 00:00:18 at 636.94KiB/s
+[download] Destination: data/audio/VIuGtdQ96EI.webm
+[download] 100% of  501.00KiB in 00:00:00 at 692.80KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=cM4OVxdR2zc
+[youtube] cM4OVxdR2zc: Downloading webpage
+[youtube] cM4OVxdR2zc: Downloading tv client config
+[youtube] cM4OVxdR2zc: Downloading player 9599b765-main
+[youtube] cM4OVxdR2zc: Downloading tv player API JSON
+[info] cM4OVxdR2zc: Downloading 2 format(s): 137, 251
+[info] cM4OVxdR2zc: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/cM4OVxdR2zc.mp4
+[download] 100% of   13.14MiB in 00:00:18 at 727.95KiB/s
+[download] Destination: data/audio/cM4OVxdR2zc.webm
+[download] 100% of  373.65KiB in 00:00:00 at 1.12MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=I2ISni4RhEE
+[youtube] I2ISni4RhEE: Downloading webpage
+[youtube] I2ISni4RhEE: Downloading tv client config
+[youtube] I2ISni4RhEE: Downloading player 9599b765-main
+[youtube] I2ISni4RhEE: Downloading tv player API JSON
+[info] I2ISni4RhEE: Downloading 2 format(s): 137, 251
+[info] I2ISni4RhEE: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/I2ISni4RhEE.mp4
+[download] 100% of   12.46MiB in 00:00:17 at 720.44KiB/s
+[download] Destination: data/audio/I2ISni4RhEE.webm
+[download] 100% of  516.66KiB in 00:00:00 at 1.37MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=sJI9zyOP-mE
+[youtube] sJI9zyOP-mE: Downloading webpage
+[youtube] sJI9zyOP-mE: Downloading tv client config
+[youtube] sJI9zyOP-mE: Downloading player 9599b765-main
+[youtube] sJI9zyOP-mE: Downloading tv player API JSON
+[info] sJI9zyOP-mE: Downloading 2 format(s): 137, 251
+[info] sJI9zyOP-mE: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/sJI9zyOP-mE.mp4
+[download] 100% of   14.48MiB in 00:00:22 at 649.35KiB/s
+[download] Destination: data/audio/sJI9zyOP-mE.webm
+[download] 100% of  551.20KiB in 00:00:00 at 1007.54KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=P6nQ3E-Cyfk
+[youtube] P6nQ3E-Cyfk: Downloading webpage
+[youtube] P6nQ3E-Cyfk: Downloading tv client config
+[youtube] P6nQ3E-Cyfk: Downloading player 9599b765-main
+[youtube] P6nQ3E-Cyfk: Downloading tv player API JSON
+[info] P6nQ3E-Cyfk: Downloading 2 format(s): 137, 251
+[info] P6nQ3E-Cyfk: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/P6nQ3E-Cyfk.mp4
+[download] 100% of    5.47MiB in 00:00:14 at 391.03KiB/s
+[download] Destination: data/audio/P6nQ3E-Cyfk.webm
+[download] 100% of  518.85KiB in 00:00:00 at 1.07MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=dDfoXrRlPmA
+[youtube] dDfoXrRlPmA: Downloading webpage
+[youtube] dDfoXrRlPmA: Downloading tv client config
+[youtube] dDfoXrRlPmA: Downloading player 9599b765-main
+[youtube] dDfoXrRlPmA: Downloading tv player API JSON
+[info] dDfoXrRlPmA: Downloading 2 format(s): 137, 251
+[info] dDfoXrRlPmA: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/dDfoXrRlPmA.mp4
+[download] 100% of   15.27MiB in 00:00:15 at 992.57KiB/s
+[download] Destination: data/audio/dDfoXrRlPmA.webm
+[download] 100% of  479.06KiB in 00:00:00 at 801.40KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=uNq7F6KJW0c
+[youtube] uNq7F6KJW0c: Downloading webpage
+[youtube] uNq7F6KJW0c: Downloading tv client config
+[youtube] uNq7F6KJW0c: Downloading player 9599b765-main
+[youtube] uNq7F6KJW0c: Downloading tv player API JSON
+[info] uNq7F6KJW0c: Downloading 2 format(s): 136, 251
+[info] uNq7F6KJW0c: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/uNq7F6KJW0c.mp4
+[download] 100% of    5.08MiB in 00:00:14 at 371.38KiB/s
+[download] Destination: data/audio/uNq7F6KJW0c.webm
+[download] 100% of  460.96KiB in 00:00:00 at 2.03MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=qWmwGI5hoGY
+[youtube] qWmwGI5hoGY: Downloading webpage
+[youtube] qWmwGI5hoGY: Downloading tv client config
+[youtube] qWmwGI5hoGY: Downloading player 9599b765-main
+[youtube] qWmwGI5hoGY: Downloading tv player API JSON
+[info] qWmwGI5hoGY: Downloading 2 format(s): 137, 251
+[info] qWmwGI5hoGY: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/qWmwGI5hoGY.mp4
+[download] 100% of    8.09MiB in 00:00:02 at 3.70MiB/s
+[download] Destination: data/audio/qWmwGI5hoGY.webm
+[download] 100% of  496.31KiB in 00:00:00 at 685.57KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=SO02HziBbe4
+[youtube] SO02HziBbe4: Downloading webpage
+[youtube] SO02HziBbe4: Downloading tv client config
+[youtube] SO02HziBbe4: Downloading player 9599b765-main
+[youtube] SO02HziBbe4: Downloading tv player API JSON
+[info] SO02HziBbe4: Downloading 2 format(s): 137, 251
+[info] SO02HziBbe4: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/SO02HziBbe4.mp4
+[download] 100% of    6.65MiB in 00:00:18 at 375.50KiB/s
+[download] Destination: data/audio/SO02HziBbe4.webm
+[download] 100% of  534.53KiB in 00:00:00 at 3.30MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=LdLtLcFS98E
+[youtube] LdLtLcFS98E: Downloading webpage
+[youtube] LdLtLcFS98E: Downloading tv client config
+[youtube] LdLtLcFS98E: Downloading player 9599b765-main
+[youtube] LdLtLcFS98E: Downloading tv player API JSON
+[info] LdLtLcFS98E: Downloading 2 format(s): 137, 251
+[info] LdLtLcFS98E: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/LdLtLcFS98E.mp4
+[download] 100% of   10.88MiB in 00:00:19 at 567.62KiB/s
+[download] Destination: data/audio/LdLtLcFS98E.webm
+[download] 100% of  484.10KiB in 00:00:00 at 4.06MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=tGtFSj46TBg
+[youtube] tGtFSj46TBg: Downloading webpage
+[youtube] tGtFSj46TBg: Downloading tv client config
+[youtube] tGtFSj46TBg: Downloading player 9599b765-main
+[youtube] tGtFSj46TBg: Downloading tv player API JSON
+[info] tGtFSj46TBg: Downloading 2 format(s): 137, 251
+[info] tGtFSj46TBg: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/tGtFSj46TBg.mp4
+[download] 100% of   11.68MiB in 00:00:18 at 638.60KiB/s
+[download] Destination: data/audio/tGtFSj46TBg.webm
+[download] 100% of  439.20KiB in 00:00:00 at 479.55KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=d8pWEZQgeWY
+[youtube] d8pWEZQgeWY: Downloading webpage
+[youtube] d8pWEZQgeWY: Downloading tv client config
+[youtube] d8pWEZQgeWY: Downloading player 9599b765-main
+[youtube] d8pWEZQgeWY: Downloading tv player API JSON
+[info] d8pWEZQgeWY: Downloading 2 format(s): 137, 251
+[info] d8pWEZQgeWY: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/d8pWEZQgeWY.mp4
+[download] 100% of   10.30MiB in 00:00:14 at 746.15KiB/s
+[download] Destination: data/audio/d8pWEZQgeWY.webm
+[download] 100% of  502.71KiB in 00:00:00 at 679.41KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=drMzTc_hqzw
+[youtube] drMzTc_hqzw: Downloading webpage
+[youtube] drMzTc_hqzw: Downloading tv client config
+[youtube] drMzTc_hqzw: Downloading player 9599b765-main
+[youtube] drMzTc_hqzw: Downloading tv player API JSON
+[info] drMzTc_hqzw: Downloading 2 format(s): 399, 251
+[info] drMzTc_hqzw: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/drMzTc_hqzw.mp4
+[download] 100% of    3.03MiB in 00:00:01 at 2.48MiB/s
+[download] Destination: data/audio/drMzTc_hqzw.webm
+[download] 100% of  472.12KiB in 00:00:00 at 666.01KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=4AvJGzXCMHI
+[youtube] 4AvJGzXCMHI: Downloading webpage
+[youtube] 4AvJGzXCMHI: Downloading tv client config
+[youtube] 4AvJGzXCMHI: Downloading player 9599b765-main
+[youtube] 4AvJGzXCMHI: Downloading tv player API JSON
+[youtube] 4AvJGzXCMHI: Downloading MPD manifest
+[youtube] 4AvJGzXCMHI: Downloading MPD manifest
+[info] 4AvJGzXCMHI: Downloading 2 format(s): 137, 251
+[info] 4AvJGzXCMHI: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/4AvJGzXCMHI.mp4
+[download] 100% of    6.07MiB in 00:00:13 at 475.42KiB/s
+[download] Destination: data/audio/4AvJGzXCMHI.webm
+[download] 100% of  379.19KiB in 00:00:00 at 745.08KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=OsKKnztVbV0
+[youtube] OsKKnztVbV0: Downloading webpage
+[youtube] OsKKnztVbV0: Downloading tv client config
+[youtube] OsKKnztVbV0: Downloading player 9599b765-main
+[youtube] OsKKnztVbV0: Downloading tv player API JSON
+[info] OsKKnztVbV0: Downloading 2 format(s): 137, 251
+[info] OsKKnztVbV0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/OsKKnztVbV0.mp4
+[download] 100% of   11.48MiB in 00:00:17 at 678.81KiB/s
+[download] Destination: data/audio/OsKKnztVbV0.webm
+[download] 100% of  447.55KiB in 00:00:00 at 859.19KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=GVVYB8gaSqc
+[youtube] GVVYB8gaSqc: Downloading webpage
+[youtube] GVVYB8gaSqc: Downloading tv client config
+[youtube] GVVYB8gaSqc: Downloading player 9599b765-main
+[youtube] GVVYB8gaSqc: Downloading tv player API JSON
+[info] GVVYB8gaSqc: Downloading 2 format(s): 136, 251
+[info] GVVYB8gaSqc: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/GVVYB8gaSqc.mp4
+[download] 100% of    4.85MiB in 00:00:14 at 344.30KiB/s
+[download] Destination: data/audio/GVVYB8gaSqc.webm
+[download] 100% of  477.89KiB in 00:00:00 at 2.35MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=tpdvP10qSeg
+[youtube] tpdvP10qSeg: Downloading webpage
+[youtube] tpdvP10qSeg: Downloading tv client config
+[youtube] tpdvP10qSeg: Downloading player 9599b765-main
+[youtube] tpdvP10qSeg: Downloading tv player API JSON
+[info] tpdvP10qSeg: Downloading 2 format(s): 399, 251
+[info] tpdvP10qSeg: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/tpdvP10qSeg.mp4
+[download] 100% of    1.92MiB in 00:00:00 at 2.49MiB/s
+[download] Destination: data/audio/tpdvP10qSeg.webm
+[download] 100% of  512.21KiB in 00:00:00 at 860.77KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=jEkx9Ew9P6A
+[youtube] jEkx9Ew9P6A: Downloading webpage
+[youtube] jEkx9Ew9P6A: Downloading tv client config
+[youtube] jEkx9Ew9P6A: Downloading player 9599b765-main
+[youtube] jEkx9Ew9P6A: Downloading tv player API JSON
+[info] jEkx9Ew9P6A: Downloading 2 format(s): 136, 251
+[info] jEkx9Ew9P6A: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/jEkx9Ew9P6A.mp4
+[download] 100% of    6.20MiB in 00:00:16 at 386.28KiB/s
+[download] Destination: data/audio/jEkx9Ew9P6A.webm
+[download] 100% of  531.80KiB in 00:00:00 at 972.83KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=v-QjdNi45CI
+[youtube] v-QjdNi45CI: Downloading webpage
+[youtube] v-QjdNi45CI: Downloading tv client config
+[youtube] v-QjdNi45CI: Downloading player 9599b765-main
+[youtube] v-QjdNi45CI: Downloading tv player API JSON
+[youtube] Extracting URL: https://www.youtube.com/watch?v=d3WPMMbrhVE
+[youtube] d3WPMMbrhVE: Downloading webpage
+[youtube] d3WPMMbrhVE: Downloading tv client config
+[youtube] d3WPMMbrhVE: Downloading player 9599b765-main
+[youtube] d3WPMMbrhVE: Downloading tv player API JSON
+[info] d3WPMMbrhVE: Downloading 2 format(s): 137, 251
+[info] d3WPMMbrhVE: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/d3WPMMbrhVE.mp4
+[download] 100% of   14.34MiB in 00:00:18 at 788.69KiB/s
+[download] Destination: data/audio/d3WPMMbrhVE.webm
+[download] 100% of  466.72KiB in 00:00:00 at 968.28KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=EnU_6lEnyfc
+[youtube] EnU_6lEnyfc: Downloading webpage
+[youtube] EnU_6lEnyfc: Downloading tv client config
+[youtube] EnU_6lEnyfc: Downloading player 9599b765-main
+[youtube] EnU_6lEnyfc: Downloading tv player API JSON
+[info] EnU_6lEnyfc: Downloading 2 format(s): 137, 140
+[info] EnU_6lEnyfc: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/EnU_6lEnyfc.mp4
+[download] 100% of    8.81MiB in 00:00:15 at 569.93KiB/s
+[download] Destination: data/audio/EnU_6lEnyfc.m4a
+[download] 100% of  474.71KiB in 00:00:00 at 2.84MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=dqac6X-63C0
+[youtube] dqac6X-63C0: Downloading webpage
+[youtube] dqac6X-63C0: Downloading tv client config
+[youtube] dqac6X-63C0: Downloading player 9599b765-main
+[youtube] dqac6X-63C0: Downloading tv player API JSON
+[info] dqac6X-63C0: Downloading 2 format(s): 299, 251
+[info] dqac6X-63C0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/dqac6X-63C0.mp4
+[download] 100% of    9.47MiB in 00:00:16 at 588.89KiB/s
+[download] Destination: data/audio/dqac6X-63C0.webm
+[download] 100% of  496.85KiB in 00:00:00 at 778.11KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=02rqjtoOIDI
+[youtube] 02rqjtoOIDI: Downloading webpage
+[youtube] 02rqjtoOIDI: Downloading tv client config
+[youtube] 02rqjtoOIDI: Downloading player 9599b765-main
+[youtube] 02rqjtoOIDI: Downloading tv player API JSON
+[info] 02rqjtoOIDI: Downloading 2 format(s): 137, 251
+[info] 02rqjtoOIDI: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/02rqjtoOIDI.mp4
+[download] 100% of    5.10MiB in 00:00:14 at 355.30KiB/s
+[download] Destination: data/audio/02rqjtoOIDI.webm
+[download] 100% of  489.08KiB in 00:00:00 at 2.41MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=uFcBOkaY6G8
+[youtube] uFcBOkaY6G8: Downloading webpage
+[youtube] uFcBOkaY6G8: Downloading tv client config
+[youtube] uFcBOkaY6G8: Downloading player 9599b765-main
+[youtube] uFcBOkaY6G8: Downloading tv player API JSON
+[youtube] Extracting URL: https://www.youtube.com/watch?v=w9LOMca5Yb0
+[youtube] w9LOMca5Yb0: Downloading webpage
+[youtube] w9LOMca5Yb0: Downloading tv client config
+[youtube] w9LOMca5Yb0: Downloading player 9599b765-main
+[youtube] w9LOMca5Yb0: Downloading tv player API JSON
+[info] w9LOMca5Yb0: Downloading 2 format(s): 136, 251
+[info] w9LOMca5Yb0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/w9LOMca5Yb0.mp4
+[download] 100% of    7.76MiB in 00:00:17 at 464.07KiB/s
+[download] Destination: data/audio/w9LOMca5Yb0.webm
+[download] 100% of  495.96KiB in 00:00:00 at 671.49KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=gJUWxDe5qQc
+[youtube] gJUWxDe5qQc: Downloading webpage
+[youtube] gJUWxDe5qQc: Downloading tv client config
+[youtube] gJUWxDe5qQc: Downloading player 9599b765-main
+[youtube] gJUWxDe5qQc: Downloading tv player API JSON
+[info] gJUWxDe5qQc: Downloading 2 format(s): 136, 251
+[info] gJUWxDe5qQc: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/gJUWxDe5qQc.mp4
+[download] 100% of    4.98MiB in 00:00:19 at 258.97KiB/s
+[download] Destination: data/audio/gJUWxDe5qQc.webm
+[download] 100% of  394.64KiB in 00:00:00 at 971.89KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=b1u8XNihgX0
+[youtube] b1u8XNihgX0: Downloading webpage
+[youtube] b1u8XNihgX0: Downloading tv client config
+[youtube] b1u8XNihgX0: Downloading player 9599b765-main
+[youtube] b1u8XNihgX0: Downloading tv player API JSON
+[info] b1u8XNihgX0: Downloading 2 format(s): 137, 251
+[info] b1u8XNihgX0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/b1u8XNihgX0.mp4
+[download] 100% of    8.70MiB in 00:00:13 at 672.14KiB/s
+[download] Destination: data/audio/b1u8XNihgX0.webm
+[download] 100% of  481.45KiB in 00:00:00 at 788.47KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=c6cf9-Yff3w
+[youtube] c6cf9-Yff3w: Downloading webpage
+[youtube] c6cf9-Yff3w: Downloading tv client config
+[youtube] c6cf9-Yff3w: Downloading player 9599b765-main
+[youtube] c6cf9-Yff3w: Downloading tv player API JSON
+[info] c6cf9-Yff3w: Downloading 2 format(s): 136, 251
+[info] c6cf9-Yff3w: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/c6cf9-Yff3w.mp4
+[download] 100% of    5.10MiB in 00:00:14 at 368.09KiB/s
+[download] Destination: data/audio/c6cf9-Yff3w.webm
+[download] 100% of  423.25KiB in 00:00:00 at 1.79MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=3iEzLW1090s
+[youtube] 3iEzLW1090s: Downloading webpage
+[youtube] 3iEzLW1090s: Downloading tv client config
+[youtube] 3iEzLW1090s: Downloading player 9599b765-main
+[youtube] 3iEzLW1090s: Downloading tv player API JSON
+[info] 3iEzLW1090s: Downloading 2 format(s): 137, 251
+[info] 3iEzLW1090s: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/3iEzLW1090s.mp4
+[download] 100% of    8.53MiB in 00:00:15 at 546.26KiB/s
+[download] Destination: data/audio/3iEzLW1090s.webm
+[download] 100% of  514.41KiB in 00:00:00 at 899.99KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=2hY_DD6g5Uc
+[youtube] 2hY_DD6g5Uc: Downloading webpage
+[youtube] 2hY_DD6g5Uc: Downloading tv client config
+[youtube] 2hY_DD6g5Uc: Downloading player 9599b765-main
+[youtube] 2hY_DD6g5Uc: Downloading tv player API JSON
+[info] 2hY_DD6g5Uc: Downloading 2 format(s): 137, 251
+[info] 2hY_DD6g5Uc: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/2hY_DD6g5Uc.mp4
+[download] 100% of   16.46MiB in 00:00:18 at 916.09KiB/s
+[download] Destination: data/audio/2hY_DD6g5Uc.webm
+[download] 100% of  485.89KiB in 00:00:00 at 2.75MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Iq2dpPKeEQs
+[youtube] Iq2dpPKeEQs: Downloading webpage
+[youtube] Iq2dpPKeEQs: Downloading tv client config
+[youtube] Iq2dpPKeEQs: Downloading player 9599b765-main
+[youtube] Iq2dpPKeEQs: Downloading tv player API JSON
+[info] Iq2dpPKeEQs: Downloading 2 format(s): 137, 251
+[info] Iq2dpPKeEQs: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/Iq2dpPKeEQs.mp4
+[download] 100% of   13.91MiB in 00:00:16 at 882.21KiB/s
+[download] Destination: data/audio/Iq2dpPKeEQs.webm
+[download] 100% of  471.99KiB in 00:00:00 at 830.32KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=9V-luYi8uLs
+[youtube] 9V-luYi8uLs: Downloading webpage
+[youtube] 9V-luYi8uLs: Downloading tv client config
+[youtube] 9V-luYi8uLs: Downloading player 9599b765-main
+[youtube] 9V-luYi8uLs: Downloading tv player API JSON
+[info] 9V-luYi8uLs: Downloading 2 format(s): 137, 251
+[info] 9V-luYi8uLs: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/9V-luYi8uLs.mp4
+[download] 100% of    9.35MiB in 00:00:00 at 11.13MiB/s
+[download] Destination: data/audio/9V-luYi8uLs.webm
+[download] 100% of  459.02KiB in 00:00:00 at 2.52MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ead8_cygRls
+[youtube] ead8_cygRls: Downloading webpage
+[youtube] ead8_cygRls: Downloading tv client config
+[youtube] ead8_cygRls: Downloading player 9599b765-main
+[youtube] ead8_cygRls: Downloading tv player API JSON
+[info] ead8_cygRls: Downloading 2 format(s): 136, 251
+[info] ead8_cygRls: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/ead8_cygRls.mp4
+[download] 100% of    5.70MiB in 00:00:02 at 2.30MiB/s
+[download] Destination: data/audio/ead8_cygRls.webm
+[download] 100% of  465.62KiB in 00:00:00 at 589.67KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=1NT_h2G89qI
+[youtube] 1NT_h2G89qI: Downloading webpage
+[youtube] 1NT_h2G89qI: Downloading tv client config
+[youtube] 1NT_h2G89qI: Downloading player 9599b765-main
+[youtube] 1NT_h2G89qI: Downloading tv player API JSON
+[info] 1NT_h2G89qI: Downloading 2 format(s): 401, 251
+[info] 1NT_h2G89qI: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/1NT_h2G89qI.mp4
+[download] 100% of   39.52MiB in 00:00:15 at 2.50MiB/s
+[download] Destination: data/audio/1NT_h2G89qI.webm
+[download] 100% of  466.03KiB in 00:00:00 at 614.41KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=QwTfR-Flwtk
+[youtube] QwTfR-Flwtk: Downloading webpage
+[youtube] QwTfR-Flwtk: Downloading tv client config
+[youtube] QwTfR-Flwtk: Downloading player 9599b765-main
+[youtube] QwTfR-Flwtk: Downloading tv player API JSON
+[info] QwTfR-Flwtk: Downloading 2 format(s): 137, 251
+[info] QwTfR-Flwtk: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/QwTfR-Flwtk.mp4
+[download] 100% of    7.44MiB in 00:00:14 at 531.59KiB/s
+[download] Destination: data/audio/QwTfR-Flwtk.webm
+[download] 100% of  450.35KiB in 00:00:00 at 899.89KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=l3UJJq4Vy9A
+[youtube] l3UJJq4Vy9A: Downloading webpage
+[youtube] l3UJJq4Vy9A: Downloading tv client config
+[youtube] l3UJJq4Vy9A: Downloading player 9599b765-main
+[youtube] l3UJJq4Vy9A: Downloading tv player API JSON
+[info] l3UJJq4Vy9A: Downloading 2 format(s): 137, 251
+[info] l3UJJq4Vy9A: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/l3UJJq4Vy9A.mp4
+[download] 100% of    6.97MiB in 00:00:18 at 381.78KiB/s
+[download] Destination: data/audio/l3UJJq4Vy9A.webm
+[download] 100% of  525.63KiB in 00:00:00 at 960.12KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ELmYFdQQ2lI
+[youtube] ELmYFdQQ2lI: Downloading webpage
+[youtube] ELmYFdQQ2lI: Downloading tv client config
+[youtube] ELmYFdQQ2lI: Downloading player 9599b765-main
+[youtube] ELmYFdQQ2lI: Downloading tv player API JSON
+[info] ELmYFdQQ2lI: Downloading 2 format(s): 137, 251
+[info] ELmYFdQQ2lI: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/ELmYFdQQ2lI.mp4
+[download] 100% of    8.98MiB in 00:00:15 at 597.72KiB/s
+[download] Destination: data/audio/ELmYFdQQ2lI.webm
+[download] 100% of  462.07KiB in 00:00:00 at 751.95KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=wCe5fBo4k4A
+[youtube] wCe5fBo4k4A: Downloading webpage
+[youtube] wCe5fBo4k4A: Downloading tv client config
+[youtube] wCe5fBo4k4A: Downloading player 9599b765-main
+[youtube] wCe5fBo4k4A: Downloading tv player API JSON
+[info] wCe5fBo4k4A: Downloading 2 format(s): 137, 251
+[info] wCe5fBo4k4A: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/wCe5fBo4k4A.mp4
+[download] 100% of    5.69MiB in 00:00:00 at 21.07MiB/s
+[download] Destination: data/audio/wCe5fBo4k4A.webm
+[download] 100% of  456.59KiB in 00:00:00 at 2.78MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=xliu9twQJDk
+[youtube] xliu9twQJDk: Downloading webpage
+[youtube] xliu9twQJDk: Downloading tv client config
+[youtube] xliu9twQJDk: Downloading player 9599b765-main
+[youtube] xliu9twQJDk: Downloading tv player API JSON
+[info] xliu9twQJDk: Downloading 2 format(s): 137, 251
+[info] xliu9twQJDk: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/xliu9twQJDk.mp4
+[download] 100% of    9.36MiB in 00:00:17 at 544.26KiB/s
+[download] Destination: data/audio/xliu9twQJDk.webm
+[download] 100% of  453.38KiB in 00:00:00 at 713.91KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=gDBJaUFV7aw
+[youtube] gDBJaUFV7aw: Downloading webpage
+[youtube] gDBJaUFV7aw: Downloading tv client config
+[youtube] gDBJaUFV7aw: Downloading player 9599b765-main
+[youtube] gDBJaUFV7aw: Downloading tv player API JSON
+[info] gDBJaUFV7aw: Downloading 2 format(s): 137, 251
+[info] gDBJaUFV7aw: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/gDBJaUFV7aw.mp4
+[download] 100% of   13.37MiB in 00:00:16 at 839.54KiB/s
+[download] Destination: data/audio/gDBJaUFV7aw.webm
+[download] 100% of  280.63KiB in 00:00:00 at 463.75KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=2fRxjh7dpEk
+[youtube] 2fRxjh7dpEk: Downloading webpage
+[youtube] 2fRxjh7dpEk: Downloading tv client config
+[youtube] 2fRxjh7dpEk: Downloading player 9599b765-main
+[youtube] 2fRxjh7dpEk: Downloading tv player API JSON
+[youtube] Extracting URL: https://www.youtube.com/watch?v=13HWkC9d2N0
+[youtube] 13HWkC9d2N0: Downloading webpage
+[youtube] 13HWkC9d2N0: Downloading tv client config
+[youtube] 13HWkC9d2N0: Downloading player 9599b765-main
+[youtube] 13HWkC9d2N0: Downloading tv player API JSON
+[info] 13HWkC9d2N0: Downloading 2 format(s): 137, 251
+[info] 13HWkC9d2N0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/13HWkC9d2N0.mp4
+[download] 100% of    7.86MiB in 00:00:14 at 540.05KiB/s
+[download] Destination: data/audio/13HWkC9d2N0.webm
+[download] 100% of  444.34KiB in 00:00:00 at 821.68KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=IWYUyJNUyGs
+[youtube] IWYUyJNUyGs: Downloading webpage
+[youtube] IWYUyJNUyGs: Downloading tv client config
+[youtube] IWYUyJNUyGs: Downloading player 9599b765-main
+[youtube] IWYUyJNUyGs: Downloading tv player API JSON
+[info] IWYUyJNUyGs: Downloading 2 format(s): 299, 251
+[info] IWYUyJNUyGs: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/IWYUyJNUyGs.mp4
+[download] 100% of   13.07MiB in 00:00:16 at 830.36KiB/s
+[download] Destination: data/audio/IWYUyJNUyGs.webm
+[download] 100% of  547.01KiB in 00:00:00 at 753.61KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=kWzjybfe-ZA
+[youtube] kWzjybfe-ZA: Downloading webpage
+[youtube] kWzjybfe-ZA: Downloading tv client config
+[youtube] kWzjybfe-ZA: Downloading player 9599b765-main
+[youtube] kWzjybfe-ZA: Downloading tv player API JSON
+[youtube] Extracting URL: https://www.youtube.com/watch?v=1IiHDfKbeWk
+[youtube] 1IiHDfKbeWk: Downloading webpage
+[youtube] 1IiHDfKbeWk: Downloading tv client config
+[youtube] 1IiHDfKbeWk: Downloading player 9599b765-main
+[youtube] 1IiHDfKbeWk: Downloading tv player API JSON
+[info] 1IiHDfKbeWk: Downloading 2 format(s): 137, 251
+[info] 1IiHDfKbeWk: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/1IiHDfKbeWk.mp4
+[download] 100% of    7.39MiB in 00:00:17 at 442.17KiB/s
+[download] Destination: data/audio/1IiHDfKbeWk.webm
+[download] 100% of  500.37KiB in 00:00:00 at 784.23KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ZnAMFaNlneU
+[youtube] ZnAMFaNlneU: Downloading webpage
+[youtube] ZnAMFaNlneU: Downloading tv client config
+[youtube] ZnAMFaNlneU: Downloading player 9599b765-main
+[youtube] ZnAMFaNlneU: Downloading tv player API JSON
+[info] ZnAMFaNlneU: Downloading 2 format(s): 137, 251
+[info] ZnAMFaNlneU: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/ZnAMFaNlneU.mp4
+[download] 100% of    8.21MiB in 00:00:16 at 514.23KiB/s
+[download] Destination: data/audio/ZnAMFaNlneU.webm
+[download] 100% of  490.38KiB in 00:00:00 at 2.69MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=JBwrY1eTajw
+[youtube] JBwrY1eTajw: Downloading webpage
+[youtube] JBwrY1eTajw: Downloading tv client config
+[youtube] JBwrY1eTajw: Downloading player 9599b765-main
+[youtube] JBwrY1eTajw: Downloading tv player API JSON
+[info] JBwrY1eTajw: Downloading 2 format(s): 299, 251
+[info] JBwrY1eTajw: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/JBwrY1eTajw.mp4
+[download] 100% of   12.39MiB in 00:00:17 at 727.86KiB/s
+[download] Destination: data/audio/JBwrY1eTajw.webm
+[download] 100% of  437.06KiB in 00:00:00 at 709.32KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=96a_agrtfnU
+[youtube] 96a_agrtfnU: Downloading webpage
+[youtube] 96a_agrtfnU: Downloading tv client config
+[youtube] 96a_agrtfnU: Downloading player 9599b765-main
+[youtube] 96a_agrtfnU: Downloading tv player API JSON
+[info] 96a_agrtfnU: Downloading 2 format(s): 137, 251
+[info] 96a_agrtfnU: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/96a_agrtfnU.mp4
+[download] 100% of    6.34MiB in 00:00:20 at 316.93KiB/s
+[download] Destination: data/audio/96a_agrtfnU.webm
+[download] 100% of  489.61KiB in 00:00:00 at 4.39MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=B1UKc8fJd0s
+[youtube] B1UKc8fJd0s: Downloading webpage
+[youtube] B1UKc8fJd0s: Downloading tv client config
+[youtube] B1UKc8fJd0s: Downloading player 9599b765-main
+[youtube] B1UKc8fJd0s: Downloading tv player API JSON
+[info] B1UKc8fJd0s: Downloading 2 format(s): 400, 251
+[info] B1UKc8fJd0s: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/B1UKc8fJd0s.mp4
+[download] 100% of    7.22MiB in 00:00:13 at 531.08KiB/s
+[download] Destination: data/audio/B1UKc8fJd0s.webm
+[download] 100% of  469.16KiB in 00:00:00 at 1.52MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=HoBOAS4PydM
+[youtube] HoBOAS4PydM: Downloading webpage
+[youtube] HoBOAS4PydM: Downloading tv client config
+[youtube] HoBOAS4PydM: Downloading player 9599b765-main
+[youtube] HoBOAS4PydM: Downloading tv player API JSON
+[info] HoBOAS4PydM: Downloading 2 format(s): 137, 251
+[info] HoBOAS4PydM: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/HoBOAS4PydM.mp4
+[download] 100% of   12.46MiB in 00:00:15 at 836.56KiB/s
+[download] Destination: data/audio/HoBOAS4PydM.webm
+[download] 100% of  363.30KiB in 00:00:00 at 1.54MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=sfGVliWxliA
+[youtube] sfGVliWxliA: Downloading webpage
+[youtube] sfGVliWxliA: Downloading tv client config
+[youtube] sfGVliWxliA: Downloading player 9599b765-main
+[youtube] sfGVliWxliA: Downloading tv player API JSON
+[info] sfGVliWxliA: Downloading 2 format(s): 137, 251
+[info] sfGVliWxliA: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/sfGVliWxliA.mp4
+[download] 100% of    4.93MiB in 00:00:04 at 1.04MiB/s
+[download] Destination: data/audio/sfGVliWxliA.webm
+[download] 100% of  506.12KiB in 00:00:00 at 2.40MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Mmi9NyvAxRs
+[youtube] Mmi9NyvAxRs: Downloading webpage
+[youtube] Mmi9NyvAxRs: Downloading tv client config
+[youtube] Mmi9NyvAxRs: Downloading player 9599b765-main
+[youtube] Mmi9NyvAxRs: Downloading tv player API JSON
+[info] Mmi9NyvAxRs: Downloading 2 format(s): 137, 251
+[info] Mmi9NyvAxRs: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/Mmi9NyvAxRs.mp4
+[download] 100% of    9.69MiB in 00:00:15 at 636.84KiB/s
+[download] Destination: data/audio/Mmi9NyvAxRs.webm
+[download] 100% of  466.72KiB in 00:00:02 at 177.91KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=LrNLPA0QNgo
+[youtube] LrNLPA0QNgo: Downloading webpage
+[youtube] LrNLPA0QNgo: Downloading tv client config
+[youtube] LrNLPA0QNgo: Downloading player 9599b765-main
+[youtube] LrNLPA0QNgo: Downloading tv player API JSON
+[info] LrNLPA0QNgo: Downloading 2 format(s): 136, 251
+[info] LrNLPA0QNgo: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/LrNLPA0QNgo.mp4
+[download] 100% of    4.37MiB in 00:00:14 at 316.99KiB/s
+[download] Destination: data/audio/LrNLPA0QNgo.webm
+[download] 100% of  446.44KiB in 00:00:00 at 825.40KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=8QoQwZkuwJs
+[youtube] 8QoQwZkuwJs: Downloading webpage
+[youtube] 8QoQwZkuwJs: Downloading tv client config
+[youtube] 8QoQwZkuwJs: Downloading player 9599b765-main
+[youtube] 8QoQwZkuwJs: Downloading tv player API JSON
+[info] 8QoQwZkuwJs: Downloading 2 format(s): 137, 251
+[info] 8QoQwZkuwJs: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/8QoQwZkuwJs.mp4
+[download] 100% of   11.72MiB in 00:00:15 at 767.74KiB/s
+[download] Destination: data/audio/8QoQwZkuwJs.webm
+[download] 100% of  495.01KiB in 00:00:00 at 822.98KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=iK_1S_4_a8A
+[youtube] iK_1S_4_a8A: Downloading webpage
+[youtube] iK_1S_4_a8A: Downloading tv client config
+[youtube] iK_1S_4_a8A: Downloading player 9599b765-main
+[youtube] iK_1S_4_a8A: Downloading tv player API JSON
+[info] iK_1S_4_a8A: Downloading 2 format(s): 137, 251
+[info] iK_1S_4_a8A: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/iK_1S_4_a8A.mp4
+[download] 100% of    8.62MiB in 00:00:17 at 507.41KiB/s
+[download] Destination: data/audio/iK_1S_4_a8A.webm
+[download] 100% of  468.81KiB in 00:00:00 at 1.03MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=0QrNnmlVqaI
+[youtube] 0QrNnmlVqaI: Downloading webpage
+[youtube] 0QrNnmlVqaI: Downloading tv client config
+[youtube] 0QrNnmlVqaI: Downloading player 9599b765-main
+[youtube] 0QrNnmlVqaI: Downloading tv player API JSON
+[info] 0QrNnmlVqaI: Downloading 2 format(s): 137, 251
+[info] 0QrNnmlVqaI: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/0QrNnmlVqaI.mp4
+[download] 100% of    5.50MiB in 00:00:16 at 345.78KiB/s
+[download] Destination: data/audio/0QrNnmlVqaI.webm
+[download] 100% of  430.98KiB in 00:00:00 at 3.77MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=IDShkZSJwlA
+[youtube] IDShkZSJwlA: Downloading webpage
+[youtube] IDShkZSJwlA: Downloading tv client config
+[youtube] IDShkZSJwlA: Downloading player 9599b765-main
+[youtube] IDShkZSJwlA: Downloading tv player API JSON
+[info] IDShkZSJwlA: Downloading 2 format(s): 137, 251
+[info] IDShkZSJwlA: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/IDShkZSJwlA.mp4
+[download] 100% of    8.84MiB in 00:00:15 at 571.59KiB/s
+[download] Destination: data/audio/IDShkZSJwlA.webm
+[download] 100% of  501.25KiB in 00:00:00 at 3.02MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=GPaIZVhYDow
+[youtube] GPaIZVhYDow: Downloading webpage
+[youtube] GPaIZVhYDow: Downloading tv client config
+[youtube] GPaIZVhYDow: Downloading player 9599b765-main
+[youtube] GPaIZVhYDow: Downloading tv player API JSON
+[info] GPaIZVhYDow: Downloading 2 format(s): 137, 251
+[info] GPaIZVhYDow: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/GPaIZVhYDow.mp4
+[download] 100% of   10.69MiB in 00:00:20 at 525.64KiB/s
+[download] Destination: data/audio/GPaIZVhYDow.webm
+[download] 100% of  555.00KiB in 00:00:00 at 1.58MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=oJ9HQV0F2C4
+[youtube] oJ9HQV0F2C4: Downloading webpage
+[youtube] oJ9HQV0F2C4: Downloading tv client config
+[youtube] oJ9HQV0F2C4: Downloading player 9599b765-main
+[youtube] oJ9HQV0F2C4: Downloading tv player API JSON
+[info] oJ9HQV0F2C4: Downloading 2 format(s): 137, 251
+[info] oJ9HQV0F2C4: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/oJ9HQV0F2C4.mp4
+[download] 100% of    3.65MiB in 00:00:11 at 318.34KiB/s
+[download] Destination: data/audio/oJ9HQV0F2C4.webm
+[download] 100% of  425.94KiB in 00:00:00 at 856.66KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=nD1lLy7pSQY
+[youtube] nD1lLy7pSQY: Downloading webpage
+[youtube] nD1lLy7pSQY: Downloading tv client config
+[youtube] nD1lLy7pSQY: Downloading player 9599b765-main
+[youtube] nD1lLy7pSQY: Downloading tv player API JSON
+[info] nD1lLy7pSQY: Downloading 2 format(s): 137, 251
+[info] nD1lLy7pSQY: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/nD1lLy7pSQY.mp4
+[download] 100% of    2.55MiB in 00:00:01 at 2.03MiB/s
+[download] Destination: data/audio/nD1lLy7pSQY.webm
+[download] 100% of  479.56KiB in 00:00:00 at 674.52KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=6SwbXKrynpk
+[youtube] 6SwbXKrynpk: Downloading webpage
+[youtube] 6SwbXKrynpk: Downloading tv client config
+[youtube] 6SwbXKrynpk: Downloading player 9599b765-main
+[youtube] 6SwbXKrynpk: Downloading tv player API JSON
+[info] 6SwbXKrynpk: Downloading 2 format(s): 137, 251
+[info] 6SwbXKrynpk: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/6SwbXKrynpk.mp4
+[download] 100% of    5.28MiB in 00:00:15 at 357.78KiB/s
+[download] Destination: data/audio/6SwbXKrynpk.webm
+[download] 100% of  448.37KiB in 00:00:00 at 793.19KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=QkaeJrBsjMs
+[youtube] QkaeJrBsjMs: Downloading webpage
+[youtube] QkaeJrBsjMs: Downloading tv client config
+[youtube] QkaeJrBsjMs: Downloading player 9599b765-main
+[youtube] QkaeJrBsjMs: Downloading tv player API JSON
+[info] QkaeJrBsjMs: Downloading 2 format(s): 136, 251
+[info] QkaeJrBsjMs: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/QkaeJrBsjMs.mp4
+[download] 100% of    3.66MiB in 00:00:12 at 288.92KiB/s
+[download] Destination: data/audio/QkaeJrBsjMs.webm
+[download] 100% of  472.58KiB in 00:00:00 at 692.45KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=BjAdRYM9iR4
+[youtube] BjAdRYM9iR4: Downloading webpage
+[youtube] BjAdRYM9iR4: Downloading tv client config
+[youtube] BjAdRYM9iR4: Downloading player 9599b765-main
+[youtube] BjAdRYM9iR4: Downloading tv player API JSON
+[info] BjAdRYM9iR4: Downloading 2 format(s): 137, 251
+[info] BjAdRYM9iR4: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/BjAdRYM9iR4.mp4
+[download] 100% of   14.14MiB in 00:00:19 at 731.84KiB/s
+[download] Destination: data/audio/BjAdRYM9iR4.webm
+[download] 100% of  472.83KiB in 00:00:00 at 2.34MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=4O5jgB6YJvI
+[youtube] 4O5jgB6YJvI: Downloading webpage
+[youtube] 4O5jgB6YJvI: Downloading tv client config
+[youtube] 4O5jgB6YJvI: Downloading player 9599b765-main
+[youtube] 4O5jgB6YJvI: Downloading tv player API JSON
+[youtube] Extracting URL: https://www.youtube.com/watch?v=is-1E1n0jMo
+[youtube] is-1E1n0jMo: Downloading webpage
+[youtube] is-1E1n0jMo: Downloading tv client config
+[youtube] is-1E1n0jMo: Downloading player 9599b765-main
+[youtube] is-1E1n0jMo: Downloading tv player API JSON
+[info] is-1E1n0jMo: Downloading 2 format(s): 299, 251
+[info] is-1E1n0jMo: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/is-1E1n0jMo.mp4
+[download] 100% of    9.91MiB in 00:00:15 at 642.13KiB/s
+[download] Destination: data/audio/is-1E1n0jMo.webm
+[download] 100% of  548.61KiB in 00:00:00 at 2.66MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=FokKTveUYHE
+[youtube] FokKTveUYHE: Downloading webpage
+[youtube] FokKTveUYHE: Downloading tv client config
+[youtube] FokKTveUYHE: Downloading player 9599b765-main
+[youtube] FokKTveUYHE: Downloading tv player API JSON
+[info] FokKTveUYHE: Downloading 2 format(s): 137, 140
+[info] FokKTveUYHE: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/FokKTveUYHE.mp4
+[download] 100% of    4.90MiB in 00:00:12 at 392.33KiB/s
+[download] Destination: data/audio/FokKTveUYHE.m4a
+[download] 100% of  474.97KiB in 00:00:00 at 857.34KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=oxcdE0VYppA
+[youtube] oxcdE0VYppA: Downloading webpage
+[youtube] oxcdE0VYppA: Downloading tv client config
+[youtube] oxcdE0VYppA: Downloading player 9599b765-main
+[youtube] oxcdE0VYppA: Downloading tv player API JSON
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ALaAVxhpthw
+[youtube] ALaAVxhpthw: Downloading webpage
+[youtube] ALaAVxhpthw: Downloading tv client config
+[youtube] ALaAVxhpthw: Downloading player 9599b765-main
+[youtube] ALaAVxhpthw: Downloading tv player API JSON
+[info] ALaAVxhpthw: Downloading 2 format(s): 136, 251
+[info] ALaAVxhpthw: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/ALaAVxhpthw.mp4
+[download] 100% of    2.69MiB in 00:00:00 at 2.76MiB/s
+[download] Destination: data/audio/ALaAVxhpthw.webm
+[download] 100% of  501.03KiB in 00:00:00 at 708.26KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=poOn1HdpEFs
+[youtube] poOn1HdpEFs: Downloading webpage
+[youtube] poOn1HdpEFs: Downloading tv client config
+[youtube] poOn1HdpEFs: Downloading player 9599b765-main
+[youtube] poOn1HdpEFs: Downloading tv player API JSON
+[info] poOn1HdpEFs: Downloading 2 format(s): 137, 251
+[info] poOn1HdpEFs: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/poOn1HdpEFs.mp4
+[download] 100% of    6.07MiB in 00:00:23 at 265.56KiB/s
+[download] Destination: data/audio/poOn1HdpEFs.webm
+[download] 100% of  511.65KiB in 00:00:00 at 1016.35KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=HNZ9iUF2tBk
+[youtube] HNZ9iUF2tBk: Downloading webpage
+[youtube] HNZ9iUF2tBk: Downloading tv client config
+[youtube] HNZ9iUF2tBk: Downloading player 9599b765-main
+[youtube] HNZ9iUF2tBk: Downloading tv player API JSON
+[info] HNZ9iUF2tBk: Downloading 2 format(s): 137, 251
+[info] HNZ9iUF2tBk: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/HNZ9iUF2tBk.mp4
+[download] 100% of   14.72MiB in 00:00:17 at 878.57KiB/s
+[download] Destination: data/audio/HNZ9iUF2tBk.webm
+[download] 100% of  442.52KiB in 00:00:00 at 952.99KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=CVVvm07C4Sk
+[youtube] CVVvm07C4Sk: Downloading webpage
+[youtube] CVVvm07C4Sk: Downloading tv client config
+[youtube] CVVvm07C4Sk: Downloading player 9599b765-main
+[youtube] CVVvm07C4Sk: Downloading tv player API JSON
+[info] CVVvm07C4Sk: Downloading 2 format(s): 137, 251
+[info] CVVvm07C4Sk: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/CVVvm07C4Sk.mp4
+[download] 100% of   13.96MiB in 00:00:19 at 720.05KiB/s
+[download] Destination: data/audio/CVVvm07C4Sk.webm
+[download] 100% of  464.83KiB in 00:00:00 at 812.34KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=yWKN9x07bVo
+[youtube] yWKN9x07bVo: Downloading webpage
+[youtube] yWKN9x07bVo: Downloading tv client config
+[youtube] yWKN9x07bVo: Downloading player 9599b765-main
+[youtube] yWKN9x07bVo: Downloading tv player API JSON
+[info] yWKN9x07bVo: Downloading 2 format(s): 137, 251
+[info] yWKN9x07bVo: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/yWKN9x07bVo.mp4
+[download] 100% of   12.28MiB in 00:00:15 at 806.22KiB/s
+[download] Destination: data/audio/yWKN9x07bVo.webm
+[download] 100% of  459.00KiB in 00:00:00 at 1.00MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=61U9L78KnAQ
+[youtube] 61U9L78KnAQ: Downloading webpage
+[youtube] 61U9L78KnAQ: Downloading tv client config
+[youtube] 61U9L78KnAQ: Downloading player 9599b765-main
+[youtube] 61U9L78KnAQ: Downloading tv player API JSON
+[info] 61U9L78KnAQ: Downloading 2 format(s): 137, 251
+[info] 61U9L78KnAQ: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/61U9L78KnAQ.mp4
+[download] 100% of    9.37MiB in 00:00:22 at 425.43KiB/s
+[download] Destination: data/audio/61U9L78KnAQ.webm
+[download] 100% of  520.40KiB in 00:00:00 at 2.48MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=IwjX701eUxU
+[youtube] IwjX701eUxU: Downloading webpage
+[youtube] IwjX701eUxU: Downloading tv client config
+[youtube] IwjX701eUxU: Downloading player 9599b765-main
+[youtube] IwjX701eUxU: Downloading tv player API JSON
+[info] IwjX701eUxU: Downloading 2 format(s): 137, 251
+[info] IwjX701eUxU: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/IwjX701eUxU.mp4
+[download] 100% of   10.96MiB in 00:00:15 at 715.05KiB/s
+[download] Destination: data/audio/IwjX701eUxU.webm
+[download] 100% of  393.86KiB in 00:00:00 at 1.87MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=o7G1gi9RPH4
+[youtube] o7G1gi9RPH4: Downloading webpage
+[youtube] o7G1gi9RPH4: Downloading tv client config
+[youtube] o7G1gi9RPH4: Downloading player 9599b765-main
+[youtube] o7G1gi9RPH4: Downloading tv player API JSON
+[info] o7G1gi9RPH4: Downloading 2 format(s): 137, 251
+[info] o7G1gi9RPH4: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/o7G1gi9RPH4.mp4
+[download] 100% of    9.39MiB in 00:00:15 at 610.44KiB/s
+[download] Destination: data/audio/o7G1gi9RPH4.webm
+[download] 100% of  447.27KiB in 00:00:00 at 1.87MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=n4WfaaJi_fQ
+[youtube] n4WfaaJi_fQ: Downloading webpage
+[youtube] n4WfaaJi_fQ: Downloading tv client config
+[youtube] n4WfaaJi_fQ: Downloading player 9599b765-main
+[youtube] n4WfaaJi_fQ: Downloading tv player API JSON
+[info] n4WfaaJi_fQ: Downloading 2 format(s): 137, 251
+[info] n4WfaaJi_fQ: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/n4WfaaJi_fQ.mp4
+[download] 100% of   10.08MiB in 00:00:14 at 725.25KiB/s
+[download] Destination: data/audio/n4WfaaJi_fQ.webm
+[download] 100% of  472.45KiB in 00:00:00 at 909.19KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=bVr43cQW1O8
+[youtube] bVr43cQW1O8: Downloading webpage
+[youtube] bVr43cQW1O8: Downloading tv client config
+[youtube] bVr43cQW1O8: Downloading player 9599b765-main
+[youtube] bVr43cQW1O8: Downloading tv player API JSON
+[info] bVr43cQW1O8: Downloading 2 format(s): 137, 251
+[info] bVr43cQW1O8: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/bVr43cQW1O8.mp4
+[download] 100% of    4.15MiB in 00:00:10 at 409.65KiB/s
+[download] Destination: data/audio/bVr43cQW1O8.webm
+[download] 100% of  499.48KiB in 00:00:00 at 535.53KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=k7hoxTrvOKk
+[youtube] k7hoxTrvOKk: Downloading webpage
+[youtube] k7hoxTrvOKk: Downloading tv client config
+[youtube] k7hoxTrvOKk: Downloading player 9599b765-main
+[youtube] k7hoxTrvOKk: Downloading tv player API JSON
+[info] k7hoxTrvOKk: Downloading 2 format(s): 137, 251
+[info] k7hoxTrvOKk: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/k7hoxTrvOKk.mp4
+[download] 100% of   12.07MiB in 00:00:15 at 773.89KiB/s
+[download] Destination: data/audio/k7hoxTrvOKk.webm
+[download] 100% of  522.46KiB in 00:00:00 at 944.99KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=giJQs67ftKQ
+[youtube] giJQs67ftKQ: Downloading webpage
+[youtube] giJQs67ftKQ: Downloading tv client config
+[youtube] giJQs67ftKQ: Downloading player 9599b765-main
+[youtube] giJQs67ftKQ: Downloading tv player API JSON
+[info] giJQs67ftKQ: Downloading 2 format(s): 137, 140
+[info] giJQs67ftKQ: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/giJQs67ftKQ.mp4
+[download] 100% of   13.92MiB in 00:00:19 at 748.25KiB/s
+[download] Destination: data/audio/giJQs67ftKQ.m4a
+[download] 100% of  475.03KiB in 00:00:00 at 1.14MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Qsq7uDqjoio
+[youtube] Qsq7uDqjoio: Downloading webpage
+[youtube] Qsq7uDqjoio: Downloading tv client config
+[youtube] Qsq7uDqjoio: Downloading player 9599b765-main
+[youtube] Qsq7uDqjoio: Downloading tv player API JSON
+[info] Qsq7uDqjoio: Downloading 2 format(s): 137, 251
+[info] Qsq7uDqjoio: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/Qsq7uDqjoio.mp4
+[download] 100% of   10.95MiB in 00:00:15 at 732.42KiB/s
+[download] Destination: data/audio/Qsq7uDqjoio.webm
+[download] 100% of  485.54KiB in 00:00:00 at 1.03MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=uuM3xlKzyG0
+[youtube] uuM3xlKzyG0: Downloading webpage
+[youtube] uuM3xlKzyG0: Downloading tv client config
+[youtube] uuM3xlKzyG0: Downloading player 9599b765-main
+[youtube] uuM3xlKzyG0: Downloading tv player API JSON
+[info] uuM3xlKzyG0: Downloading 2 format(s): 137, 251
+[info] uuM3xlKzyG0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/uuM3xlKzyG0.mp4
+[download] 100% of    6.35MiB in 00:00:17 at 367.40KiB/s
+[download] Destination: data/audio/uuM3xlKzyG0.webm
+[download] 100% of  481.77KiB in 00:00:00 at 884.23KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=D4QAClXFUGw
+[youtube] D4QAClXFUGw: Downloading webpage
+[youtube] D4QAClXFUGw: Downloading tv client config
+[youtube] D4QAClXFUGw: Downloading player 9599b765-main
+[youtube] D4QAClXFUGw: Downloading tv player API JSON
+[info] D4QAClXFUGw: Downloading 2 format(s): 137, 251
+[info] D4QAClXFUGw: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/D4QAClXFUGw.mp4
+[download] 100% of    5.53MiB in 00:00:12 at 450.85KiB/s
+[download] Destination: data/audio/D4QAClXFUGw.webm
+[download] 100% of  466.61KiB in 00:00:00 at 766.38KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=IzTSDCjd8Jw
+[youtube] IzTSDCjd8Jw: Downloading webpage
+[youtube] IzTSDCjd8Jw: Downloading tv client config
+[youtube] IzTSDCjd8Jw: Downloading player 9599b765-main
+[youtube] IzTSDCjd8Jw: Downloading tv player API JSON
+[info] IzTSDCjd8Jw: Downloading 2 format(s): 137, 251
+[info] IzTSDCjd8Jw: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/IzTSDCjd8Jw.mp4
+[download] 100% of   13.22MiB in 00:00:19 at 687.59KiB/s
+[download] Destination: data/audio/IzTSDCjd8Jw.webm
+[download] 100% of  425.53KiB in 00:00:00 at 2.04MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=NGyOELUyfII
+[youtube] NGyOELUyfII: Downloading webpage
+[youtube] NGyOELUyfII: Downloading tv client config
+[youtube] NGyOELUyfII: Downloading player 9599b765-main
+[youtube] NGyOELUyfII: Downloading tv player API JSON
+[info] NGyOELUyfII: Downloading 2 format(s): 137, 251
+[info] NGyOELUyfII: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/NGyOELUyfII.mp4
+[download] 100% of   10.90MiB in 00:00:14 at 744.30KiB/s
+[download] Destination: data/audio/NGyOELUyfII.webm
+[download] 100% of  497.26KiB in 00:00:00 at 2.72MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=zyd0XBJ_znY
+[youtube] zyd0XBJ_znY: Downloading webpage
+[youtube] zyd0XBJ_znY: Downloading tv client config
+[youtube] zyd0XBJ_znY: Downloading player 9599b765-main
+[youtube] zyd0XBJ_znY: Downloading tv player API JSON
+[info] zyd0XBJ_znY: Downloading 2 format(s): 137, 251
+[info] zyd0XBJ_znY: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/zyd0XBJ_znY.mp4
+[download] 100% of   14.41MiB in 00:00:22 at 664.43KiB/s
+[download] Destination: data/audio/zyd0XBJ_znY.webm
+[download] 100% of  517.31KiB in 00:00:00 at 610.47KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=k1f6k3BFtDY
+[youtube] k1f6k3BFtDY: Downloading webpage
+[youtube] k1f6k3BFtDY: Downloading tv client config
+[youtube] k1f6k3BFtDY: Downloading player 9599b765-main
+[youtube] k1f6k3BFtDY: Downloading tv player API JSON
+[youtube] k1f6k3BFtDY: Downloading MPD manifest
+[youtube] k1f6k3BFtDY: Downloading MPD manifest
+[info] k1f6k3BFtDY: Downloading 2 format(s): 137, 251
+[info] k1f6k3BFtDY: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/k1f6k3BFtDY.mp4
+[download] 100% of   13.37MiB in 00:00:14 at 936.98KiB/s
+[download] Destination: data/audio/k1f6k3BFtDY.webm
+[download] 100% of  365.13KiB in 00:00:00 at 1.10MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=f9TxjZmfTl8
+[youtube] f9TxjZmfTl8: Downloading webpage
+[youtube] f9TxjZmfTl8: Downloading tv client config
+[youtube] f9TxjZmfTl8: Downloading player 9599b765-main
+[youtube] f9TxjZmfTl8: Downloading tv player API JSON
+[info] f9TxjZmfTl8: Downloading 2 format(s): 137, 251
+[info] f9TxjZmfTl8: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/f9TxjZmfTl8.mp4
+[download] 100% of   10.52MiB in 00:00:19 at 561.74KiB/s
+[download] Destination: data/audio/f9TxjZmfTl8.webm
+[download] 100% of  517.18KiB in 00:00:00 at 895.78KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=5hV8zbYWi1Y
+[youtube] 5hV8zbYWi1Y: Downloading webpage
+[youtube] 5hV8zbYWi1Y: Downloading tv client config
+[youtube] 5hV8zbYWi1Y: Downloading player 9599b765-main
+[youtube] 5hV8zbYWi1Y: Downloading tv player API JSON
+[info] 5hV8zbYWi1Y: Downloading 2 format(s): 136, 251
+[info] 5hV8zbYWi1Y: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/5hV8zbYWi1Y.mp4
+[download] 100% of    6.86MiB in 00:00:17 at 407.57KiB/s
+[download] Destination: data/audio/5hV8zbYWi1Y.webm
+[download] 100% of  506.25KiB in 00:00:01 at 486.10KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=mahEy3BCwLc
+[youtube] mahEy3BCwLc: Downloading webpage
+[youtube] mahEy3BCwLc: Downloading tv client config
+[youtube] mahEy3BCwLc: Downloading player 9599b765-main
+[youtube] mahEy3BCwLc: Downloading tv player API JSON
+[info] mahEy3BCwLc: Downloading 2 format(s): 137, 251
+[info] mahEy3BCwLc: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/mahEy3BCwLc.mp4
+[download] 100% of    8.53MiB in 00:00:16 at 525.33KiB/s
+[download] Destination: data/audio/mahEy3BCwLc.webm
+[download] 100% of  524.49KiB in 00:00:00 at 778.27KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=_AfBsKmEzrM
+[youtube] _AfBsKmEzrM: Downloading webpage
+[youtube] _AfBsKmEzrM: Downloading tv client config
+[youtube] _AfBsKmEzrM: Downloading player 9599b765-main
+[youtube] _AfBsKmEzrM: Downloading tv player API JSON
+[info] _AfBsKmEzrM: Downloading 2 format(s): 137, 251
+[info] _AfBsKmEzrM: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/_AfBsKmEzrM.mp4
+[download] 100% of    7.40MiB in 00:00:12 at 629.56KiB/s
+[download] Destination: data/audio/_AfBsKmEzrM.webm
+[download] 100% of  501.29KiB in 00:00:00 at 685.41KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=rMcd6boqPNA
+[youtube] rMcd6boqPNA: Downloading webpage
+[youtube] rMcd6boqPNA: Downloading tv client config
+[youtube] rMcd6boqPNA: Downloading player 9599b765-main
+[youtube] rMcd6boqPNA: Downloading tv player API JSON
+[info] rMcd6boqPNA: Downloading 2 format(s): 136, 251
+[info] rMcd6boqPNA: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/rMcd6boqPNA.mp4
+[download] 100% of    5.07MiB in 00:00:01 at 3.97MiB/s
+[download] Destination: data/audio/rMcd6boqPNA.webm
+[download] 100% of  544.89KiB in 00:00:00 at 895.97KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=SOGxh7M51E0
+[youtube] SOGxh7M51E0: Downloading webpage
+[youtube] SOGxh7M51E0: Downloading tv client config
+[youtube] SOGxh7M51E0: Downloading player 9599b765-main
+[youtube] SOGxh7M51E0: Downloading tv player API JSON
+[info] SOGxh7M51E0: Downloading 2 format(s): 137, 251
+[info] SOGxh7M51E0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/SOGxh7M51E0.mp4
+[download] 100% of    6.18MiB in 00:00:01 at 4.68MiB/s
+[download] Destination: data/audio/SOGxh7M51E0.webm
+[download] 100% of  504.67KiB in 00:00:00 at 769.39KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=NtrHU5xM0io
+[youtube] NtrHU5xM0io: Downloading webpage
+[youtube] NtrHU5xM0io: Downloading tv client config
+[youtube] NtrHU5xM0io: Downloading player 9599b765-main
+[youtube] NtrHU5xM0io: Downloading tv player API JSON
+[youtube] Extracting URL: https://www.youtube.com/watch?v=e1mIQBdALrY
+[youtube] e1mIQBdALrY: Downloading webpage
+[youtube] e1mIQBdALrY: Downloading tv client config
+[youtube] e1mIQBdALrY: Downloading player 9599b765-main
+[youtube] e1mIQBdALrY: Downloading tv player API JSON
+[youtube] Extracting URL: https://www.youtube.com/watch?v=9PjnksaEjpw
+[youtube] 9PjnksaEjpw: Downloading webpage
+[youtube] 9PjnksaEjpw: Downloading tv client config
+[youtube] 9PjnksaEjpw: Downloading player 9599b765-main
+[youtube] 9PjnksaEjpw: Downloading tv player API JSON
+[info] 9PjnksaEjpw: Downloading 2 format(s): 137, 140
+[info] 9PjnksaEjpw: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/9PjnksaEjpw.mp4
+[download] 100% of    5.17MiB in 00:00:10 at 516.65KiB/s
+[download] Destination: data/audio/9PjnksaEjpw.m4a
+[download] 100% of  474.61KiB in 00:00:00 at 660.67KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=-JiWnGQgKNk
+[youtube] -JiWnGQgKNk: Downloading webpage
+[youtube] -JiWnGQgKNk: Downloading tv client config
+[youtube] -JiWnGQgKNk: Downloading player 9599b765-main
+[youtube] -JiWnGQgKNk: Downloading tv player API JSON
+[info] -JiWnGQgKNk: Downloading 2 format(s): 399, 251
+[info] -JiWnGQgKNk: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/-JiWnGQgKNk.mp4
+[download] 100% of    3.79MiB in 00:00:13 at 279.82KiB/s
+[download] Destination: data/audio/-JiWnGQgKNk.webm
+[download] 100% of  477.92KiB in 00:00:00 at 3.38MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=1acN28HPHfI
+[youtube] 1acN28HPHfI: Downloading webpage
+[youtube] 1acN28HPHfI: Downloading tv client config
+[youtube] 1acN28HPHfI: Downloading player 9599b765-main
+[youtube] 1acN28HPHfI: Downloading tv player API JSON
+[info] 1acN28HPHfI: Downloading 2 format(s): 137, 251
+[info] 1acN28HPHfI: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/1acN28HPHfI.mp4
+[download] 100% of    6.62MiB in 00:00:09 at 705.08KiB/s
+[download] Destination: data/audio/1acN28HPHfI.webm
+[download] 100% of  449.72KiB in 00:00:00 at 778.35KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=usKZKs78pRY
+[youtube] usKZKs78pRY: Downloading webpage
+[youtube] usKZKs78pRY: Downloading tv client config
+[youtube] usKZKs78pRY: Downloading player 9599b765-main
+[youtube] usKZKs78pRY: Downloading tv player API JSON
+[youtube] usKZKs78pRY: Downloading MPD manifest
+[youtube] usKZKs78pRY: Downloading MPD manifest
+[info] usKZKs78pRY: Downloading 2 format(s): 137, 251
+[info] usKZKs78pRY: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/usKZKs78pRY.mp4
+[download] 100% of    6.89MiB in 00:00:15 at 460.56KiB/s
+[download] Destination: data/audio/usKZKs78pRY.webm
+[download] 100% of  398.79KiB in 00:00:00 at 433.32KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=CtsFj_P7CgQ
+[youtube] CtsFj_P7CgQ: Downloading webpage
+[youtube] CtsFj_P7CgQ: Downloading tv client config
+[youtube] CtsFj_P7CgQ: Downloading player 9599b765-main
+[youtube] CtsFj_P7CgQ: Downloading tv player API JSON
+[info] CtsFj_P7CgQ: Downloading 2 format(s): 137, 251
+[info] CtsFj_P7CgQ: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/CtsFj_P7CgQ.mp4
+[download] 100% of    1.77MiB in 00:00:00 at 2.38MiB/s
+[download] Destination: data/audio/CtsFj_P7CgQ.webm
+[download] 100% of  467.51KiB in 00:00:00 at 856.61KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=UObw8kCaVLo
+[youtube] UObw8kCaVLo: Downloading webpage
+[youtube] UObw8kCaVLo: Downloading tv client config
+[youtube] UObw8kCaVLo: Downloading player 9599b765-main
+[youtube] UObw8kCaVLo: Downloading tv player API JSON
+[info] UObw8kCaVLo: Downloading 2 format(s): 137, 251
+[info] UObw8kCaVLo: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/UObw8kCaVLo.mp4
+[download] 100% of    6.57MiB in 00:00:18 at 363.69KiB/s
+[download] Destination: data/audio/UObw8kCaVLo.webm
+[download] 100% of  545.96KiB in 00:00:00 at 925.31KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=y1BKdfOUFBA
+[youtube] y1BKdfOUFBA: Downloading webpage
+[youtube] y1BKdfOUFBA: Downloading tv client config
+[youtube] y1BKdfOUFBA: Downloading player 9599b765-main
+[youtube] y1BKdfOUFBA: Downloading tv player API JSON
+[info] y1BKdfOUFBA: Downloading 2 format(s): 137, 251
+[info] y1BKdfOUFBA: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/y1BKdfOUFBA.mp4
+[download] 100% of    4.76MiB in 00:00:16 at 295.57KiB/s
+[download] Destination: data/audio/y1BKdfOUFBA.webm
+[download] 100% of  438.74KiB in 00:00:00 at 678.29KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=lpk-SgYa7tw
+[youtube] lpk-SgYa7tw: Downloading webpage
+[youtube] lpk-SgYa7tw: Downloading tv client config
+[youtube] lpk-SgYa7tw: Downloading player 9599b765-main
+[youtube] lpk-SgYa7tw: Downloading tv player API JSON
+[info] lpk-SgYa7tw: Downloading 2 format(s): 137, 251
+[info] lpk-SgYa7tw: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/lpk-SgYa7tw.mp4
+[download] 100% of    7.12MiB in 00:00:16 at 442.88KiB/s
+[download] Destination: data/audio/lpk-SgYa7tw.webm
+[download] 100% of  409.86KiB in 00:00:00 at 670.49KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=dZywhFFTRDE
+[youtube] dZywhFFTRDE: Downloading webpage
+[youtube] dZywhFFTRDE: Downloading tv client config
+[youtube] dZywhFFTRDE: Downloading player 9599b765-main
+[youtube] dZywhFFTRDE: Downloading tv player API JSON
+[info] dZywhFFTRDE: Downloading 2 format(s): 137, 140
+[info] dZywhFFTRDE: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/dZywhFFTRDE.mp4
+[download] 100% of    6.49MiB in 00:00:12 at 513.22KiB/s
+[download] Destination: data/audio/dZywhFFTRDE.m4a
+[download] 100% of  475.06KiB in 00:00:00 at 616.79KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=TMpMaWdfVZ0
+[youtube] TMpMaWdfVZ0: Downloading webpage
+[youtube] TMpMaWdfVZ0: Downloading tv client config
+[youtube] TMpMaWdfVZ0: Downloading player 9599b765-main
+[youtube] TMpMaWdfVZ0: Downloading tv player API JSON
+[info] TMpMaWdfVZ0: Downloading 2 format(s): 136, 251
+[info] TMpMaWdfVZ0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/TMpMaWdfVZ0.mp4
+[download] 100% of    7.05MiB in 00:00:16 at 438.94KiB/s
+[download] Destination: data/audio/TMpMaWdfVZ0.webm
+[download] 100% of  436.85KiB in 00:00:00 at 3.12MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=HbJxeD7Iqrk
+[youtube] HbJxeD7Iqrk: Downloading webpage
+[youtube] HbJxeD7Iqrk: Downloading tv client config
+[youtube] HbJxeD7Iqrk: Downloading player 9599b765-main
+[youtube] HbJxeD7Iqrk: Downloading tv player API JSON
+[info] HbJxeD7Iqrk: Downloading 2 format(s): 137, 251
+[info] HbJxeD7Iqrk: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/HbJxeD7Iqrk.mp4
+[download] 100% of    9.81MiB in 00:00:14 at 684.94KiB/s
+[download] Destination: data/audio/HbJxeD7Iqrk.webm
+[download] 100% of  492.53KiB in 00:00:00 at 1.21MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=nTyUhRYSVU4
+[youtube] nTyUhRYSVU4: Downloading webpage
+[youtube] nTyUhRYSVU4: Downloading tv client config
+[youtube] nTyUhRYSVU4: Downloading player 9599b765-main
+[youtube] nTyUhRYSVU4: Downloading tv player API JSON
+[info] nTyUhRYSVU4: Downloading 2 format(s): 137, 251
+[info] nTyUhRYSVU4: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/nTyUhRYSVU4.mp4
+[download] 100% of    9.16MiB in 00:00:15 at 614.24KiB/s
+[download] Destination: data/audio/nTyUhRYSVU4.webm
+[download] 100% of  492.89KiB in 00:00:00 at 848.09KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=D82_nljxdoQ
+[youtube] D82_nljxdoQ: Downloading webpage
+[youtube] D82_nljxdoQ: Downloading tv client config
+[youtube] D82_nljxdoQ: Downloading player 9599b765-main
+[youtube] D82_nljxdoQ: Downloading tv player API JSON
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Mt6KQasj9yQ
+[youtube] Mt6KQasj9yQ: Downloading webpage
+[youtube] Mt6KQasj9yQ: Downloading tv client config
+[youtube] Mt6KQasj9yQ: Downloading player 9599b765-main
+[youtube] Mt6KQasj9yQ: Downloading tv player API JSON
+[info] Mt6KQasj9yQ: Downloading 2 format(s): 137, 251
+[info] Mt6KQasj9yQ: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/Mt6KQasj9yQ.mp4
+[download] 100% of    6.02MiB in 00:00:17 at 349.49KiB/s
+[download] Destination: data/audio/Mt6KQasj9yQ.webm
+[download] 100% of  455.96KiB in 00:00:00 at 546.49KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=9XqDGddttpk
+[youtube] 9XqDGddttpk: Downloading webpage
+[youtube] 9XqDGddttpk: Downloading tv client config
+[youtube] 9XqDGddttpk: Downloading player 9599b765-main
+[youtube] 9XqDGddttpk: Downloading tv player API JSON
+[info] 9XqDGddttpk: Downloading 2 format(s): 137, 251
+[info] 9XqDGddttpk: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/9XqDGddttpk.mp4
+[download] 100% of    3.80MiB in 00:00:01 at 3.53MiB/s
+[download] Destination: data/audio/9XqDGddttpk.webm
+[download] 100% of  514.53KiB in 00:00:00 at 566.06KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=6PfGfak5o2g
+[youtube] 6PfGfak5o2g: Downloading webpage
+[youtube] 6PfGfak5o2g: Downloading tv client config
+[youtube] 6PfGfak5o2g: Downloading player 9599b765-main
+[youtube] 6PfGfak5o2g: Downloading tv player API JSON
+[info] 6PfGfak5o2g: Downloading 2 format(s): 137, 251
+[info] 6PfGfak5o2g: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/6PfGfak5o2g.mp4
+[download] 100% of    4.17MiB in 00:00:10 at 426.57KiB/s
+[download] Destination: data/audio/6PfGfak5o2g.webm
+[download] 100% of  478.81KiB in 00:00:00 at 485.72KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=PzP6NX6y2CI
+[youtube] PzP6NX6y2CI: Downloading webpage
+[youtube] PzP6NX6y2CI: Downloading tv client config
+[youtube] PzP6NX6y2CI: Downloading player 9599b765-main
+[youtube] PzP6NX6y2CI: Downloading tv player API JSON
+[info] PzP6NX6y2CI: Downloading 2 format(s): 137, 140
+[info] PzP6NX6y2CI: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/PzP6NX6y2CI.mp4
+[download] 100% of    9.81MiB in 00:00:14 at 687.59KiB/s
+[download] Destination: data/audio/PzP6NX6y2CI.m4a
+[download] 100% of  474.70KiB in 00:00:00 at 905.59KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=aCFK6zKhk-E
+[youtube] aCFK6zKhk-E: Downloading webpage
+[youtube] aCFK6zKhk-E: Downloading tv client config
+[youtube] aCFK6zKhk-E: Downloading player 9599b765-main
+[youtube] aCFK6zKhk-E: Downloading tv player API JSON
+[youtube] aCFK6zKhk-E: Downloading MPD manifest
+[youtube] aCFK6zKhk-E: Downloading MPD manifest
+[info] aCFK6zKhk-E: Downloading 2 format(s): 137, 251
+[info] aCFK6zKhk-E: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/aCFK6zKhk-E.mp4
+[download] 100% of    6.16MiB in 00:00:17 at 367.50KiB/s
+[download] Destination: data/audio/aCFK6zKhk-E.webm
+[download] 100% of  487.49KiB in 00:00:00 at 806.37KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=kFyiTqVnQgk
+[youtube] kFyiTqVnQgk: Downloading webpage
+[youtube] kFyiTqVnQgk: Downloading tv client config
+[youtube] kFyiTqVnQgk: Downloading player 9599b765-main
+[youtube] kFyiTqVnQgk: Downloading tv player API JSON
+[info] kFyiTqVnQgk: Downloading 2 format(s): 299, 251
+[info] kFyiTqVnQgk: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/kFyiTqVnQgk.mp4
+[download] 100% of   16.82MiB in 00:00:16 at 1.01MiB/s
+[download] Destination: data/audio/kFyiTqVnQgk.webm
+[download] 100% of  536.26KiB in 00:00:00 at 1.22MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=8YEJy-BSK98
+[youtube] 8YEJy-BSK98: Downloading webpage
+[youtube] 8YEJy-BSK98: Downloading tv client config
+[youtube] 8YEJy-BSK98: Downloading player 9599b765-main
+[youtube] 8YEJy-BSK98: Downloading tv player API JSON
+[info] 8YEJy-BSK98: Downloading 2 format(s): 137, 251
+[info] 8YEJy-BSK98: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/8YEJy-BSK98.mp4
+[download] 100% of   10.66MiB in 00:00:20 at 538.01KiB/s
+[download] Destination: data/audio/8YEJy-BSK98.webm
+[download] 100% of  702.33KiB in 00:00:00 at 3.25MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=pWTf-oWji64
+[youtube] pWTf-oWji64: Downloading webpage
+[youtube] pWTf-oWji64: Downloading tv client config
+[youtube] pWTf-oWji64: Downloading player 9599b765-main
+[youtube] pWTf-oWji64: Downloading tv player API JSON
+[info] pWTf-oWji64: Downloading 2 format(s): 299, 251
+[info] pWTf-oWji64: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/pWTf-oWji64.mp4
+[download] 100% of    9.61MiB in 00:00:11 at 877.45KiB/s
+[download] Destination: data/audio/pWTf-oWji64.webm
+[download] 100% of  460.57KiB in 00:00:00 at 766.48KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=P3gJlITOOT8
+[youtube] P3gJlITOOT8: Downloading webpage
+[youtube] P3gJlITOOT8: Downloading tv client config
+[youtube] P3gJlITOOT8: Downloading player 9599b765-main
+[youtube] P3gJlITOOT8: Downloading tv player API JSON
+[info] P3gJlITOOT8: Downloading 2 format(s): 137, 251
+[info] P3gJlITOOT8: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/P3gJlITOOT8.mp4
+[download] 100% of    5.15MiB in 00:00:15 at 346.99KiB/s
+[download] Destination: data/audio/P3gJlITOOT8.webm
+[download] 100% of  462.39KiB in 00:00:00 at 2.63MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=hF39nh9ljik
+[youtube] hF39nh9ljik: Downloading webpage
+[youtube] hF39nh9ljik: Downloading tv client config
+[youtube] hF39nh9ljik: Downloading player 9599b765-main
+[youtube] hF39nh9ljik: Downloading tv player API JSON
+[info] hF39nh9ljik: Downloading 2 format(s): 137, 251
+[info] hF39nh9ljik: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/hF39nh9ljik.mp4
+[download] 100% of    8.15MiB in 00:00:12 at 688.57KiB/s
+[download] Destination: data/audio/hF39nh9ljik.webm
+[download] 100% of  509.63KiB in 00:00:00 at 2.93MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=BscrKlBmLjQ
+[youtube] BscrKlBmLjQ: Downloading webpage
+[youtube] BscrKlBmLjQ: Downloading tv client config
+[youtube] BscrKlBmLjQ: Downloading player 9599b765-main
+[youtube] BscrKlBmLjQ: Downloading tv player API JSON
+[info] BscrKlBmLjQ: Downloading 2 format(s): 399, 251
+[info] BscrKlBmLjQ: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/BscrKlBmLjQ.mp4
+[download] 100% of    4.06MiB in 00:00:14 at 284.00KiB/s
+[download] Destination: data/audio/BscrKlBmLjQ.webm
+[download] 100% of  468.97KiB in 00:00:00 at 491.97KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=msLpJNpLHX0
+[youtube] msLpJNpLHX0: Downloading webpage
+[youtube] msLpJNpLHX0: Downloading tv client config
+[youtube] msLpJNpLHX0: Downloading player 9599b765-main
+[youtube] msLpJNpLHX0: Downloading tv player API JSON
+[info] msLpJNpLHX0: Downloading 2 format(s): 136, 251
+[info] msLpJNpLHX0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/msLpJNpLHX0.mp4
+[download] 100% of    2.46MiB in 00:00:11 at 213.58KiB/s
+[download] Destination: data/audio/msLpJNpLHX0.webm
+[download] 100% of  475.32KiB in 00:00:00 at 820.32KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=v91oyDCf1Go
+[youtube] v91oyDCf1Go: Downloading webpage
+[youtube] v91oyDCf1Go: Downloading tv client config
+[youtube] v91oyDCf1Go: Downloading player 9599b765-main
+[youtube] v91oyDCf1Go: Downloading tv player API JSON
+[info] v91oyDCf1Go: Downloading 2 format(s): 137, 251
+[info] v91oyDCf1Go: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/v91oyDCf1Go.mp4
+[download] 100% of   11.80MiB in 00:00:17 at 693.36KiB/s
+[download] Destination: data/audio/v91oyDCf1Go.webm
+[download] 100% of  478.36KiB in 00:00:00 at 773.88KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=rk3yUJRW5H4
+[youtube] rk3yUJRW5H4: Downloading webpage
+[youtube] rk3yUJRW5H4: Downloading tv client config
+[youtube] rk3yUJRW5H4: Downloading player 9599b765-main
+[youtube] rk3yUJRW5H4: Downloading tv player API JSON
+[info] rk3yUJRW5H4: Downloading 2 format(s): 137, 251
+[info] rk3yUJRW5H4: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/rk3yUJRW5H4.mp4
+[download] 100% of   13.67MiB in 00:00:19 at 723.38KiB/s
+[download] Destination: data/audio/rk3yUJRW5H4.webm
+[download] 100% of  514.43KiB in 00:00:00 at 1.83MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=8J7DIBvguTk
+[youtube] 8J7DIBvguTk: Downloading webpage
+[youtube] 8J7DIBvguTk: Downloading tv client config
+[youtube] 8J7DIBvguTk: Downloading player 9599b765-main
+[youtube] 8J7DIBvguTk: Downloading tv player API JSON
+[info] 8J7DIBvguTk: Downloading 2 format(s): 136, 251
+[info] 8J7DIBvguTk: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/8J7DIBvguTk.mp4
+[download] 100% of    3.60MiB in 00:00:00 at 13.68MiB/s
+[download] Destination: data/audio/8J7DIBvguTk.webm
+[download] 100% of  467.86KiB in 00:00:00 at 1.04MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=TEgrH93KLgY
+[youtube] TEgrH93KLgY: Downloading webpage
+[youtube] TEgrH93KLgY: Downloading tv client config
+[youtube] TEgrH93KLgY: Downloading player 9599b765-main
+[youtube] TEgrH93KLgY: Downloading tv player API JSON
+[info] TEgrH93KLgY: Downloading 2 format(s): 137, 251
+[info] TEgrH93KLgY: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/TEgrH93KLgY.mp4
+[download] 100% of    6.18MiB in 00:00:16 at 381.56KiB/s
+[download] Destination: data/audio/TEgrH93KLgY.webm
+[download] 100% of  479.64KiB in 00:00:00 at 2.31MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=YJhPVYaAVco
+[youtube] YJhPVYaAVco: Downloading webpage
+[youtube] YJhPVYaAVco: Downloading tv client config
+[youtube] YJhPVYaAVco: Downloading player 9599b765-main
+[youtube] YJhPVYaAVco: Downloading tv player API JSON
+[info] YJhPVYaAVco: Downloading 2 format(s): 136, 140
+[info] YJhPVYaAVco: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/YJhPVYaAVco.mp4
+[download] 100% of    4.73MiB in 00:00:16 at 285.26KiB/s
+[download] Destination: data/audio/YJhPVYaAVco.m4a
+[download] 100% of  475.05KiB in 00:00:00 at 554.61KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=BJiS1WOvY8o
+[youtube] BJiS1WOvY8o: Downloading webpage
+[youtube] BJiS1WOvY8o: Downloading tv client config
+[youtube] BJiS1WOvY8o: Downloading player 9599b765-main
+[youtube] BJiS1WOvY8o: Downloading tv player API JSON
+[info] BJiS1WOvY8o: Downloading 2 format(s): 298, 251
+[info] BJiS1WOvY8o: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/BJiS1WOvY8o.mp4
+[download] 100% of    3.72MiB in 00:00:09 at 396.92KiB/s
+[download] Destination: data/audio/BJiS1WOvY8o.webm
+[download] 100% of  454.03KiB in 00:00:00 at 2.02MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=IFhJ48qfAEg
+[youtube] IFhJ48qfAEg: Downloading webpage
+[youtube] IFhJ48qfAEg: Downloading tv client config
+[youtube] IFhJ48qfAEg: Downloading player 9599b765-main
+[youtube] IFhJ48qfAEg: Downloading tv player API JSON
+[info] IFhJ48qfAEg: Downloading 2 format(s): 137, 140
+[info] IFhJ48qfAEg: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/IFhJ48qfAEg.mp4
+[download] 100% of    8.59MiB in 00:00:16 at 526.08KiB/s
+[download] Destination: data/audio/IFhJ48qfAEg.m4a
+[download] 100% of  474.80KiB in 00:00:00 at 870.14KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=rCYAjkwZcd0
+[youtube] rCYAjkwZcd0: Downloading webpage
+[youtube] rCYAjkwZcd0: Downloading tv client config
+[youtube] rCYAjkwZcd0: Downloading player 9599b765-main
+[youtube] rCYAjkwZcd0: Downloading tv player API JSON
+[info] rCYAjkwZcd0: Downloading 2 format(s): 137, 251
+[info] rCYAjkwZcd0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/rCYAjkwZcd0.mp4
+[download] 100% of    3.50MiB in 00:00:15 at 234.72KiB/s
+[download] Destination: data/audio/rCYAjkwZcd0.webm
+[download] 100% of  446.46KiB in 00:00:00 at 764.69KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=D3WiOIPrgg0
+[youtube] D3WiOIPrgg0: Downloading webpage
+[youtube] D3WiOIPrgg0: Downloading tv client config
+[youtube] D3WiOIPrgg0: Downloading player 9599b765-main
+[youtube] D3WiOIPrgg0: Downloading tv player API JSON
+[info] D3WiOIPrgg0: Downloading 2 format(s): 137, 251
+[info] D3WiOIPrgg0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/D3WiOIPrgg0.mp4
+[download] 100% of    4.05MiB in 00:00:11 at 366.14KiB/s
+[download] Destination: data/audio/D3WiOIPrgg0.webm
+[download] 100% of  403.50KiB in 00:00:00 at 740.74KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=wxSecn55IS8
+[youtube] wxSecn55IS8: Downloading webpage
+[youtube] wxSecn55IS8: Downloading tv client config
+[youtube] wxSecn55IS8: Downloading player 9599b765-main
+[youtube] wxSecn55IS8: Downloading tv player API JSON
+[info] wxSecn55IS8: Downloading 2 format(s): 137, 251
+[info] wxSecn55IS8: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/wxSecn55IS8.mp4
+[download] 100% of    6.99MiB in 00:00:15 at 466.00KiB/s
+[download] Destination: data/audio/wxSecn55IS8.webm
+[download] 100% of  398.87KiB in 00:00:00 at 898.87KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=lOxlIf5_Ip0
+[youtube] lOxlIf5_Ip0: Downloading webpage
+[youtube] lOxlIf5_Ip0: Downloading tv client config
+[youtube] lOxlIf5_Ip0: Downloading player 9599b765-main
+[youtube] lOxlIf5_Ip0: Downloading tv player API JSON
+[info] lOxlIf5_Ip0: Downloading 2 format(s): 137, 251
+[info] lOxlIf5_Ip0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/lOxlIf5_Ip0.mp4
+[download] 100% of    8.97MiB in 00:00:16 at 554.32KiB/s
+[download] Destination: data/audio/lOxlIf5_Ip0.webm
+[download] 100% of  510.28KiB in 00:00:00 at 1.07MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ofDzl8gx9-g
+[youtube] ofDzl8gx9-g: Downloading webpage
+[youtube] ofDzl8gx9-g: Downloading tv client config
+[youtube] ofDzl8gx9-g: Downloading player 9599b765-main
+[youtube] ofDzl8gx9-g: Downloading tv player API JSON
+[info] ofDzl8gx9-g: Downloading 2 format(s): 399, 251
+[info] ofDzl8gx9-g: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/ofDzl8gx9-g.mp4
+[download] 100% of    4.00MiB in 00:00:20 at 200.20KiB/s
+[download] Destination: data/audio/ofDzl8gx9-g.webm
+[download] 100% of  485.83KiB in 00:00:00 at 2.25MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=F21wSLZTbN8
+[youtube] F21wSLZTbN8: Downloading webpage
+[youtube] F21wSLZTbN8: Downloading tv client config
+[youtube] F21wSLZTbN8: Downloading player 9599b765-main
+[youtube] F21wSLZTbN8: Downloading tv player API JSON
+[info] F21wSLZTbN8: Downloading 2 format(s): 137, 251
+[info] F21wSLZTbN8: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/F21wSLZTbN8.mp4
+[download] 100% of   12.24MiB in 00:00:16 at 757.09KiB/s
+[download] Destination: data/audio/F21wSLZTbN8.webm
+[download] 100% of  392.13KiB in 00:00:00 at 1.71MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=-n0FfGr4Vw0
+[youtube] -n0FfGr4Vw0: Downloading webpage
+[youtube] -n0FfGr4Vw0: Downloading tv client config
+[youtube] -n0FfGr4Vw0: Downloading player 9599b765-main
+[youtube] -n0FfGr4Vw0: Downloading tv player API JSON
+[info] -n0FfGr4Vw0: Downloading 2 format(s): 137, 251
+[info] -n0FfGr4Vw0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/-n0FfGr4Vw0.mp4
+[download] 100% of    7.12MiB in 00:00:18 at 400.18KiB/s
+[download] Destination: data/audio/-n0FfGr4Vw0.webm
+[download] 100% of  426.05KiB in 00:00:00 at 559.22KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=nmazRNQ4EkI
+[youtube] nmazRNQ4EkI: Downloading webpage
+[youtube] nmazRNQ4EkI: Downloading tv client config
+[youtube] nmazRNQ4EkI: Downloading player 9599b765-main
+[youtube] nmazRNQ4EkI: Downloading tv player API JSON
+[info] nmazRNQ4EkI: Downloading 2 format(s): 399, 251
+[info] nmazRNQ4EkI: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/nmazRNQ4EkI.mp4
+[download] 100% of    3.31MiB in 00:00:00 at 4.39MiB/s
+[download] Destination: data/audio/nmazRNQ4EkI.webm
+[download] 100% of  496.43KiB in 00:00:00 at 973.82KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=KjTICkm1KY0
+[youtube] KjTICkm1KY0: Downloading webpage
+[youtube] KjTICkm1KY0: Downloading tv client config
+[youtube] KjTICkm1KY0: Downloading player 9599b765-main
+[youtube] KjTICkm1KY0: Downloading tv player API JSON
+[info] KjTICkm1KY0: Downloading 2 format(s): 136, 251
+[info] KjTICkm1KY0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/KjTICkm1KY0.mp4
+[download] 100% of    4.44MiB in 00:00:01 at 2.40MiB/s
+[download] Destination: data/audio/KjTICkm1KY0.webm
+[download] 100% of  513.02KiB in 00:00:00 at 716.42KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=EWA4UdzcEYA
+[youtube] EWA4UdzcEYA: Downloading webpage
+[youtube] EWA4UdzcEYA: Downloading tv client config
+[youtube] EWA4UdzcEYA: Downloading player 9599b765-main
+[youtube] EWA4UdzcEYA: Downloading tv player API JSON
+[info] EWA4UdzcEYA: Downloading 2 format(s): 137, 251
+[info] EWA4UdzcEYA: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/EWA4UdzcEYA.mp4
+[download] 100% of   10.29MiB in 00:00:20 at 507.61KiB/s
+[download] Destination: data/audio/EWA4UdzcEYA.webm
+[download] 100% of  483.30KiB in 00:00:00 at 894.54KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=7pCUbjqzQE8
+[youtube] 7pCUbjqzQE8: Downloading webpage
+[youtube] 7pCUbjqzQE8: Downloading tv client config
+[youtube] 7pCUbjqzQE8: Downloading player 9599b765-main
+[youtube] 7pCUbjqzQE8: Downloading tv player API JSON
+[info] 7pCUbjqzQE8: Downloading 2 format(s): 137, 251
+[info] 7pCUbjqzQE8: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/7pCUbjqzQE8.mp4
+[download] 100% of   10.09MiB in 00:00:13 at 741.38KiB/s
+[download] Destination: data/audio/7pCUbjqzQE8.webm
+[download] 100% of  451.01KiB in 00:00:00 at 1.92MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=sI1CPcbuHMA
+[youtube] sI1CPcbuHMA: Downloading webpage
+[youtube] sI1CPcbuHMA: Downloading tv client config
+[youtube] sI1CPcbuHMA: Downloading player 9599b765-main
+[youtube] sI1CPcbuHMA: Downloading tv player API JSON
+[info] sI1CPcbuHMA: Downloading 2 format(s): 137, 251
+[info] sI1CPcbuHMA: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/sI1CPcbuHMA.mp4
+[download] 100% of    6.04MiB in 00:00:16 at 366.57KiB/s
+[download] Destination: data/audio/sI1CPcbuHMA.webm
+[download] 100% of  430.62KiB in 00:00:00 at 693.25KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=GotLdLEkaEI
+[youtube] GotLdLEkaEI: Downloading webpage
+[youtube] GotLdLEkaEI: Downloading tv client config
+[youtube] GotLdLEkaEI: Downloading player 9599b765-main
+[youtube] GotLdLEkaEI: Downloading tv player API JSON
+[info] GotLdLEkaEI: Downloading 2 format(s): 137, 251
+[info] GotLdLEkaEI: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/GotLdLEkaEI.mp4
+[download] 100% of    8.11MiB in 00:00:02 at 2.97MiB/s
+[download] Destination: data/audio/GotLdLEkaEI.webm
+[download] 100% of  489.08KiB in 00:00:00 at 1.20MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=q2xOtZoUSjU
+[youtube] q2xOtZoUSjU: Downloading webpage
+[youtube] q2xOtZoUSjU: Downloading tv client config
+[youtube] q2xOtZoUSjU: Downloading player 9599b765-main
+[youtube] q2xOtZoUSjU: Downloading tv player API JSON
+[info] q2xOtZoUSjU: Downloading 2 format(s): 137, 251
+[info] q2xOtZoUSjU: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/q2xOtZoUSjU.mp4
+[download] 100% of    5.35MiB in 00:00:21 at 258.81KiB/s
+[download] Destination: data/audio/q2xOtZoUSjU.webm
+[download] 100% of  395.78KiB in 00:00:00 at 1.97MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=vHDPPosB2Z0
+[youtube] vHDPPosB2Z0: Downloading webpage
+[youtube] vHDPPosB2Z0: Downloading tv client config
+[youtube] vHDPPosB2Z0: Downloading player 9599b765-main
+[youtube] vHDPPosB2Z0: Downloading tv player API JSON
+[info] vHDPPosB2Z0: Downloading 2 format(s): 136, 251
+[info] vHDPPosB2Z0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/vHDPPosB2Z0.mp4
+[download] 100% of    3.72MiB in 00:00:13 at 280.81KiB/s
+[download] Destination: data/audio/vHDPPosB2Z0.webm
+[download] 100% of  411.99KiB in 00:00:00 at 586.17KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=5ysdEFhH0oo
+[youtube] 5ysdEFhH0oo: Downloading webpage
+[youtube] 5ysdEFhH0oo: Downloading tv client config
+[youtube] 5ysdEFhH0oo: Downloading player 9599b765-main
+[youtube] 5ysdEFhH0oo: Downloading tv player API JSON
+[info] 5ysdEFhH0oo: Downloading 2 format(s): 299, 251
+[info] 5ysdEFhH0oo: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/5ysdEFhH0oo.mp4
+[download] 100% of    7.69MiB in 00:00:16 at 468.23KiB/s
+[download] Destination: data/audio/5ysdEFhH0oo.webm
+[download] 100% of  493.74KiB in 00:00:00 at 1.00MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=FXEj8q1kZbE
+[youtube] FXEj8q1kZbE: Downloading webpage
+[youtube] FXEj8q1kZbE: Downloading tv client config
+[youtube] FXEj8q1kZbE: Downloading player 9599b765-main
+[youtube] FXEj8q1kZbE: Downloading tv player API JSON
+[info] FXEj8q1kZbE: Downloading 2 format(s): 137, 251
+[info] FXEj8q1kZbE: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/FXEj8q1kZbE.mp4
+[download] 100% of   14.64MiB in 00:00:16 at 908.43KiB/s
+[download] Destination: data/audio/FXEj8q1kZbE.webm
+[download] 100% of  460.22KiB in 00:00:00 at 798.74KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=gF1ZIlg2YkY
+[youtube] gF1ZIlg2YkY: Downloading webpage
+[youtube] gF1ZIlg2YkY: Downloading tv client config
+[youtube] gF1ZIlg2YkY: Downloading player 9599b765-main
+[youtube] gF1ZIlg2YkY: Downloading tv player API JSON
+[youtube] gF1ZIlg2YkY: Downloading MPD manifest
+[youtube] gF1ZIlg2YkY: Downloading MPD manifest
+[info] gF1ZIlg2YkY: Downloading 2 format(s): 137, 251
+[info] gF1ZIlg2YkY: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/gF1ZIlg2YkY.mp4
+[download] 100% of    9.72MiB in 00:00:01 at 4.98MiB/s
+[download] Destination: data/audio/gF1ZIlg2YkY.webm
+[download] 100% of  514.75KiB in 00:00:00 at 725.52KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=x0spryPpCx0
+[youtube] x0spryPpCx0: Downloading webpage
+[youtube] x0spryPpCx0: Downloading tv client config
+[youtube] x0spryPpCx0: Downloading player 9599b765-main
+[youtube] x0spryPpCx0: Downloading tv player API JSON
+[info] x0spryPpCx0: Downloading 2 format(s): 137, 251
+[info] x0spryPpCx0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/x0spryPpCx0.mp4
+[download] 100% of   10.68MiB in 00:00:18 at 582.93KiB/s
+[download] Destination: data/audio/x0spryPpCx0.webm
+[download] 100% of  357.96KiB in 00:00:00 at 482.16KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=LKVBplIrKKE
+[youtube] LKVBplIrKKE: Downloading webpage
+[youtube] LKVBplIrKKE: Downloading tv client config
+[youtube] LKVBplIrKKE: Downloading player 9599b765-main
+[youtube] LKVBplIrKKE: Downloading tv player API JSON
+[info] LKVBplIrKKE: Downloading 2 format(s): 399, 251
+[info] LKVBplIrKKE: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/LKVBplIrKKE.mp4
+[download] 100% of    2.97MiB in 00:00:00 at 6.70MiB/s
+[download] Destination: data/audio/LKVBplIrKKE.webm
+[download] 100% of  491.38KiB in 00:00:00 at 1.07MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=sLAiFl3gIoc
+[youtube] sLAiFl3gIoc: Downloading webpage
+[youtube] sLAiFl3gIoc: Downloading tv client config
+[youtube] sLAiFl3gIoc: Downloading player 9599b765-main
+[youtube] sLAiFl3gIoc: Downloading tv player API JSON
+[info] sLAiFl3gIoc: Downloading 2 format(s): 137, 251
+[info] sLAiFl3gIoc: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/sLAiFl3gIoc.mp4
+[download] 100% of    2.24MiB in 00:00:01 at 1.72MiB/s
+[download] Destination: data/audio/sLAiFl3gIoc.webm
+[download] 100% of  506.96KiB in 00:00:00 at 723.31KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=9MVHysHtfkI
+[youtube] 9MVHysHtfkI: Downloading webpage
+[youtube] 9MVHysHtfkI: Downloading tv client config
+[youtube] 9MVHysHtfkI: Downloading player 9599b765-main
+[youtube] 9MVHysHtfkI: Downloading tv player API JSON
+[info] 9MVHysHtfkI: Downloading 2 format(s): 137, 251
+[info] 9MVHysHtfkI: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/9MVHysHtfkI.mp4
+[download] 100% of    7.33MiB in 00:00:14 at 514.82KiB/s
+[download] Destination: data/audio/9MVHysHtfkI.webm
+[download] 100% of  434.20KiB in 00:00:00 at 718.54KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=qEVuJVdQVlw
+[youtube] qEVuJVdQVlw: Downloading webpage
+[youtube] qEVuJVdQVlw: Downloading tv client config
+[youtube] qEVuJVdQVlw: Downloading player 9599b765-main
+[youtube] qEVuJVdQVlw: Downloading tv player API JSON
+[info] qEVuJVdQVlw: Downloading 2 format(s): 137, 251
+[info] qEVuJVdQVlw: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/qEVuJVdQVlw.mp4
+[download] 100% of   14.29MiB in 00:00:17 at 831.68KiB/s
+[download] Destination: data/audio/qEVuJVdQVlw.webm
+[download] 100% of  505.76KiB in 00:00:00 at 1011.24KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=JnAn6L7Qq2w
+[youtube] JnAn6L7Qq2w: Downloading webpage
+[youtube] JnAn6L7Qq2w: Downloading tv client config
+[youtube] JnAn6L7Qq2w: Downloading player 9599b765-main
+[youtube] JnAn6L7Qq2w: Downloading tv player API JSON
+[info] JnAn6L7Qq2w: Downloading 2 format(s): 137, 251
+[info] JnAn6L7Qq2w: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/JnAn6L7Qq2w.mp4
+[download] 100% of    5.46MiB in 00:00:11 at 499.11KiB/s
+[download] Destination: data/audio/JnAn6L7Qq2w.webm
+[download] 100% of  382.69KiB in 00:00:00 at 1.84MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=X-IFEy24Z7g
+[youtube] X-IFEy24Z7g: Downloading webpage
+[youtube] X-IFEy24Z7g: Downloading tv client config
+[youtube] X-IFEy24Z7g: Downloading player 9599b765-main
+[youtube] X-IFEy24Z7g: Downloading tv player API JSON
+[info] X-IFEy24Z7g: Downloading 2 format(s): 137, 251
+[info] X-IFEy24Z7g: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/X-IFEy24Z7g.mp4
+[download] 100% of    7.66MiB in 00:00:17 at 441.63KiB/s
+[download] Destination: data/audio/X-IFEy24Z7g.webm
+[download] 100% of  442.88KiB in 00:00:01 at 357.57KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=HmJGERARcEE
+[youtube] HmJGERARcEE: Downloading webpage
+[youtube] HmJGERARcEE: Downloading tv client config
+[youtube] HmJGERARcEE: Downloading player 9599b765-main
+[youtube] HmJGERARcEE: Downloading tv player API JSON
+[info] HmJGERARcEE: Downloading 2 format(s): 137, 251
+[info] HmJGERARcEE: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/HmJGERARcEE.mp4
+[download] 100% of   13.80MiB in 00:00:17 at 785.97KiB/s
+[download] Destination: data/audio/HmJGERARcEE.webm
+[download] 100% of  402.20KiB in 00:00:00 at 1.27MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=4ql1_-xhRNY
+[youtube] 4ql1_-xhRNY: Downloading webpage
+[youtube] 4ql1_-xhRNY: Downloading tv client config
+[youtube] 4ql1_-xhRNY: Downloading player 9599b765-main
+[youtube] 4ql1_-xhRNY: Downloading tv player API JSON
+[youtube] Extracting URL: https://www.youtube.com/watch?v=AYitqmCL7T8
+[youtube] AYitqmCL7T8: Downloading webpage
+[youtube] AYitqmCL7T8: Downloading tv client config
+[youtube] AYitqmCL7T8: Downloading player 9599b765-main
+[youtube] AYitqmCL7T8: Downloading tv player API JSON
+[info] AYitqmCL7T8: Downloading 2 format(s): 137, 251
+[info] AYitqmCL7T8: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/AYitqmCL7T8.mp4
+[download] 100% of    5.05MiB in 00:00:01 at 3.66MiB/s
+[download] Destination: data/audio/AYitqmCL7T8.webm
+[download] 100% of  522.96KiB in 00:00:00 at 697.89KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=H9LW9ay1R4w
+[youtube] H9LW9ay1R4w: Downloading webpage
+[youtube] H9LW9ay1R4w: Downloading tv client config
+[youtube] H9LW9ay1R4w: Downloading player 9599b765-main
+[youtube] H9LW9ay1R4w: Downloading tv player API JSON
+[info] H9LW9ay1R4w: Downloading 2 format(s): 137, 251
+[info] H9LW9ay1R4w: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/H9LW9ay1R4w.mp4
+[download] 100% of    7.52MiB in 00:00:02 at 2.51MiB/s
+[download] Destination: data/audio/H9LW9ay1R4w.webm
+[download] 100% of  469.15KiB in 00:00:00 at 593.18KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=C2vEpRb3wdg
+[youtube] C2vEpRb3wdg: Downloading webpage
+[youtube] C2vEpRb3wdg: Downloading tv client config
+[youtube] C2vEpRb3wdg: Downloading player 9599b765-main
+[youtube] C2vEpRb3wdg: Downloading tv player API JSON
+[info] C2vEpRb3wdg: Downloading 2 format(s): 137, 251
+[info] C2vEpRb3wdg: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/C2vEpRb3wdg.mp4
+[download] 100% of    7.38MiB in 00:00:14 at 509.58KiB/s
+[download] Destination: data/audio/C2vEpRb3wdg.webm
+[download] 100% of  488.17KiB in 00:00:00 at 496.87KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=W0mGuJwtM-4
+[youtube] W0mGuJwtM-4: Downloading webpage
+[youtube] W0mGuJwtM-4: Downloading tv client config
+[youtube] W0mGuJwtM-4: Downloading player 9599b765-main
+[youtube] W0mGuJwtM-4: Downloading tv player API JSON
+[info] W0mGuJwtM-4: Downloading 2 format(s): 137, 258
+[info] W0mGuJwtM-4: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/W0mGuJwtM-4.mp4
+[download] 100% of    8.25MiB in 00:00:13 at 605.82KiB/s
+[download] Destination: data/audio/W0mGuJwtM-4.m4a
+[download] 100% of    1.38MiB in 00:00:00 at 1.43MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=b0A9Wvszxvo
+[youtube] b0A9Wvszxvo: Downloading webpage
+[youtube] b0A9Wvszxvo: Downloading tv client config
+[youtube] b0A9Wvszxvo: Downloading player 9599b765-main
+[youtube] b0A9Wvszxvo: Downloading tv player API JSON
+[info] b0A9Wvszxvo: Downloading 2 format(s): 137, 251
+[info] b0A9Wvszxvo: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/b0A9Wvszxvo.mp4
+[download] 100% of    1.73MiB in 00:00:06 at 268.01KiB/s
+[download] Destination: data/audio/b0A9Wvszxvo.webm
+[download] 100% of  505.31KiB in 00:00:00 at 2.17MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=LOgrosAeZmM
+[youtube] LOgrosAeZmM: Downloading webpage
+[youtube] LOgrosAeZmM: Downloading tv client config
+[youtube] LOgrosAeZmM: Downloading player 9599b765-main
+[youtube] LOgrosAeZmM: Downloading tv player API JSON
+[info] LOgrosAeZmM: Downloading 2 format(s): 137, 251
+[info] LOgrosAeZmM: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/LOgrosAeZmM.mp4
+[download] 100% of    7.53MiB in 00:00:15 at 486.36KiB/s
+[download] Destination: data/audio/LOgrosAeZmM.webm
+[download] 100% of  535.12KiB in 00:00:00 at 691.91KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=zMDU392m-kA
+[youtube] zMDU392m-kA: Downloading webpage
+[youtube] zMDU392m-kA: Downloading tv client config
+[youtube] zMDU392m-kA: Downloading player 9599b765-main
+[youtube] zMDU392m-kA: Downloading tv player API JSON
+[info] zMDU392m-kA: Downloading 2 format(s): 137, 251
+[info] zMDU392m-kA: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/zMDU392m-kA.mp4
+[download] 100% of    9.91MiB in 00:00:14 at 721.07KiB/s
+[download] Destination: data/audio/zMDU392m-kA.webm
+[download] 100% of  489.65KiB in 00:00:00 at 1.65MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Bfpx8xuJdis
+[youtube] Bfpx8xuJdis: Downloading webpage
+[youtube] Bfpx8xuJdis: Downloading tv client config
+[youtube] Bfpx8xuJdis: Downloading player 9599b765-main
+[youtube] Bfpx8xuJdis: Downloading tv player API JSON
+[info] Bfpx8xuJdis: Downloading 2 format(s): 137, 251
+[info] Bfpx8xuJdis: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/Bfpx8xuJdis.mp4
+[download] 100% of    5.32MiB in 00:00:14 at 366.14KiB/s
+[download] Destination: data/audio/Bfpx8xuJdis.webm
+[download] 100% of  409.03KiB in 00:00:00 at 657.36KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=rrYrWQClxIU
+[youtube] rrYrWQClxIU: Downloading webpage
+[youtube] rrYrWQClxIU: Downloading tv client config
+[youtube] rrYrWQClxIU: Downloading player 9599b765-main
+[youtube] rrYrWQClxIU: Downloading tv player API JSON
+[info] rrYrWQClxIU: Downloading 2 format(s): 137, 251
+[info] rrYrWQClxIU: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/rrYrWQClxIU.mp4
+[download] 100% of   11.70MiB in 00:00:16 at 711.59KiB/s
+[download] Destination: data/audio/rrYrWQClxIU.webm
+[download] 100% of  460.37KiB in 00:00:00 at 548.34KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=8nWKL31A6b4
+[youtube] 8nWKL31A6b4: Downloading webpage
+[youtube] 8nWKL31A6b4: Downloading tv client config
+[youtube] 8nWKL31A6b4: Downloading player 9599b765-main
+[youtube] 8nWKL31A6b4: Downloading tv player API JSON
+[info] 8nWKL31A6b4: Downloading 2 format(s): 137, 251
+[info] 8nWKL31A6b4: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/8nWKL31A6b4.mp4
+[download] 100% of    8.66MiB in 00:00:21 at 418.64KiB/s
+[download] Destination: data/audio/8nWKL31A6b4.webm
+[download] 100% of  485.81KiB in 00:00:00 at 493.67KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=dVT-OdpOycI
+[youtube] dVT-OdpOycI: Downloading webpage
+[youtube] dVT-OdpOycI: Downloading tv client config
+[youtube] dVT-OdpOycI: Downloading player 9599b765-main
+[youtube] dVT-OdpOycI: Downloading tv player API JSON
+[info] dVT-OdpOycI: Downloading 2 format(s): 137, 251
+[info] dVT-OdpOycI: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/dVT-OdpOycI.mp4
+[download] 100% of    4.51MiB in 00:00:13 at 341.00KiB/s
+[download] Destination: data/audio/dVT-OdpOycI.webm
+[download] 100% of  487.86KiB in 00:00:00 at 1.66MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=0a6GYoyZPC0
+[youtube] 0a6GYoyZPC0: Downloading webpage
+[youtube] 0a6GYoyZPC0: Downloading tv client config
+[youtube] 0a6GYoyZPC0: Downloading player 9599b765-main
+[youtube] 0a6GYoyZPC0: Downloading tv player API JSON
+[info] 0a6GYoyZPC0: Downloading 2 format(s): 137, 251
+[info] 0a6GYoyZPC0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/0a6GYoyZPC0.mp4
+[download] 100% of    8.79MiB in 00:00:02 at 4.16MiB/s
+[download] Destination: data/audio/0a6GYoyZPC0.webm
+[download] 100% of  388.48KiB in 00:00:00 at 646.32KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=pkQnhvnNrDM
+[youtube] pkQnhvnNrDM: Downloading webpage
+[youtube] pkQnhvnNrDM: Downloading tv client config
+[youtube] pkQnhvnNrDM: Downloading player 9599b765-main
+[youtube] pkQnhvnNrDM: Downloading tv player API JSON
+[info] pkQnhvnNrDM: Downloading 2 format(s): 137, 251
+[info] pkQnhvnNrDM: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/pkQnhvnNrDM.mp4
+[download] 100% of   11.55MiB in 00:00:16 at 729.26KiB/s
+[download] Destination: data/audio/pkQnhvnNrDM.webm
+[download] 100% of  518.12KiB in 00:00:00 at 591.64KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=NkgFRm-M4lU
+[youtube] NkgFRm-M4lU: Downloading webpage
+[youtube] NkgFRm-M4lU: Downloading tv client config
+[youtube] NkgFRm-M4lU: Downloading player 9599b765-main
+[youtube] NkgFRm-M4lU: Downloading tv player API JSON
+[info] NkgFRm-M4lU: Downloading 2 format(s): 137, 251
+[info] NkgFRm-M4lU: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/NkgFRm-M4lU.mp4
+[download] 100% of    9.15MiB in 00:00:19 at 473.06KiB/s
+[download] Destination: data/audio/NkgFRm-M4lU.webm
+[download] 100% of  454.04KiB in 00:00:00 at 714.86KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=tTnZTPQo448
+[youtube] tTnZTPQo448: Downloading webpage
+[youtube] tTnZTPQo448: Downloading tv client config
+[youtube] tTnZTPQo448: Downloading player 9599b765-main
+[youtube] tTnZTPQo448: Downloading tv player API JSON
+[info] tTnZTPQo448: Downloading 2 format(s): 137, 251
+[info] tTnZTPQo448: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/tTnZTPQo448.mp4
+[download] 100% of    7.84MiB in 00:00:02 at 3.09MiB/s
+[download] Destination: data/audio/tTnZTPQo448.webm
+[download] 100% of  518.66KiB in 00:00:00 at 531.75KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=T-0OPnSbDQ4
+[youtube] T-0OPnSbDQ4: Downloading webpage
+[youtube] T-0OPnSbDQ4: Downloading tv client config
+[youtube] T-0OPnSbDQ4: Downloading player 9599b765-main
+[youtube] T-0OPnSbDQ4: Downloading tv player API JSON
+[info] T-0OPnSbDQ4: Downloading 2 format(s): 137, 251
+[info] T-0OPnSbDQ4: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/T-0OPnSbDQ4.mp4
+[download] 100% of    6.67MiB in 00:00:14 at 457.05KiB/s
+[download] Destination: data/audio/T-0OPnSbDQ4.webm
+[download] 100% of  462.04KiB in 00:00:00 at 519.54KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=nK2XPHPKxjA
+[youtube] nK2XPHPKxjA: Downloading webpage
+[youtube] nK2XPHPKxjA: Downloading tv client config
+[youtube] nK2XPHPKxjA: Downloading player 9599b765-main
+[youtube] nK2XPHPKxjA: Downloading tv player API JSON
+[info] nK2XPHPKxjA: Downloading 2 format(s): 136, 140
+[info] nK2XPHPKxjA: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/nK2XPHPKxjA.mp4
+[download] 100% of    4.34MiB in 00:00:01 at 2.91MiB/s
+[download] Destination: data/audio/nK2XPHPKxjA.m4a
+[download] 100% of  465.80KiB in 00:00:00 at 820.45KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=RvViCHozBN8
+[youtube] RvViCHozBN8: Downloading webpage
+[youtube] RvViCHozBN8: Downloading tv client config
+[youtube] RvViCHozBN8: Downloading player 9599b765-main
+[youtube] RvViCHozBN8: Downloading tv player API JSON
+[info] RvViCHozBN8: Downloading 2 format(s): 137, 251
+[info] RvViCHozBN8: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/RvViCHozBN8.mp4
+[download] 100% of   10.37MiB in 00:00:17 at 594.12KiB/s
+[download] Destination: data/audio/RvViCHozBN8.webm
+[download] 100% of  541.79KiB in 00:00:00 at 985.88KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=1x9Zp6kE42Y
+[youtube] 1x9Zp6kE42Y: Downloading webpage
+[youtube] 1x9Zp6kE42Y: Downloading tv client config
+[youtube] 1x9Zp6kE42Y: Downloading player 9599b765-main
+[youtube] 1x9Zp6kE42Y: Downloading tv player API JSON
+[info] 1x9Zp6kE42Y: Downloading 2 format(s): 137, 251
+[info] 1x9Zp6kE42Y: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/1x9Zp6kE42Y.mp4
+[download] 100% of    7.84MiB in 00:00:21 at 379.76KiB/s
+[download] Destination: data/audio/1x9Zp6kE42Y.webm
+[download] 100% of  492.19KiB in 00:00:00 at 1004.63KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ffA8k5SXEX0
+[youtube] ffA8k5SXEX0: Downloading webpage
+[youtube] ffA8k5SXEX0: Downloading tv client config
+[youtube] ffA8k5SXEX0: Downloading player 9599b765-main
+[youtube] ffA8k5SXEX0: Downloading tv player API JSON
+[info] ffA8k5SXEX0: Downloading 2 format(s): 137, 251
+[info] ffA8k5SXEX0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/ffA8k5SXEX0.mp4
+[download] 100% of    8.76MiB in 00:00:15 at 561.27KiB/s
+[download] Destination: data/audio/ffA8k5SXEX0.webm
+[download] 100% of  358.97KiB in 00:00:00 at 2.11MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=vze1AjdSZco
+[youtube] vze1AjdSZco: Downloading webpage
+[youtube] vze1AjdSZco: Downloading tv client config
+[youtube] vze1AjdSZco: Downloading player 9599b765-main
+[youtube] vze1AjdSZco: Downloading tv player API JSON
+[info] vze1AjdSZco: Downloading 2 format(s): 136, 251
+[info] vze1AjdSZco: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/vze1AjdSZco.mp4
+[download] 100% of    2.38MiB in 00:00:13 at 183.34KiB/s
+[download] Destination: data/audio/vze1AjdSZco.webm
+[download] 100% of  465.89KiB in 00:00:00 at 526.53KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=A8OuLBPN5pI
+[youtube] A8OuLBPN5pI: Downloading webpage
+[youtube] A8OuLBPN5pI: Downloading tv client config
+[youtube] A8OuLBPN5pI: Downloading player 9599b765-main
+[youtube] A8OuLBPN5pI: Downloading tv player API JSON
+[youtube] Extracting URL: https://www.youtube.com/watch?v=dl9c2dNVJMw
+[youtube] dl9c2dNVJMw: Downloading webpage
+[youtube] dl9c2dNVJMw: Downloading tv client config
+[youtube] dl9c2dNVJMw: Downloading player 9599b765-main
+[youtube] dl9c2dNVJMw: Downloading tv player API JSON
+[info] dl9c2dNVJMw: Downloading 2 format(s): 136, 140
+[info] dl9c2dNVJMw: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/dl9c2dNVJMw.mp4
+[download] 100% of  434.72KiB in 00:00:00 at 1.83MiB/s
+[download] Destination: data/audio/dl9c2dNVJMw.m4a
+[download] 100% of  474.92KiB in 00:00:00 at 2.49MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=BH2HiqIuXO0
+[youtube] BH2HiqIuXO0: Downloading webpage
+[youtube] BH2HiqIuXO0: Downloading tv client config
+[youtube] BH2HiqIuXO0: Downloading player 9599b765-main
+[youtube] BH2HiqIuXO0: Downloading tv player API JSON
+[info] BH2HiqIuXO0: Downloading 2 format(s): 137, 251
+[info] BH2HiqIuXO0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/BH2HiqIuXO0.mp4
+[download] 100% of   10.29MiB in 00:00:19 at 531.37KiB/s
+[download] Destination: data/audio/BH2HiqIuXO0.webm
+[download] 100% of  452.91KiB in 00:00:00 at 1.82MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=G6sOHBuDL08
+[youtube] G6sOHBuDL08: Downloading webpage
+[youtube] G6sOHBuDL08: Downloading tv client config
+[youtube] G6sOHBuDL08: Downloading player 9599b765-main
+[youtube] G6sOHBuDL08: Downloading tv player API JSON
+[info] G6sOHBuDL08: Downloading 2 format(s): 137, 251
+[info] G6sOHBuDL08: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/G6sOHBuDL08.mp4
+[download] 100% of    5.42MiB in 00:00:17 at 316.53KiB/s
+[download] Destination: data/audio/G6sOHBuDL08.webm
+[download] 100% of  479.89KiB in 00:00:00 at 776.14KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=fwPcMRf1IXY
+[youtube] fwPcMRf1IXY: Downloading webpage
+[youtube] fwPcMRf1IXY: Downloading tv client config
+[youtube] fwPcMRf1IXY: Downloading player 9599b765-main
+[youtube] fwPcMRf1IXY: Downloading tv player API JSON
+[info] fwPcMRf1IXY: Downloading 2 format(s): 137, 251
+[info] fwPcMRf1IXY: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/fwPcMRf1IXY.mp4
+[download] 100% of    3.03MiB in 00:00:01 at 1.88MiB/s
+[download] Destination: data/audio/fwPcMRf1IXY.webm
+[download] 100% of  472.47KiB in 00:00:00 at 551.46KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=M1xDzgob1JI
+[youtube] M1xDzgob1JI: Downloading webpage
+[youtube] M1xDzgob1JI: Downloading tv client config
+[youtube] M1xDzgob1JI: Downloading player 9599b765-main
+[youtube] M1xDzgob1JI: Downloading tv player API JSON
+[info] M1xDzgob1JI: Downloading 2 format(s): 137, 251
+[info] M1xDzgob1JI: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/M1xDzgob1JI.mp4
+[download] 100% of    3.87MiB in 00:00:12 at 307.66KiB/s
+[download] Destination: data/audio/M1xDzgob1JI.webm
+[download] 100% of  428.78KiB in 00:00:00 at 2.47MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=NI_kPGZKabU
+[youtube] NI_kPGZKabU: Downloading webpage
+[youtube] NI_kPGZKabU: Downloading tv client config
+[youtube] NI_kPGZKabU: Downloading player 9599b765-main
+[youtube] NI_kPGZKabU: Downloading tv player API JSON
+[info] NI_kPGZKabU: Downloading 2 format(s): 136, 251
+[info] NI_kPGZKabU: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/NI_kPGZKabU.mp4
+[download] 100% of    2.77MiB in 00:00:01 at 1.61MiB/s
+[download] Destination: data/audio/NI_kPGZKabU.webm
+[download] 100% of  412.90KiB in 00:00:00 at 483.04KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=LqE32n-K7Qg
+[youtube] LqE32n-K7Qg: Downloading webpage
+[youtube] LqE32n-K7Qg: Downloading tv client config
+[youtube] LqE32n-K7Qg: Downloading player 9599b765-main
+[youtube] LqE32n-K7Qg: Downloading tv player API JSON
+[info] LqE32n-K7Qg: Downloading 2 format(s): 136, 251
+[info] LqE32n-K7Qg: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/LqE32n-K7Qg.mp4
+[download] 100% of    7.35MiB in 00:00:15 at 477.21KiB/s
+[download] Destination: data/audio/LqE32n-K7Qg.webm
+[download] 100% of  422.60KiB in 00:00:00 at 1.42MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Y-hnH1MuFjY
+[youtube] Y-hnH1MuFjY: Downloading webpage
+[youtube] Y-hnH1MuFjY: Downloading tv client config
+[youtube] Y-hnH1MuFjY: Downloading player 9599b765-main
+[youtube] Y-hnH1MuFjY: Downloading tv player API JSON
+[info] Y-hnH1MuFjY: Downloading 2 format(s): 137, 251
+[info] Y-hnH1MuFjY: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/Y-hnH1MuFjY.mp4
+[download] 100% of    9.21MiB in 00:00:11 at 817.76KiB/s
+[download] Destination: data/audio/Y-hnH1MuFjY.webm
+[download] 100% of  452.31KiB in 00:00:00 at 845.97KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=VAWQ7J3e06Q
+[youtube] VAWQ7J3e06Q: Downloading webpage
+[youtube] VAWQ7J3e06Q: Downloading tv client config
+[youtube] VAWQ7J3e06Q: Downloading player 9599b765-main
+[youtube] VAWQ7J3e06Q: Downloading tv player API JSON
+[info] VAWQ7J3e06Q: Downloading 2 format(s): 137, 251
+[info] VAWQ7J3e06Q: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/VAWQ7J3e06Q.mp4
+[download] 100% of    4.91MiB in 00:00:14 at 351.96KiB/s
+[download] Destination: data/audio/VAWQ7J3e06Q.webm
+[download] 100% of  429.13KiB in 00:00:00 at 857.11KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Sw_iVa6bZgs
+[youtube] Sw_iVa6bZgs: Downloading webpage
+[youtube] Sw_iVa6bZgs: Downloading tv client config
+[youtube] Sw_iVa6bZgs: Downloading player 9599b765-main
+[youtube] Sw_iVa6bZgs: Downloading tv player API JSON
+[info] Sw_iVa6bZgs: Downloading 2 format(s): 137, 251
+[info] Sw_iVa6bZgs: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/Sw_iVa6bZgs.mp4
+[download] 100% of    8.70MiB in 00:00:15 at 567.80KiB/s
+[download] Destination: data/audio/Sw_iVa6bZgs.webm
+[download] 100% of  452.51KiB in 00:00:00 at 1.82MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=jbEfeSYio5U
+[youtube] jbEfeSYio5U: Downloading webpage
+[youtube] jbEfeSYio5U: Downloading tv client config
+[youtube] jbEfeSYio5U: Downloading player 9599b765-main
+[youtube] jbEfeSYio5U: Downloading tv player API JSON
+[info] jbEfeSYio5U: Downloading 2 format(s): 137, 251
+[info] jbEfeSYio5U: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/jbEfeSYio5U.mp4
+[download] 100% of    5.39MiB in 00:00:09 at 559.50KiB/s
+[download] Destination: data/audio/jbEfeSYio5U.webm
+[download] 100% of  409.58KiB in 00:00:00 at 674.33KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=2oRTFMqLIY4
+[youtube] 2oRTFMqLIY4: Downloading webpage
+[youtube] 2oRTFMqLIY4: Downloading tv client config
+[youtube] 2oRTFMqLIY4: Downloading player 9599b765-main
+[youtube] 2oRTFMqLIY4: Downloading tv player API JSON
+[info] 2oRTFMqLIY4: Downloading 2 format(s): 137, 251
+[info] 2oRTFMqLIY4: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/2oRTFMqLIY4.mp4
+[download] 100% of    8.16MiB in 00:00:21 at 396.01KiB/s
+[download] Destination: data/audio/2oRTFMqLIY4.webm
+[download] 100% of  464.53KiB in 00:00:00 at 747.83KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=LWwwzKolCLc
+[youtube] LWwwzKolCLc: Downloading webpage
+[youtube] LWwwzKolCLc: Downloading tv client config
+[youtube] LWwwzKolCLc: Downloading player 9599b765-main
+[youtube] LWwwzKolCLc: Downloading tv player API JSON
+[info] LWwwzKolCLc: Downloading 2 format(s): 137, 251
+[info] LWwwzKolCLc: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/LWwwzKolCLc.mp4
+[download] 100% of    9.10MiB in 00:00:21 at 429.75KiB/s
+[download] Destination: data/audio/LWwwzKolCLc.webm
+[download] 100% of  450.91KiB in 00:00:00 at 892.65KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=EY1ZUFmiNEw
+[youtube] EY1ZUFmiNEw: Downloading webpage
+[youtube] EY1ZUFmiNEw: Downloading tv client config
+[youtube] EY1ZUFmiNEw: Downloading player 9599b765-main
+[youtube] EY1ZUFmiNEw: Downloading tv player API JSON
+[info] EY1ZUFmiNEw: Downloading 2 format(s): 137, 140
+[info] EY1ZUFmiNEw: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/EY1ZUFmiNEw.mp4
+[download] 100% of   10.75MiB in 00:00:17 at 641.93KiB/s
+[download] Destination: data/audio/EY1ZUFmiNEw.m4a
+[download] 100% of  474.94KiB in 00:00:00 at 685.55KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=_Yx9mKFncVw
+[youtube] _Yx9mKFncVw: Downloading webpage
+[youtube] _Yx9mKFncVw: Downloading tv client config
+[youtube] _Yx9mKFncVw: Downloading player 9599b765-main
+[youtube] _Yx9mKFncVw: Downloading tv player API JSON
+[info] _Yx9mKFncVw: Downloading 2 format(s): 137, 251
+[info] _Yx9mKFncVw: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/_Yx9mKFncVw.mp4
+[download] 100% of    5.04MiB in 00:00:18 at 271.69KiB/s
+[download] Destination: data/audio/_Yx9mKFncVw.webm
+[download] 100% of  479.84KiB in 00:00:00 at 626.05KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Q-HVKkm3EGQ
+[youtube] Q-HVKkm3EGQ: Downloading webpage
+[youtube] Q-HVKkm3EGQ: Downloading tv client config
+[youtube] Q-HVKkm3EGQ: Downloading player 9599b765-main
+[youtube] Q-HVKkm3EGQ: Downloading tv player API JSON
+[info] Q-HVKkm3EGQ: Downloading 2 format(s): 136, 140
+[info] Q-HVKkm3EGQ: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/Q-HVKkm3EGQ.mp4
+[download] 100% of    4.77MiB in 00:00:14 at 343.66KiB/s
+[download] Destination: data/audio/Q-HVKkm3EGQ.m4a
+[download] 100% of  475.08KiB in 00:00:00 at 816.65KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=IXMhsx2gdLw
+[youtube] IXMhsx2gdLw: Downloading webpage
+[youtube] IXMhsx2gdLw: Downloading tv client config
+[youtube] IXMhsx2gdLw: Downloading player 9599b765-main
+[youtube] IXMhsx2gdLw: Downloading tv player API JSON
+[info] IXMhsx2gdLw: Downloading 2 format(s): 137, 251
+[info] IXMhsx2gdLw: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/IXMhsx2gdLw.mp4
+[download] 100% of    4.21MiB in 00:00:01 at 2.78MiB/s
+[download] Destination: data/audio/IXMhsx2gdLw.webm
+[download] 100% of  479.98KiB in 00:00:00 at 834.53KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=R1sMf67kxoY
+[youtube] R1sMf67kxoY: Downloading webpage
+[youtube] R1sMf67kxoY: Downloading tv client config
+[youtube] R1sMf67kxoY: Downloading player 9599b765-main
+[youtube] R1sMf67kxoY: Downloading tv player API JSON
+[info] R1sMf67kxoY: Downloading 2 format(s): 137, 251
+[info] R1sMf67kxoY: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/R1sMf67kxoY.mp4
+[download] 100% of    9.83MiB in 00:00:15 at 655.32KiB/s
+[download] Destination: data/audio/R1sMf67kxoY.webm
+[download] 100% of  435.25KiB in 00:00:00 at 777.35KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=zJp5P52iF-E
+[youtube] zJp5P52iF-E: Downloading webpage
+[youtube] zJp5P52iF-E: Downloading tv client config
+[youtube] zJp5P52iF-E: Downloading player 9599b765-main
+[youtube] zJp5P52iF-E: Downloading tv player API JSON
+[info] zJp5P52iF-E: Downloading 2 format(s): 137, 251
+[info] zJp5P52iF-E: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/zJp5P52iF-E.mp4
+[download] 100% of    4.62MiB in 00:00:09 at 488.72KiB/s
+[download] Destination: data/audio/zJp5P52iF-E.webm
+[download] 100% of  517.89KiB in 00:00:00 at 1.31MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=F9bL8hwtGCM
+[youtube] F9bL8hwtGCM: Downloading webpage
+[youtube] F9bL8hwtGCM: Downloading tv client config
+[youtube] F9bL8hwtGCM: Downloading player 9599b765-main
+[youtube] F9bL8hwtGCM: Downloading tv player API JSON
+[info] F9bL8hwtGCM: Downloading 2 format(s): 401, 251
+[info] F9bL8hwtGCM: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/F9bL8hwtGCM.mp4
+[download] 100% of   22.86MiB in 00:00:18 at 1.26MiB/s
+[download] Destination: data/audio/F9bL8hwtGCM.webm
+[download] 100% of  503.14KiB in 00:00:00 at 808.83KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=d_orDy_FQ5M
+[youtube] d_orDy_FQ5M: Downloading webpage
+[youtube] d_orDy_FQ5M: Downloading tv client config
+[youtube] d_orDy_FQ5M: Downloading player 9599b765-main
+[youtube] d_orDy_FQ5M: Downloading tv player API JSON
+[info] d_orDy_FQ5M: Downloading 2 format(s): 137, 251
+[info] d_orDy_FQ5M: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/d_orDy_FQ5M.mp4
+[download] 100% of    7.24MiB in 00:00:01 at 4.44MiB/s
+[download] Destination: data/audio/d_orDy_FQ5M.webm
+[download] 100% of  440.20KiB in 00:00:00 at 756.44KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Mufk_bYhwRI
+[youtube] Mufk_bYhwRI: Downloading webpage
+[youtube] Mufk_bYhwRI: Downloading tv client config
+[youtube] Mufk_bYhwRI: Downloading player 9599b765-main
+[youtube] Mufk_bYhwRI: Downloading tv player API JSON
+[info] Mufk_bYhwRI: Downloading 2 format(s): 136, 251
+[info] Mufk_bYhwRI: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/Mufk_bYhwRI.mp4
+[download] 100% of    8.26MiB in 00:00:16 at 512.74KiB/s
+[download] Destination: data/audio/Mufk_bYhwRI.webm
+[download] 100% of  448.34KiB in 00:00:00 at 822.39KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=3Ryv0Jdx4b8
+[youtube] 3Ryv0Jdx4b8: Downloading webpage
+[youtube] 3Ryv0Jdx4b8: Downloading tv client config
+[youtube] 3Ryv0Jdx4b8: Downloading player 9599b765-main
+[youtube] 3Ryv0Jdx4b8: Downloading tv player API JSON
+[info] 3Ryv0Jdx4b8: Downloading 2 format(s): 137, 251
+[info] 3Ryv0Jdx4b8: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/3Ryv0Jdx4b8.mp4
+[download] 100% of    6.99MiB in 00:00:22 at 319.43KiB/s
+[download] Destination: data/audio/3Ryv0Jdx4b8.webm
+[download] 100% of  456.80KiB in 00:00:00 at 1.06MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=58J_9QAzgrQ
+[youtube] 58J_9QAzgrQ: Downloading webpage
+[youtube] 58J_9QAzgrQ: Downloading tv client config
+[youtube] 58J_9QAzgrQ: Downloading player 9599b765-main
+[youtube] 58J_9QAzgrQ: Downloading tv player API JSON
+[info] 58J_9QAzgrQ: Downloading 2 format(s): 137, 251
+[info] 58J_9QAzgrQ: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/58J_9QAzgrQ.mp4
+[download] 100% of    7.14MiB in 00:00:15 at 464.76KiB/s
+[download] Destination: data/audio/58J_9QAzgrQ.webm
+[download] 100% of  624.42KiB in 00:00:00 at 3.78MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=3f0LOSXEFIw
+[youtube] 3f0LOSXEFIw: Downloading webpage
+[youtube] 3f0LOSXEFIw: Downloading tv client config
+[youtube] 3f0LOSXEFIw: Downloading player 9599b765-main
+[youtube] 3f0LOSXEFIw: Downloading tv player API JSON
+[info] 3f0LOSXEFIw: Downloading 2 format(s): 137, 251
+[info] 3f0LOSXEFIw: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/3f0LOSXEFIw.mp4
+[download] 100% of    8.64MiB in 00:00:15 at 581.87KiB/s
+[download] Destination: data/audio/3f0LOSXEFIw.webm
+[download] 100% of  537.99KiB in 00:00:00 at 980.30KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=wFA750RlgVE
+[youtube] wFA750RlgVE: Downloading webpage
+[youtube] wFA750RlgVE: Downloading tv client config
+[youtube] wFA750RlgVE: Downloading player 9599b765-main
+[youtube] wFA750RlgVE: Downloading tv player API JSON
+[info] wFA750RlgVE: Downloading 2 format(s): 137, 251
+[info] wFA750RlgVE: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/wFA750RlgVE.mp4
+[download] 100% of   11.91MiB in 00:00:17 at 716.80KiB/s
+[download] Destination: data/audio/wFA750RlgVE.webm
+[download] 100% of  429.50KiB in 00:00:00 at 920.16KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=wZAGfTA-o8I
+[youtube] wZAGfTA-o8I: Downloading webpage
+[youtube] wZAGfTA-o8I: Downloading tv client config
+[youtube] wZAGfTA-o8I: Downloading player 9599b765-main
+[youtube] wZAGfTA-o8I: Downloading tv player API JSON
+[info] wZAGfTA-o8I: Downloading 2 format(s): 137, 251
+[info] wZAGfTA-o8I: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/wZAGfTA-o8I.mp4
+[download] 100% of   13.48MiB in 00:00:20 at 686.49KiB/s
+[download] Destination: data/audio/wZAGfTA-o8I.webm
+[download] 100% of  522.87KiB in 00:00:00 at 881.51KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Ar5Xnp5STR4
+[youtube] Ar5Xnp5STR4: Downloading webpage
+[youtube] Ar5Xnp5STR4: Downloading tv client config
+[youtube] Ar5Xnp5STR4: Downloading player 9599b765-main
+[youtube] Ar5Xnp5STR4: Downloading tv player API JSON
+[info] Ar5Xnp5STR4: Downloading 2 format(s): 137, 251
+[info] Ar5Xnp5STR4: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/Ar5Xnp5STR4.mp4
+[download] 100% of   13.60MiB in 00:00:19 at 719.97KiB/s
+[download] Destination: data/audio/Ar5Xnp5STR4.webm
+[download] 100% of  403.98KiB in 00:00:00 at 1.08MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=vF8pY8Om840
+[youtube] vF8pY8Om840: Downloading webpage
+[youtube] vF8pY8Om840: Downloading tv client config
+[youtube] vF8pY8Om840: Downloading player 9599b765-main
+[youtube] vF8pY8Om840: Downloading tv player API JSON
+[info] vF8pY8Om840: Downloading 2 format(s): 136, 140
+[info] vF8pY8Om840: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/vF8pY8Om840.mp4
+[download] 100% of    3.24MiB in 00:00:22 at 146.63KiB/s
+[download] Destination: data/audio/vF8pY8Om840.m4a
+[download] 100% of  474.84KiB in 00:00:00 at 2.45MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=42KNwQ6u42U
+[youtube] 42KNwQ6u42U: Downloading webpage
+[youtube] 42KNwQ6u42U: Downloading tv client config
+[youtube] 42KNwQ6u42U: Downloading player 9599b765-main
+[youtube] 42KNwQ6u42U: Downloading tv player API JSON
+[info] 42KNwQ6u42U: Downloading 2 format(s): 399, 251
+[info] 42KNwQ6u42U: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/42KNwQ6u42U.mp4
+[download] 100% of    2.57MiB in 00:00:12 at 206.51KiB/s
+[download] Destination: data/audio/42KNwQ6u42U.webm
+[download] 100% of  500.21KiB in 00:00:00 at 4.33MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=oB8PpdeSXRQ
+[youtube] oB8PpdeSXRQ: Downloading webpage
+[youtube] oB8PpdeSXRQ: Downloading tv client config
+[youtube] oB8PpdeSXRQ: Downloading player 9599b765-main
+[youtube] oB8PpdeSXRQ: Downloading tv player API JSON
+[info] oB8PpdeSXRQ: Downloading 2 format(s): 137, 140
+[info] oB8PpdeSXRQ: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/oB8PpdeSXRQ.mp4
+[download] 100% of    9.12MiB in 00:00:14 at 657.04KiB/s
+[download] Destination: data/audio/oB8PpdeSXRQ.m4a
+[download] 100% of  475.01KiB in 00:00:00 at 2.39MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=PRAB7Iz3Gow
+[youtube] PRAB7Iz3Gow: Downloading webpage
+[youtube] PRAB7Iz3Gow: Downloading tv client config
+[youtube] PRAB7Iz3Gow: Downloading player 9599b765-main
+[youtube] PRAB7Iz3Gow: Downloading tv player API JSON
+[info] PRAB7Iz3Gow: Downloading 2 format(s): 137, 140
+[info] PRAB7Iz3Gow: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/PRAB7Iz3Gow.mp4
+[download] 100% of   12.03MiB in 00:00:20 at 596.88KiB/s
+[download] Destination: data/audio/PRAB7Iz3Gow.m4a
+[download] 100% of  475.18KiB in 00:00:00 at 658.01KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=gkmMTspxJSk
+[youtube] gkmMTspxJSk: Downloading webpage
+[youtube] gkmMTspxJSk: Downloading tv client config
+[youtube] gkmMTspxJSk: Downloading player 9599b765-main
+[youtube] gkmMTspxJSk: Downloading tv player API JSON
+[info] gkmMTspxJSk: Downloading 2 format(s): 137, 140
+[info] gkmMTspxJSk: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/gkmMTspxJSk.mp4
+[download] 100% of    8.44MiB in 00:00:16 at 529.30KiB/s
+[download] Destination: data/audio/gkmMTspxJSk.m4a
+[download] 100% of  475.13KiB in 00:00:00 at 956.10KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=B704fR5y3-U
+[youtube] B704fR5y3-U: Downloading webpage
+[youtube] B704fR5y3-U: Downloading tv client config
+[youtube] B704fR5y3-U: Downloading player 9599b765-main
+[youtube] B704fR5y3-U: Downloading tv player API JSON
+[info] B704fR5y3-U: Downloading 2 format(s): 137, 251
+[info] B704fR5y3-U: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/B704fR5y3-U.mp4
+[download] 100% of    4.97MiB in 00:00:01 at 2.83MiB/s
+[download] Destination: data/audio/B704fR5y3-U.webm
+[download] 100% of  466.79KiB in 00:00:00 at 846.83KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=mHKrjUZJoK4
+[youtube] mHKrjUZJoK4: Downloading webpage
+[youtube] mHKrjUZJoK4: Downloading tv client config
+[youtube] mHKrjUZJoK4: Downloading player 9599b765-main
+[youtube] mHKrjUZJoK4: Downloading tv player API JSON
+[info] mHKrjUZJoK4: Downloading 2 format(s): 401, 251
+[info] mHKrjUZJoK4: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/mHKrjUZJoK4.mp4
+[download] 100% of   15.74MiB in 00:00:14 at 1.09MiB/s
+[download] Destination: data/audio/mHKrjUZJoK4.webm
+[download] 100% of  450.17KiB in 00:00:00 at 792.50KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=OeUFzid1kwg
+[youtube] OeUFzid1kwg: Downloading webpage
+[youtube] OeUFzid1kwg: Downloading tv client config
+[youtube] OeUFzid1kwg: Downloading player 9599b765-main
+[youtube] OeUFzid1kwg: Downloading tv player API JSON
+[info] OeUFzid1kwg: Downloading 2 format(s): 136, 251
+[info] OeUFzid1kwg: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/OeUFzid1kwg.mp4
+[download] 100% of    2.78MiB in 00:00:00 at 3.08MiB/s
+[download] Destination: data/audio/OeUFzid1kwg.webm
+[download] 100% of  349.61KiB in 00:00:00 at 420.00KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=-QmTVqWMo_s
+[youtube] -QmTVqWMo_s: Downloading webpage
+[youtube] -QmTVqWMo_s: Downloading tv client config
+[youtube] -QmTVqWMo_s: Downloading player 9599b765-main
+[youtube] -QmTVqWMo_s: Downloading tv player API JSON
+[info] -QmTVqWMo_s: Downloading 2 format(s): 299, 251
+[info] -QmTVqWMo_s: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/-QmTVqWMo_s.mp4
+[download] 100% of   24.16MiB in 00:00:16 at 1.48MiB/s
+[download] Destination: data/audio/-QmTVqWMo_s.webm
+[download] 100% of  467.87KiB in 00:00:00 at 721.82KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=JQk0Ul5pIXQ
+[youtube] JQk0Ul5pIXQ: Downloading webpage
+[youtube] JQk0Ul5pIXQ: Downloading tv client config
+[youtube] JQk0Ul5pIXQ: Downloading player 9599b765-main
+[youtube] JQk0Ul5pIXQ: Downloading tv player API JSON
+[info] JQk0Ul5pIXQ: Downloading 2 format(s): 137, 251
+[info] JQk0Ul5pIXQ: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/JQk0Ul5pIXQ.mp4
+[download] 100% of   13.04MiB in 00:00:18 at 709.78KiB/s
+[download] Destination: data/audio/JQk0Ul5pIXQ.webm
+[download] 100% of  455.15KiB in 00:00:00 at 577.63KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=EHeDeF57DeU
+[youtube] EHeDeF57DeU: Downloading webpage
+[youtube] EHeDeF57DeU: Downloading tv client config
+[youtube] EHeDeF57DeU: Downloading player 9599b765-main
+[youtube] EHeDeF57DeU: Downloading tv player API JSON
+[info] EHeDeF57DeU: Downloading 2 format(s): 137, 251
+[info] EHeDeF57DeU: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/EHeDeF57DeU.mp4
+[download] 100% of    9.33MiB in 00:00:02 at 3.26MiB/s
+[download] Destination: data/audio/EHeDeF57DeU.webm
+[download] 100% of  472.77KiB in 00:00:00 at 867.67KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=9sRCjaXILS4
+[youtube] 9sRCjaXILS4: Downloading webpage
+[youtube] 9sRCjaXILS4: Downloading tv client config
+[youtube] 9sRCjaXILS4: Downloading player 9599b765-main
+[youtube] 9sRCjaXILS4: Downloading tv player API JSON
+[info] 9sRCjaXILS4: Downloading 2 format(s): 136, 251
+[info] 9sRCjaXILS4: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/9sRCjaXILS4.mp4
+[download] 100% of    5.38MiB in 00:00:01 at 2.74MiB/s
+[download] Destination: data/audio/9sRCjaXILS4.webm
+[download] 100% of  494.58KiB in 00:00:00 at 738.12KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=YIgNV2BclvA
+[youtube] YIgNV2BclvA: Downloading webpage
+[youtube] YIgNV2BclvA: Downloading tv client config
+[youtube] YIgNV2BclvA: Downloading player 9599b765-main
+[youtube] YIgNV2BclvA: Downloading tv player API JSON
+[info] YIgNV2BclvA: Downloading 2 format(s): 137, 251
+[info] YIgNV2BclvA: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/YIgNV2BclvA.mp4
+[download] 100% of    7.51MiB in 00:00:00 at 7.51MiB/s
+[download] Destination: data/audio/YIgNV2BclvA.webm
+[download] 100% of  443.56KiB in 00:00:00 at 640.17KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=TgnxwkUbI_g
+[youtube] TgnxwkUbI_g: Downloading webpage
+[youtube] TgnxwkUbI_g: Downloading tv client config
+[youtube] TgnxwkUbI_g: Downloading player 9599b765-main
+[youtube] TgnxwkUbI_g: Downloading tv player API JSON
+[info] TgnxwkUbI_g: Downloading 2 format(s): 399, 251
+[info] TgnxwkUbI_g: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/TgnxwkUbI_g.mp4
+[download] 100% of    4.48MiB in 00:00:22 at 207.86KiB/s
+[download] Destination: data/audio/TgnxwkUbI_g.webm
+[download] 100% of  449.18KiB in 00:00:00 at 2.76MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Yb2kYo2Ev4o
+[youtube] Yb2kYo2Ev4o: Downloading webpage
+[youtube] Yb2kYo2Ev4o: Downloading tv client config
+[youtube] Yb2kYo2Ev4o: Downloading player 9599b765-main
+[youtube] Yb2kYo2Ev4o: Downloading tv player API JSON
+[info] Yb2kYo2Ev4o: Downloading 2 format(s): 137, 251
+[info] Yb2kYo2Ev4o: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/Yb2kYo2Ev4o.mp4
+[download] 100% of    5.99MiB in 00:00:25 at 243.59KiB/s
+[download] Destination: data/audio/Yb2kYo2Ev4o.webm
+[download] 100% of  457.65KiB in 00:00:00 at 637.21KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=S7nVamiOfa0
+[youtube] S7nVamiOfa0: Downloading webpage
+[youtube] S7nVamiOfa0: Downloading tv client config
+[youtube] S7nVamiOfa0: Downloading player 9599b765-main
+[youtube] S7nVamiOfa0: Downloading tv player API JSON
+[info] S7nVamiOfa0: Downloading 2 format(s): 136, 251
+[info] S7nVamiOfa0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/S7nVamiOfa0.mp4
+[download] 100% of    4.57MiB in 00:00:13 at 353.51KiB/s
+[download] Destination: data/audio/S7nVamiOfa0.webm
+[download] 100% of  395.90KiB in 00:00:00 at 727.54KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ZEfnpFuzxnE
+[youtube] ZEfnpFuzxnE: Downloading webpage
+[youtube] ZEfnpFuzxnE: Downloading tv client config
+[youtube] ZEfnpFuzxnE: Downloading player 9599b765-main
+[youtube] ZEfnpFuzxnE: Downloading tv player API JSON
+[info] ZEfnpFuzxnE: Downloading 2 format(s): 399, 251
+[info] ZEfnpFuzxnE: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/ZEfnpFuzxnE.mp4
+[download] 100% of    2.17MiB in 00:00:00 at 9.21MiB/s
+[download] Destination: data/audio/ZEfnpFuzxnE.webm
+[download] 100% of  506.34KiB in 00:00:00 at 3.22MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=siQ4UEToz7Y
+[youtube] siQ4UEToz7Y: Downloading webpage
+[youtube] siQ4UEToz7Y: Downloading tv client config
+[youtube] siQ4UEToz7Y: Downloading player 9599b765-main
+[youtube] siQ4UEToz7Y: Downloading tv player API JSON
+[info] siQ4UEToz7Y: Downloading 2 format(s): 137, 251
+[info] siQ4UEToz7Y: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/siQ4UEToz7Y.mp4
+[download] 100% of    7.89MiB in 00:00:20 at 402.69KiB/s
+[download] Destination: data/audio/siQ4UEToz7Y.webm
+[download] 100% of  452.77KiB in 00:00:00 at 823.52KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=eno43p879UA
+[youtube] eno43p879UA: Downloading webpage
+[youtube] eno43p879UA: Downloading tv client config
+[youtube] eno43p879UA: Downloading player 9599b765-main
+[youtube] eno43p879UA: Downloading tv player API JSON
+[info] eno43p879UA: Downloading 2 format(s): 137, 140
+[info] eno43p879UA: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/eno43p879UA.mp4
+[download] 100% of    8.94MiB in 00:00:13 at 678.40KiB/s
+[download] Destination: data/audio/eno43p879UA.m4a
+[download] 100% of  474.61KiB in 00:00:00 at 841.71KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=JY43PceHMq4
+[youtube] JY43PceHMq4: Downloading webpage
+[youtube] JY43PceHMq4: Downloading tv client config
+[youtube] JY43PceHMq4: Downloading player 9599b765-main
+[youtube] JY43PceHMq4: Downloading tv player API JSON
+[info] JY43PceHMq4: Downloading 2 format(s): 399, 251
+[info] JY43PceHMq4: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/JY43PceHMq4.mp4
+[download] 100% of    3.76MiB in 00:00:13 at 275.37KiB/s
+[download] Destination: data/audio/JY43PceHMq4.webm
+[download] 100% of  446.05KiB in 00:00:00 at 776.76KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=eP7VM1bTjLs
+[youtube] eP7VM1bTjLs: Downloading webpage
+[youtube] eP7VM1bTjLs: Downloading tv client config
+[youtube] eP7VM1bTjLs: Downloading player 9599b765-main
+[youtube] eP7VM1bTjLs: Downloading tv player API JSON
+[info] eP7VM1bTjLs: Downloading 2 format(s): 136, 140
+[info] eP7VM1bTjLs: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/eP7VM1bTjLs.mp4
+[download] 100% of    5.98MiB in 00:00:00 at 21.12MiB/s
+[download] Destination: data/audio/eP7VM1bTjLs.m4a
+[download] 100% of  474.72KiB in 00:00:00 at 3.19MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=33Qu-gmkHgc
+[youtube] 33Qu-gmkHgc: Downloading webpage
+[youtube] 33Qu-gmkHgc: Downloading tv client config
+[youtube] 33Qu-gmkHgc: Downloading player 9599b765-main
+[youtube] 33Qu-gmkHgc: Downloading tv player API JSON
+[info] 33Qu-gmkHgc: Downloading 2 format(s): 137, 251
+[info] 33Qu-gmkHgc: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/33Qu-gmkHgc.mp4
+[download] 100% of    8.91MiB in 00:00:15 at 575.74KiB/s
+[download] Destination: data/audio/33Qu-gmkHgc.webm
+[download] 100% of  493.97KiB in 00:00:00 at 1.93MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=b2-EU7ZkZ4E
+[youtube] b2-EU7ZkZ4E: Downloading webpage
+[youtube] b2-EU7ZkZ4E: Downloading tv client config
+[youtube] b2-EU7ZkZ4E: Downloading player 9599b765-main
+[youtube] b2-EU7ZkZ4E: Downloading tv player API JSON
+[info] b2-EU7ZkZ4E: Downloading 2 format(s): 137, 251
+[info] b2-EU7ZkZ4E: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/b2-EU7ZkZ4E.mp4
+[download] 100% of    6.80MiB in 00:00:01 at 3.97MiB/s
+[download] Destination: data/audio/b2-EU7ZkZ4E.webm
+[download] 100% of  450.31KiB in 00:00:00 at 810.47KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=WlhuYvrE3vA
+[youtube] WlhuYvrE3vA: Downloading webpage
+[youtube] WlhuYvrE3vA: Downloading tv client config
+[youtube] WlhuYvrE3vA: Downloading player 9599b765-main
+[youtube] WlhuYvrE3vA: Downloading tv player API JSON
+[info] WlhuYvrE3vA: Downloading 2 format(s): 137, 251
+[info] WlhuYvrE3vA: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/WlhuYvrE3vA.mp4
+[download] 100% of   12.01MiB in 00:00:15 at 784.85KiB/s
+[download] Destination: data/audio/WlhuYvrE3vA.webm
+[download] 100% of  391.38KiB in 00:00:00 at 601.55KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=hJWzyi0le7k
+[youtube] hJWzyi0le7k: Downloading webpage
+[youtube] hJWzyi0le7k: Downloading tv client config
+[youtube] hJWzyi0le7k: Downloading player 9599b765-main
+[youtube] hJWzyi0le7k: Downloading tv player API JSON
+[info] hJWzyi0le7k: Downloading 2 format(s): 137, 328
+[info] hJWzyi0le7k: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/hJWzyi0le7k.mp4
+[download] 100% of   10.66MiB in 00:00:16 at 646.96KiB/s
+[download] Destination: data/audio/hJWzyi0le7k.m4a
+
+[youtube] Extracting URL: https://www.youtube.com/watch?v=7P072OPMAic
+[youtube] 7P072OPMAic: Downloading webpage
+[youtube] 7P072OPMAic: Downloading tv client config
+[youtube] 7P072OPMAic: Downloading player 9599b765-main
+[youtube] 7P072OPMAic: Downloading tv player API JSON
+[info] 7P072OPMAic: Downloading 2 format(s): 137, 251
+[info] 7P072OPMAic: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/7P072OPMAic.mp4
+[download] 100% of   16.07MiB in 00:00:17 at 925.87KiB/s
+[download] Destination: data/audio/7P072OPMAic.webm
+[download] 100% of  487.82KiB in 00:00:00 at 692.22KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=-LWANhTMY8w
+[youtube] -LWANhTMY8w: Downloading webpage
+[youtube] -LWANhTMY8w: Downloading tv client config
+[youtube] -LWANhTMY8w: Downloading player 9599b765-main
+[youtube] -LWANhTMY8w: Downloading tv player API JSON
+[youtube] Extracting URL: https://www.youtube.com/watch?v=pgBWS16rxmE
+[youtube] pgBWS16rxmE: Downloading webpage
+[youtube] pgBWS16rxmE: Downloading tv client config
+[youtube] pgBWS16rxmE: Downloading player 9599b765-main
+[youtube] pgBWS16rxmE: Downloading tv player API JSON
+[info] pgBWS16rxmE: Downloading 2 format(s): 137, 251
+[info] pgBWS16rxmE: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/pgBWS16rxmE.mp4
+[download] 100% of    4.60MiB in 00:00:13 at 337.77KiB/s
+[download] Destination: data/audio/pgBWS16rxmE.webm
+[download] 100% of  508.22KiB in 00:00:01 at 484.45KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=tKFFi8RIw3U
+[youtube] tKFFi8RIw3U: Downloading webpage
+[youtube] tKFFi8RIw3U: Downloading tv client config
+[youtube] tKFFi8RIw3U: Downloading player 9599b765-main
+[youtube] tKFFi8RIw3U: Downloading tv player API JSON
+[info] tKFFi8RIw3U: Downloading 2 format(s): 137, 251
+[info] tKFFi8RIw3U: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/tKFFi8RIw3U.mp4
+[download] 100% of    5.44MiB in 00:00:15 at 363.31KiB/s
+[download] Destination: data/audio/tKFFi8RIw3U.webm
+[download] 100% of  406.51KiB in 00:00:00 at 848.07KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=GgE2VODXulQ
+[youtube] GgE2VODXulQ: Downloading webpage
+[youtube] GgE2VODXulQ: Downloading tv client config
+[youtube] GgE2VODXulQ: Downloading player 9599b765-main
+[youtube] GgE2VODXulQ: Downloading tv player API JSON
+[info] GgE2VODXulQ: Downloading 2 format(s): 137, 251
+[info] GgE2VODXulQ: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/GgE2VODXulQ.mp4
+[download] 100% of   11.70MiB in 00:00:16 at 737.34KiB/s
+[download] Destination: data/audio/GgE2VODXulQ.webm
+[download] 100% of  518.49KiB in 00:00:00 at 653.53KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=iqy3axjC-uA
+[youtube] iqy3axjC-uA: Downloading webpage
+[youtube] iqy3axjC-uA: Downloading tv client config
+[youtube] iqy3axjC-uA: Downloading player 9599b765-main
+[youtube] iqy3axjC-uA: Downloading tv player API JSON
+[info] iqy3axjC-uA: Downloading 2 format(s): 137, 251
+[info] iqy3axjC-uA: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/iqy3axjC-uA.mp4
+[download] 100% of   11.54MiB in 00:00:23 at 499.87KiB/s
+[download] Destination: data/audio/iqy3axjC-uA.webm
+[download] 100% of  391.89KiB in 00:00:00 at 758.11KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=DWB4nb6gtmo
+[youtube] DWB4nb6gtmo: Downloading webpage
+[youtube] DWB4nb6gtmo: Downloading tv client config
+[youtube] DWB4nb6gtmo: Downloading player 9599b765-main
+[youtube] DWB4nb6gtmo: Downloading tv player API JSON
+[info] DWB4nb6gtmo: Downloading 2 format(s): 136, 251
+[info] DWB4nb6gtmo: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/DWB4nb6gtmo.mp4
+[download] 100% of    6.49MiB in 00:00:20 at 330.56KiB/s
+[download] Destination: data/audio/DWB4nb6gtmo.webm
+[download] 100% of  488.69KiB in 00:00:00 at 850.57KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=4B5qdJjDs1M
+[youtube] 4B5qdJjDs1M: Downloading webpage
+[youtube] 4B5qdJjDs1M: Downloading tv client config
+[youtube] 4B5qdJjDs1M: Downloading player 9599b765-main
+[youtube] 4B5qdJjDs1M: Downloading tv player API JSON
+[info] 4B5qdJjDs1M: Downloading 2 format(s): 137, 251
+[info] 4B5qdJjDs1M: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/4B5qdJjDs1M.mp4
+[download] 100% of   11.57MiB in 00:00:14 at 801.72KiB/s
+[download] Destination: data/audio/4B5qdJjDs1M.webm
+[download] 100% of  427.91KiB in 00:00:00 at 517.56KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=gBjnt9awQAM
+[youtube] gBjnt9awQAM: Downloading webpage
+[youtube] gBjnt9awQAM: Downloading tv client config
+[youtube] gBjnt9awQAM: Downloading player 9599b765-main
+[youtube] gBjnt9awQAM: Downloading tv player API JSON
+[info] gBjnt9awQAM: Downloading 2 format(s): 399, 251
+[info] gBjnt9awQAM: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/gBjnt9awQAM.mp4
+[download] 100% of    4.94MiB in 00:00:00 at 7.55MiB/s
+[download] Destination: data/audio/gBjnt9awQAM.webm
+[download] 100% of  459.80KiB in 00:00:00 at 1.90MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=WTcGyIw6ePg
+[youtube] WTcGyIw6ePg: Downloading webpage
+[youtube] WTcGyIw6ePg: Downloading tv client config
+[youtube] WTcGyIw6ePg: Downloading player 9599b765-main
+[youtube] WTcGyIw6ePg: Downloading tv player API JSON
+[info] WTcGyIw6ePg: Downloading 2 format(s): 137, 251
+[info] WTcGyIw6ePg: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/WTcGyIw6ePg.mp4
+[download] 100% of    3.35MiB in 00:00:12 at 272.88KiB/s
+[download] Destination: data/audio/WTcGyIw6ePg.webm
+[download] 100% of  452.89KiB in 00:00:00 at 587.58KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Rw3T9DJXwos
+[youtube] Rw3T9DJXwos: Downloading webpage
+[youtube] Rw3T9DJXwos: Downloading tv client config
+[youtube] Rw3T9DJXwos: Downloading player 9599b765-main
+[youtube] Rw3T9DJXwos: Downloading tv player API JSON
+[info] Rw3T9DJXwos: Downloading 2 format(s): 137, 251
+[info] Rw3T9DJXwos: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/Rw3T9DJXwos.mp4
+[download] 100% of    9.78MiB in 00:00:18 at 553.83KiB/s
+[download] Destination: data/audio/Rw3T9DJXwos.webm
+[download] 100% of  494.31KiB in 00:00:00 at 518.85KiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=brR1FH6nUCY
+[youtube] brR1FH6nUCY: Downloading webpage
+[youtube] brR1FH6nUCY: Downloading tv client config
+[youtube] brR1FH6nUCY: Downloading player 9599b765-main
+[youtube] brR1FH6nUCY: Downloading tv player API JSON
+[info] brR1FH6nUCY: Downloading 2 format(s): 137, 251
+[info] brR1FH6nUCY: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/brR1FH6nUCY.mp4
+[download] 100% of    9.99MiB in 00:00:14 at 686.50KiB/s
+[download] Destination: data/audio/brR1FH6nUCY.webm
+[download] 100% of  450.83KiB in 00:00:00 at 2.29MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Ofv2AYEKr38
+[youtube] Ofv2AYEKr38: Downloading webpage
+[youtube] Ofv2AYEKr38: Downloading tv client config
+[youtube] Ofv2AYEKr38: Downloading player 9599b765-main
+[youtube] Ofv2AYEKr38: Downloading tv player API JSON
+[info] Ofv2AYEKr38: Downloading 2 format(s): 137, 251
+[info] Ofv2AYEKr38: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/Ofv2AYEKr38.mp4
+[download] 100% of   11.06MiB in 00:00:15 at 733.27KiB/s
+[download] Destination: data/audio/Ofv2AYEKr38.webm
+[download] 100% of  433.84KiB in 00:00:00 at 1.02MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=EwMm6DH-XD0
+[youtube] EwMm6DH-XD0: Downloading webpage
+[youtube] EwMm6DH-XD0: Downloading tv client config
+[youtube] EwMm6DH-XD0: Downloading player 9599b765-main
+[youtube] EwMm6DH-XD0: Downloading tv player API JSON
+[info] EwMm6DH-XD0: Downloading 2 format(s): 136, 251
+[info] EwMm6DH-XD0: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/EwMm6DH-XD0.mp4
+[download] 100% of    3.72MiB in 00:00:00 at 7.83MiB/s
+[download] Destination: data/audio/EwMm6DH-XD0.webm
+[download] 100% of  485.59KiB in 00:00:00 at 3.57MiB/s
+[youtube] Extracting URL: https://www.youtube.com/watch?v=wUA0ncaHT40
+[youtube] wUA0ncaHT40: Downloading webpage
+[youtube] wUA0ncaHT40: Downloading tv client config
+[youtube] wUA0ncaHT40: Downloading player 9599b765-main
+[youtube] wUA0ncaHT40: Downloading tv player API JSON
+[info] wUA0ncaHT40: Downloading 2 format(s): 136, 251
+[info] wUA0ncaHT40: Downloading 1 time ranges: 0.0-30.0
+[download] Destination: data/video/wUA0ncaHT40.mp4
+[download] 100% of    3.06MiB in 00:00:14 at 219.65KiB/s
+[download] Destination: data/audio/wUA0ncaHT40.webm
+[download] 100% of  384.63KiB in 00:00:00 at 2.19MiB/s
+Processing 250 video(s) from index 11750 to 12000.
+https://www.youtube.com/watch?v=iWO_A7tRKvQ
+Downloading: https://www.youtube.com/watch?v=iWO_A7tRKvQ using proxy: no proxy
+Waiting for an extra 5.1 seconds before downloading Video 1...
+
+https://www.youtube.com/watch?v=wRWt-mxt5S8
+Downloading: https://www.youtube.com/watch?v=wRWt-mxt5S8 using proxy: no proxy
+Waiting for an extra 7.4 seconds before downloading Video 2...
+
+https://www.youtube.com/watch?v=n64H3WXoEs8
+Downloading: https://www.youtube.com/watch?v=n64H3WXoEs8 using proxy: no proxy
+Waiting for an extra 5.7 seconds before downloading Video 3...
+
+https://www.youtube.com/watch?v=xZp0EktowJw
+Downloading: https://www.youtube.com/watch?v=xZp0EktowJw using proxy: no proxy
+Waiting for an extra 6.2 seconds before downloading Video 4...
+
+https://www.youtube.com/watch?v=e1O67nNmQVA
+Downloading: https://www.youtube.com/watch?v=e1O67nNmQVA using proxy: no proxy
+Waiting for an extra 5.3 seconds before downloading Video 5...
+
+https://www.youtube.com/watch?v=sPZJQCGk24A
+Downloading: https://www.youtube.com/watch?v=sPZJQCGk24A using proxy: no proxy
+Error downloading https://www.youtube.com/watch?v=sPZJQCGk24A using proxy  (return code: 1).
+Waiting for an extra 6.8 seconds before downloading Video 6...
+
+https://www.youtube.com/watch?v=Ss7xGo5ZlLs
+Downloading: https://www.youtube.com/watch?v=Ss7xGo5ZlLs using proxy: no proxy
+Waiting for an extra 5.8 seconds before downloading Video 7...
+
+https://www.youtube.com/watch?v=VIuGtdQ96EI
+Downloading: https://www.youtube.com/watch?v=VIuGtdQ96EI using proxy: no proxy
+Waiting for an extra 8.9 seconds before downloading Video 8...
+
+https://www.youtube.com/watch?v=cM4OVxdR2zc
+Downloading: https://www.youtube.com/watch?v=cM4OVxdR2zc using proxy: no proxy
+Waiting for an extra 6.0 seconds before downloading Video 9...
+
+https://www.youtube.com/watch?v=I2ISni4RhEE
+Downloading: https://www.youtube.com/watch?v=I2ISni4RhEE using proxy: no proxy
+Waiting for an extra 6.9 seconds before downloading Video 10...
+
+https://www.youtube.com/watch?v=sJI9zyOP-mE
+Downloading: https://www.youtube.com/watch?v=sJI9zyOP-mE using proxy: no proxy
+Waiting for an extra 6.1 seconds before downloading Video 11...
+
+https://www.youtube.com/watch?v=P6nQ3E-Cyfk
+Downloading: https://www.youtube.com/watch?v=P6nQ3E-Cyfk using proxy: no proxy
+Waiting for an extra 9.6 seconds before downloading Video 12...
+
+https://www.youtube.com/watch?v=dDfoXrRlPmA
+Downloading: https://www.youtube.com/watch?v=dDfoXrRlPmA using proxy: no proxy
+Waiting for an extra 9.8 seconds before downloading Video 13...
+
+https://www.youtube.com/watch?v=uNq7F6KJW0c
+Downloading: https://www.youtube.com/watch?v=uNq7F6KJW0c using proxy: no proxy
+Waiting for an extra 7.8 seconds before downloading Video 14...
+
+https://www.youtube.com/watch?v=qWmwGI5hoGY
+Downloading: https://www.youtube.com/watch?v=qWmwGI5hoGY using proxy: no proxy
+Waiting for an extra 7.8 seconds before downloading Video 15...
+
+https://www.youtube.com/watch?v=SO02HziBbe4
+Downloading: https://www.youtube.com/watch?v=SO02HziBbe4 using proxy: no proxy
+Waiting for an extra 6.4 seconds before downloading Video 16...
+
+https://www.youtube.com/watch?v=LdLtLcFS98E
+Downloading: https://www.youtube.com/watch?v=LdLtLcFS98E using proxy: no proxy
+Waiting for an extra 7.2 seconds before downloading Video 17...
+
+https://www.youtube.com/watch?v=tGtFSj46TBg
+Downloading: https://www.youtube.com/watch?v=tGtFSj46TBg using proxy: no proxy
+Waiting for an extra 6.8 seconds before downloading Video 18...
+
+https://www.youtube.com/watch?v=d8pWEZQgeWY
+Downloading: https://www.youtube.com/watch?v=d8pWEZQgeWY using proxy: no proxy
+Waiting for an extra 7.7 seconds before downloading Video 19...
+
+https://www.youtube.com/watch?v=drMzTc_hqzw
+Downloading: https://www.youtube.com/watch?v=drMzTc_hqzw using proxy: no proxy
+Waiting for an extra 7.2 seconds before downloading Video 20...
+
+https://www.youtube.com/watch?v=4AvJGzXCMHI
+Downloading: https://www.youtube.com/watch?v=4AvJGzXCMHI using proxy: no proxy
+Waiting for an extra 9.3 seconds before downloading Video 21...
+
+https://www.youtube.com/watch?v=OsKKnztVbV0
+Downloading: https://www.youtube.com/watch?v=OsKKnztVbV0 using proxy: no proxy
+Waiting for an extra 9.1 seconds before downloading Video 22...
+
+https://www.youtube.com/watch?v=GVVYB8gaSqc
+Downloading: https://www.youtube.com/watch?v=GVVYB8gaSqc using proxy: no proxy
+Waiting for an extra 8.4 seconds before downloading Video 23...
+
+https://www.youtube.com/watch?v=tpdvP10qSeg
+Downloading: https://www.youtube.com/watch?v=tpdvP10qSeg using proxy: no proxy
+Waiting for an extra 5.2 seconds before downloading Video 24...
+
+https://www.youtube.com/watch?v=jEkx9Ew9P6A
+Downloading: https://www.youtube.com/watch?v=jEkx9Ew9P6A using proxy: no proxy
+Waiting for an extra 9.2 seconds before downloading Video 25...
+
+https://www.youtube.com/watch?v=v-QjdNi45CI
+Downloading: https://www.youtube.com/watch?v=v-QjdNi45CI using proxy: no proxy
+Error downloading https://www.youtube.com/watch?v=v-QjdNi45CI using proxy  (return code: 1).
+Waiting for an extra 5.0 seconds before downloading Video 26...
+
+https://www.youtube.com/watch?v=d3WPMMbrhVE
+Downloading: https://www.youtube.com/watch?v=d3WPMMbrhVE using proxy: no proxy
+Waiting for an extra 6.0 seconds before downloading Video 27...
+
+https://www.youtube.com/watch?v=EnU_6lEnyfc
+Downloading: https://www.youtube.com/watch?v=EnU_6lEnyfc using proxy: no proxy
+Waiting for an extra 8.7 seconds before downloading Video 28...
+
+https://www.youtube.com/watch?v=dqac6X-63C0
+Downloading: https://www.youtube.com/watch?v=dqac6X-63C0 using proxy: no proxy
+Waiting for an extra 9.2 seconds before downloading Video 29...
+
+https://www.youtube.com/watch?v=02rqjtoOIDI
+Downloading: https://www.youtube.com/watch?v=02rqjtoOIDI using proxy: no proxy
+Waiting for an extra 7.4 seconds before downloading Video 30...
+
+https://www.youtube.com/watch?v=uFcBOkaY6G8
+Downloading: https://www.youtube.com/watch?v=uFcBOkaY6G8 using proxy: no proxy
+Error downloading https://www.youtube.com/watch?v=uFcBOkaY6G8 using proxy  (return code: 1).
+Waiting for an extra 9.9 seconds before downloading Video 31...
+
+https://www.youtube.com/watch?v=w9LOMca5Yb0
+Downloading: https://www.youtube.com/watch?v=w9LOMca5Yb0 using proxy: no proxy
+Waiting for an extra 7.0 seconds before downloading Video 32...
+
+https://www.youtube.com/watch?v=gJUWxDe5qQc
+Downloading: https://www.youtube.com/watch?v=gJUWxDe5qQc using proxy: no proxy
+Waiting for an extra 8.2 seconds before downloading Video 33...
+
+https://www.youtube.com/watch?v=b1u8XNihgX0
+Downloading: https://www.youtube.com/watch?v=b1u8XNihgX0 using proxy: no proxy
+Waiting for an extra 7.5 seconds before downloading Video 34...
+
+https://www.youtube.com/watch?v=c6cf9-Yff3w
+Downloading: https://www.youtube.com/watch?v=c6cf9-Yff3w using proxy: no proxy
+Waiting for an extra 5.7 seconds before downloading Video 35...
+
+https://www.youtube.com/watch?v=3iEzLW1090s
+Downloading: https://www.youtube.com/watch?v=3iEzLW1090s using proxy: no proxy
+Waiting for an extra 8.7 seconds before downloading Video 36...
+
+https://www.youtube.com/watch?v=2hY_DD6g5Uc
+Downloading: https://www.youtube.com/watch?v=2hY_DD6g5Uc using proxy: no proxy
+Waiting for an extra 5.4 seconds before downloading Video 37...
+
+https://www.youtube.com/watch?v=Iq2dpPKeEQs
+Downloading: https://www.youtube.com/watch?v=Iq2dpPKeEQs using proxy: no proxy
+Waiting for an extra 7.4 seconds before downloading Video 38...
+
+https://www.youtube.com/watch?v=9V-luYi8uLs
+Downloading: https://www.youtube.com/watch?v=9V-luYi8uLs using proxy: no proxy
+Waiting for an extra 9.2 seconds before downloading Video 39...
+
+https://www.youtube.com/watch?v=ead8_cygRls
+Downloading: https://www.youtube.com/watch?v=ead8_cygRls using proxy: no proxy
+Waiting for an extra 6.8 seconds before downloading Video 40...
+
+https://www.youtube.com/watch?v=1NT_h2G89qI
+Downloading: https://www.youtube.com/watch?v=1NT_h2G89qI using proxy: no proxy
+Waiting for an extra 7.8 seconds before downloading Video 41...
+
+https://www.youtube.com/watch?v=QwTfR-Flwtk
+Downloading: https://www.youtube.com/watch?v=QwTfR-Flwtk using proxy: no proxy
+Waiting for an extra 7.1 seconds before downloading Video 42...
+
+https://www.youtube.com/watch?v=l3UJJq4Vy9A
+Downloading: https://www.youtube.com/watch?v=l3UJJq4Vy9A using proxy: no proxy
+Waiting for an extra 7.4 seconds before downloading Video 43...
+
+https://www.youtube.com/watch?v=ELmYFdQQ2lI
+Downloading: https://www.youtube.com/watch?v=ELmYFdQQ2lI using proxy: no proxy
+Waiting for an extra 5.1 seconds before downloading Video 44...
+
+https://www.youtube.com/watch?v=wCe5fBo4k4A
+Downloading: https://www.youtube.com/watch?v=wCe5fBo4k4A using proxy: no proxy
+Waiting for an extra 5.1 seconds before downloading Video 45...
+
+https://www.youtube.com/watch?v=xliu9twQJDk
+Downloading: https://www.youtube.com/watch?v=xliu9twQJDk using proxy: no proxy
+Waiting for an extra 8.0 seconds before downloading Video 46...
+
+https://www.youtube.com/watch?v=gDBJaUFV7aw
+Downloading: https://www.youtube.com/watch?v=gDBJaUFV7aw using proxy: no proxy
+Waiting for an extra 5.2 seconds before downloading Video 47...
+
+https://www.youtube.com/watch?v=2fRxjh7dpEk
+Downloading: https://www.youtube.com/watch?v=2fRxjh7dpEk using proxy: no proxy
+Error downloading https://www.youtube.com/watch?v=2fRxjh7dpEk using proxy  (return code: 1).
+Waiting for an extra 9.2 seconds before downloading Video 48...
+
+https://www.youtube.com/watch?v=13HWkC9d2N0
+Downloading: https://www.youtube.com/watch?v=13HWkC9d2N0 using proxy: no proxy
+Waiting for an extra 6.9 seconds before downloading Video 49...
+
+https://www.youtube.com/watch?v=IWYUyJNUyGs
+Downloading: https://www.youtube.com/watch?v=IWYUyJNUyGs using proxy: no proxy
+Waiting for an extra 7.6 seconds before downloading Video 50...
+
+https://www.youtube.com/watch?v=kWzjybfe-ZA
+Downloading: https://www.youtube.com/watch?v=kWzjybfe-ZA using proxy: no proxy
+Error downloading https://www.youtube.com/watch?v=kWzjybfe-ZA using proxy  (return code: 1).
+Waiting for an extra 5.5 seconds before downloading Video 51...
+
+https://www.youtube.com/watch?v=1IiHDfKbeWk
+Downloading: https://www.youtube.com/watch?v=1IiHDfKbeWk using proxy: no proxy
+Waiting for an extra 5.9 seconds before downloading Video 52...
+
+https://www.youtube.com/watch?v=ZnAMFaNlneU
+Downloading: https://www.youtube.com/watch?v=ZnAMFaNlneU using proxy: no proxy
+Waiting for an extra 5.1 seconds before downloading Video 53...
+
+https://www.youtube.com/watch?v=JBwrY1eTajw
+Downloading: https://www.youtube.com/watch?v=JBwrY1eTajw using proxy: no proxy
+Waiting for an extra 8.9 seconds before downloading Video 54...
+
+https://www.youtube.com/watch?v=96a_agrtfnU
+Downloading: https://www.youtube.com/watch?v=96a_agrtfnU using proxy: no proxy
+Waiting for an extra 7.8 seconds before downloading Video 55...
+
+https://www.youtube.com/watch?v=B1UKc8fJd0s
+Downloading: https://www.youtube.com/watch?v=B1UKc8fJd0s using proxy: no proxy
+Waiting for an extra 9.6 seconds before downloading Video 56...
+
+https://www.youtube.com/watch?v=HoBOAS4PydM
+Downloading: https://www.youtube.com/watch?v=HoBOAS4PydM using proxy: no proxy
+Waiting for an extra 8.3 seconds before downloading Video 57...
+
+https://www.youtube.com/watch?v=sfGVliWxliA
+Downloading: https://www.youtube.com/watch?v=sfGVliWxliA using proxy: no proxy
+Waiting for an extra 5.5 seconds before downloading Video 58...
+
+https://www.youtube.com/watch?v=Mmi9NyvAxRs
+Downloading: https://www.youtube.com/watch?v=Mmi9NyvAxRs using proxy: no proxy
+Waiting for an extra 5.2 seconds before downloading Video 59...
+
+https://www.youtube.com/watch?v=LrNLPA0QNgo
+Downloading: https://www.youtube.com/watch?v=LrNLPA0QNgo using proxy: no proxy
+Waiting for an extra 6.0 seconds before downloading Video 60...
+
+https://www.youtube.com/watch?v=8QoQwZkuwJs
+Downloading: https://www.youtube.com/watch?v=8QoQwZkuwJs using proxy: no proxy
+Waiting for an extra 7.1 seconds before downloading Video 61...
+
+https://www.youtube.com/watch?v=iK_1S_4_a8A
+Downloading: https://www.youtube.com/watch?v=iK_1S_4_a8A using proxy: no proxy
+Waiting for an extra 7.2 seconds before downloading Video 62...
+
+https://www.youtube.com/watch?v=0QrNnmlVqaI
+Downloading: https://www.youtube.com/watch?v=0QrNnmlVqaI using proxy: no proxy
+Waiting for an extra 5.2 seconds before downloading Video 63...
+
+https://www.youtube.com/watch?v=IDShkZSJwlA
+Downloading: https://www.youtube.com/watch?v=IDShkZSJwlA using proxy: no proxy
+Waiting for an extra 5.6 seconds before downloading Video 64...
+
+https://www.youtube.com/watch?v=GPaIZVhYDow
+Downloading: https://www.youtube.com/watch?v=GPaIZVhYDow using proxy: no proxy
+Waiting for an extra 6.9 seconds before downloading Video 65...
+
+https://www.youtube.com/watch?v=oJ9HQV0F2C4
+Downloading: https://www.youtube.com/watch?v=oJ9HQV0F2C4 using proxy: no proxy
+Waiting for an extra 9.4 seconds before downloading Video 66...
+
+https://www.youtube.com/watch?v=nD1lLy7pSQY
+Downloading: https://www.youtube.com/watch?v=nD1lLy7pSQY using proxy: no proxy
+Waiting for an extra 6.0 seconds before downloading Video 67...
+
+https://www.youtube.com/watch?v=6SwbXKrynpk
+Downloading: https://www.youtube.com/watch?v=6SwbXKrynpk using proxy: no proxy
+Waiting for an extra 5.5 seconds before downloading Video 68...
+
+https://www.youtube.com/watch?v=QkaeJrBsjMs
+Downloading: https://www.youtube.com/watch?v=QkaeJrBsjMs using proxy: no proxy
+Waiting for an extra 5.6 seconds before downloading Video 69...
+
+https://www.youtube.com/watch?v=BjAdRYM9iR4
+Downloading: https://www.youtube.com/watch?v=BjAdRYM9iR4 using proxy: no proxy
+Waiting for an extra 9.5 seconds before downloading Video 70...
+
+https://www.youtube.com/watch?v=4O5jgB6YJvI
+Downloading: https://www.youtube.com/watch?v=4O5jgB6YJvI using proxy: no proxy
+Error downloading https://www.youtube.com/watch?v=4O5jgB6YJvI using proxy  (return code: 1).
+Waiting for an extra 7.2 seconds before downloading Video 71...
+
+https://www.youtube.com/watch?v=is-1E1n0jMo
+Downloading: https://www.youtube.com/watch?v=is-1E1n0jMo using proxy: no proxy
+Waiting for an extra 9.8 seconds before downloading Video 72...
+
+https://www.youtube.com/watch?v=FokKTveUYHE
+Downloading: https://www.youtube.com/watch?v=FokKTveUYHE using proxy: no proxy
+Waiting for an extra 7.6 seconds before downloading Video 73...
+
+https://www.youtube.com/watch?v=oxcdE0VYppA
+Downloading: https://www.youtube.com/watch?v=oxcdE0VYppA using proxy: no proxy
+Error downloading https://www.youtube.com/watch?v=oxcdE0VYppA using proxy  (return code: 1).
+Waiting for an extra 6.1 seconds before downloading Video 74...
+
+https://www.youtube.com/watch?v=ALaAVxhpthw
+Downloading: https://www.youtube.com/watch?v=ALaAVxhpthw using proxy: no proxy
+Waiting for an extra 6.4 seconds before downloading Video 75...
+
+https://www.youtube.com/watch?v=poOn1HdpEFs
+Downloading: https://www.youtube.com/watch?v=poOn1HdpEFs using proxy: no proxy
+Waiting for an extra 9.7 seconds before downloading Video 76...
+
+https://www.youtube.com/watch?v=HNZ9iUF2tBk
+Downloading: https://www.youtube.com/watch?v=HNZ9iUF2tBk using proxy: no proxy
+Waiting for an extra 5.0 seconds before downloading Video 77...
+
+https://www.youtube.com/watch?v=CVVvm07C4Sk
+Downloading: https://www.youtube.com/watch?v=CVVvm07C4Sk using proxy: no proxy
+Waiting for an extra 8.1 seconds before downloading Video 78...
+
+https://www.youtube.com/watch?v=yWKN9x07bVo
+Downloading: https://www.youtube.com/watch?v=yWKN9x07bVo using proxy: no proxy
+Waiting for an extra 7.5 seconds before downloading Video 79...
+
+https://www.youtube.com/watch?v=61U9L78KnAQ
+Downloading: https://www.youtube.com/watch?v=61U9L78KnAQ using proxy: no proxy
+Waiting for an extra 6.1 seconds before downloading Video 80...
+
+https://www.youtube.com/watch?v=IwjX701eUxU
+Downloading: https://www.youtube.com/watch?v=IwjX701eUxU using proxy: no proxy
+Waiting for an extra 5.9 seconds before downloading Video 81...
+
+https://www.youtube.com/watch?v=o7G1gi9RPH4
+Downloading: https://www.youtube.com/watch?v=o7G1gi9RPH4 using proxy: no proxy
+Waiting for an extra 5.2 seconds before downloading Video 82...
+
+https://www.youtube.com/watch?v=n4WfaaJi_fQ
+Downloading: https://www.youtube.com/watch?v=n4WfaaJi_fQ using proxy: no proxy
+Waiting for an extra 7.1 seconds before downloading Video 83...
+
+https://www.youtube.com/watch?v=bVr43cQW1O8
+Downloading: https://www.youtube.com/watch?v=bVr43cQW1O8 using proxy: no proxy
+Waiting for an extra 7.1 seconds before downloading Video 84...
+
+https://www.youtube.com/watch?v=k7hoxTrvOKk
+Downloading: https://www.youtube.com/watch?v=k7hoxTrvOKk using proxy: no proxy
+Waiting for an extra 8.2 seconds before downloading Video 85...
+
+https://www.youtube.com/watch?v=giJQs67ftKQ
+Downloading: https://www.youtube.com/watch?v=giJQs67ftKQ using proxy: no proxy
+Waiting for an extra 5.1 seconds before downloading Video 86...
+
+https://www.youtube.com/watch?v=Qsq7uDqjoio
+Downloading: https://www.youtube.com/watch?v=Qsq7uDqjoio using proxy: no proxy
+Waiting for an extra 6.6 seconds before downloading Video 87...
+
+https://www.youtube.com/watch?v=uuM3xlKzyG0
+Downloading: https://www.youtube.com/watch?v=uuM3xlKzyG0 using proxy: no proxy
+Waiting for an extra 7.4 seconds before downloading Video 88...
+
+https://www.youtube.com/watch?v=D4QAClXFUGw
+Downloading: https://www.youtube.com/watch?v=D4QAClXFUGw using proxy: no proxy
+Waiting for an extra 6.0 seconds before downloading Video 89...
+
+https://www.youtube.com/watch?v=IzTSDCjd8Jw
+Downloading: https://www.youtube.com/watch?v=IzTSDCjd8Jw using proxy: no proxy
+Waiting for an extra 7.5 seconds before downloading Video 90...
+
+https://www.youtube.com/watch?v=NGyOELUyfII
+Downloading: https://www.youtube.com/watch?v=NGyOELUyfII using proxy: no proxy
+Waiting for an extra 6.7 seconds before downloading Video 91...
+
+https://www.youtube.com/watch?v=zyd0XBJ_znY
+Downloading: https://www.youtube.com/watch?v=zyd0XBJ_znY using proxy: no proxy
+Waiting for an extra 8.6 seconds before downloading Video 92...
+
+https://www.youtube.com/watch?v=k1f6k3BFtDY
+Downloading: https://www.youtube.com/watch?v=k1f6k3BFtDY using proxy: no proxy
+Waiting for an extra 9.6 seconds before downloading Video 93...
+
+https://www.youtube.com/watch?v=f9TxjZmfTl8
+Downloading: https://www.youtube.com/watch?v=f9TxjZmfTl8 using proxy: no proxy
+Waiting for an extra 6.2 seconds before downloading Video 94...
+
+https://www.youtube.com/watch?v=5hV8zbYWi1Y
+Downloading: https://www.youtube.com/watch?v=5hV8zbYWi1Y using proxy: no proxy
+Waiting for an extra 7.5 seconds before downloading Video 95...
+
+https://www.youtube.com/watch?v=mahEy3BCwLc
+Downloading: https://www.youtube.com/watch?v=mahEy3BCwLc using proxy: no proxy
+Waiting for an extra 7.2 seconds before downloading Video 96...
+
+https://www.youtube.com/watch?v=_AfBsKmEzrM
+Downloading: https://www.youtube.com/watch?v=_AfBsKmEzrM using proxy: no proxy
+Waiting for an extra 6.9 seconds before downloading Video 97...
+
+https://www.youtube.com/watch?v=rMcd6boqPNA
+Downloading: https://www.youtube.com/watch?v=rMcd6boqPNA using proxy: no proxy
+Waiting for an extra 6.3 seconds before downloading Video 98...
+
+https://www.youtube.com/watch?v=SOGxh7M51E0
+Downloading: https://www.youtube.com/watch?v=SOGxh7M51E0 using proxy: no proxy
+Waiting for an extra 8.7 seconds before downloading Video 99...
+
+https://www.youtube.com/watch?v=NtrHU5xM0io
+Downloading: https://www.youtube.com/watch?v=NtrHU5xM0io using proxy: no proxy
+Error downloading https://www.youtube.com/watch?v=NtrHU5xM0io using proxy  (return code: 1).
+Waiting for an extra 5.5 seconds before downloading Video 100...
+
+https://www.youtube.com/watch?v=e1mIQBdALrY
+Downloading: https://www.youtube.com/watch?v=e1mIQBdALrY using proxy: no proxy
+Error downloading https://www.youtube.com/watch?v=e1mIQBdALrY using proxy  (return code: 1).
+Waiting for an extra 5.2 seconds before downloading Video 101...
+
+https://www.youtube.com/watch?v=9PjnksaEjpw
+Downloading: https://www.youtube.com/watch?v=9PjnksaEjpw using proxy: no proxy
+Waiting for an extra 5.3 seconds before downloading Video 102...
+
+https://www.youtube.com/watch?v=-JiWnGQgKNk
+Downloading: https://www.youtube.com/watch?v=-JiWnGQgKNk using proxy: no proxy
+Waiting for an extra 7.7 seconds before downloading Video 103...
+
+https://www.youtube.com/watch?v=1acN28HPHfI
+Downloading: https://www.youtube.com/watch?v=1acN28HPHfI using proxy: no proxy
+Waiting for an extra 6.2 seconds before downloading Video 104...
+
+https://www.youtube.com/watch?v=usKZKs78pRY
+Downloading: https://www.youtube.com/watch?v=usKZKs78pRY using proxy: no proxy
+Waiting for an extra 8.0 seconds before downloading Video 105...
+
+https://www.youtube.com/watch?v=CtsFj_P7CgQ
+Downloading: https://www.youtube.com/watch?v=CtsFj_P7CgQ using proxy: no proxy
+Waiting for an extra 8.8 seconds before downloading Video 106...
+
+https://www.youtube.com/watch?v=UObw8kCaVLo
+Downloading: https://www.youtube.com/watch?v=UObw8kCaVLo using proxy: no proxy
+Waiting for an extra 9.1 seconds before downloading Video 107...
+
+https://www.youtube.com/watch?v=y1BKdfOUFBA
+Downloading: https://www.youtube.com/watch?v=y1BKdfOUFBA using proxy: no proxy
+Waiting for an extra 6.7 seconds before downloading Video 108...
+
+https://www.youtube.com/watch?v=lpk-SgYa7tw
+Downloading: https://www.youtube.com/watch?v=lpk-SgYa7tw using proxy: no proxy
+Waiting for an extra 9.6 seconds before downloading Video 109...
+
+https://www.youtube.com/watch?v=dZywhFFTRDE
+Downloading: https://www.youtube.com/watch?v=dZywhFFTRDE using proxy: no proxy
+Waiting for an extra 9.1 seconds before downloading Video 110...
+
+https://www.youtube.com/watch?v=TMpMaWdfVZ0
+Downloading: https://www.youtube.com/watch?v=TMpMaWdfVZ0 using proxy: no proxy
+Waiting for an extra 9.0 seconds before downloading Video 111...
+
+https://www.youtube.com/watch?v=HbJxeD7Iqrk
+Downloading: https://www.youtube.com/watch?v=HbJxeD7Iqrk using proxy: no proxy
+Waiting for an extra 6.0 seconds before downloading Video 112...
+
+https://www.youtube.com/watch?v=nTyUhRYSVU4
+Downloading: https://www.youtube.com/watch?v=nTyUhRYSVU4 using proxy: no proxy
+Waiting for an extra 7.3 seconds before downloading Video 113...
+
+https://www.youtube.com/watch?v=D82_nljxdoQ
+Downloading: https://www.youtube.com/watch?v=D82_nljxdoQ using proxy: no proxy
+Error downloading https://www.youtube.com/watch?v=D82_nljxdoQ using proxy  (return code: 1).
+Waiting for an extra 6.1 seconds before downloading Video 114...
+
+https://www.youtube.com/watch?v=Mt6KQasj9yQ
+Downloading: https://www.youtube.com/watch?v=Mt6KQasj9yQ using proxy: no proxy
+Waiting for an extra 7.9 seconds before downloading Video 115...
+
+https://www.youtube.com/watch?v=9XqDGddttpk
+Downloading: https://www.youtube.com/watch?v=9XqDGddttpk using proxy: no proxy
+Waiting for an extra 8.8 seconds before downloading Video 116...
+
+https://www.youtube.com/watch?v=6PfGfak5o2g
+Downloading: https://www.youtube.com/watch?v=6PfGfak5o2g using proxy: no proxy
+Waiting for an extra 5.9 seconds before downloading Video 117...
+
+https://www.youtube.com/watch?v=PzP6NX6y2CI
+Downloading: https://www.youtube.com/watch?v=PzP6NX6y2CI using proxy: no proxy
+Waiting for an extra 9.2 seconds before downloading Video 118...
+
+https://www.youtube.com/watch?v=aCFK6zKhk-E
+Downloading: https://www.youtube.com/watch?v=aCFK6zKhk-E using proxy: no proxy
+Waiting for an extra 5.7 seconds before downloading Video 119...
+
+https://www.youtube.com/watch?v=kFyiTqVnQgk
+Downloading: https://www.youtube.com/watch?v=kFyiTqVnQgk using proxy: no proxy
+Waiting for an extra 5.2 seconds before downloading Video 120...
+
+https://www.youtube.com/watch?v=8YEJy-BSK98
+Downloading: https://www.youtube.com/watch?v=8YEJy-BSK98 using proxy: no proxy
+Waiting for an extra 8.1 seconds before downloading Video 121...
+
+https://www.youtube.com/watch?v=pWTf-oWji64
+Downloading: https://www.youtube.com/watch?v=pWTf-oWji64 using proxy: no proxy
+Waiting for an extra 7.9 seconds before downloading Video 122...
+
+https://www.youtube.com/watch?v=P3gJlITOOT8
+Downloading: https://www.youtube.com/watch?v=P3gJlITOOT8 using proxy: no proxy
+Waiting for an extra 7.5 seconds before downloading Video 123...
+
+https://www.youtube.com/watch?v=hF39nh9ljik
+Downloading: https://www.youtube.com/watch?v=hF39nh9ljik using proxy: no proxy
+Waiting for an extra 7.9 seconds before downloading Video 124...
+
+https://www.youtube.com/watch?v=BscrKlBmLjQ
+Downloading: https://www.youtube.com/watch?v=BscrKlBmLjQ using proxy: no proxy
+Waiting for an extra 7.0 seconds before downloading Video 125...
+
+https://www.youtube.com/watch?v=msLpJNpLHX0
+Downloading: https://www.youtube.com/watch?v=msLpJNpLHX0 using proxy: no proxy
+Waiting for an extra 6.5 seconds before downloading Video 126...
+
+https://www.youtube.com/watch?v=v91oyDCf1Go
+Downloading: https://www.youtube.com/watch?v=v91oyDCf1Go using proxy: no proxy
+Waiting for an extra 8.5 seconds before downloading Video 127...
+
+https://www.youtube.com/watch?v=rk3yUJRW5H4
+Downloading: https://www.youtube.com/watch?v=rk3yUJRW5H4 using proxy: no proxy
+Waiting for an extra 8.4 seconds before downloading Video 128...
+
+https://www.youtube.com/watch?v=8J7DIBvguTk
+Downloading: https://www.youtube.com/watch?v=8J7DIBvguTk using proxy: no proxy
+Waiting for an extra 7.7 seconds before downloading Video 129...
+
+https://www.youtube.com/watch?v=TEgrH93KLgY
+Downloading: https://www.youtube.com/watch?v=TEgrH93KLgY using proxy: no proxy
+Waiting for an extra 7.7 seconds before downloading Video 130...
+
+https://www.youtube.com/watch?v=YJhPVYaAVco
+Downloading: https://www.youtube.com/watch?v=YJhPVYaAVco using proxy: no proxy
+Waiting for an extra 7.3 seconds before downloading Video 131...
+
+https://www.youtube.com/watch?v=BJiS1WOvY8o
+Downloading: https://www.youtube.com/watch?v=BJiS1WOvY8o using proxy: no proxy
+Waiting for an extra 5.4 seconds before downloading Video 132...
+
+https://www.youtube.com/watch?v=IFhJ48qfAEg
+Downloading: https://www.youtube.com/watch?v=IFhJ48qfAEg using proxy: no proxy
+Waiting for an extra 7.5 seconds before downloading Video 133...
+
+https://www.youtube.com/watch?v=rCYAjkwZcd0
+Downloading: https://www.youtube.com/watch?v=rCYAjkwZcd0 using proxy: no proxy
+Waiting for an extra 6.3 seconds before downloading Video 134...
+
+https://www.youtube.com/watch?v=D3WiOIPrgg0
+Downloading: https://www.youtube.com/watch?v=D3WiOIPrgg0 using proxy: no proxy
+Waiting for an extra 6.1 seconds before downloading Video 135...
+
+https://www.youtube.com/watch?v=wxSecn55IS8
+Downloading: https://www.youtube.com/watch?v=wxSecn55IS8 using proxy: no proxy
+Waiting for an extra 9.4 seconds before downloading Video 136...
+
+https://www.youtube.com/watch?v=lOxlIf5_Ip0
+Downloading: https://www.youtube.com/watch?v=lOxlIf5_Ip0 using proxy: no proxy
+Waiting for an extra 8.0 seconds before downloading Video 137...
+
+https://www.youtube.com/watch?v=ofDzl8gx9-g
+Downloading: https://www.youtube.com/watch?v=ofDzl8gx9-g using proxy: no proxy
+Waiting for an extra 6.9 seconds before downloading Video 138...
+
+https://www.youtube.com/watch?v=F21wSLZTbN8
+Downloading: https://www.youtube.com/watch?v=F21wSLZTbN8 using proxy: no proxy
+Waiting for an extra 6.0 seconds before downloading Video 139...
+
+https://www.youtube.com/watch?v=-n0FfGr4Vw0
+Downloading: https://www.youtube.com/watch?v=-n0FfGr4Vw0 using proxy: no proxy
+Waiting for an extra 6.7 seconds before downloading Video 140...
+
+https://www.youtube.com/watch?v=nmazRNQ4EkI
+Downloading: https://www.youtube.com/watch?v=nmazRNQ4EkI using proxy: no proxy
+Waiting for an extra 6.1 seconds before downloading Video 141...
+
+https://www.youtube.com/watch?v=KjTICkm1KY0
+Downloading: https://www.youtube.com/watch?v=KjTICkm1KY0 using proxy: no proxy
+Waiting for an extra 6.6 seconds before downloading Video 142...
+
+https://www.youtube.com/watch?v=EWA4UdzcEYA
+Downloading: https://www.youtube.com/watch?v=EWA4UdzcEYA using proxy: no proxy
+Waiting for an extra 9.2 seconds before downloading Video 143...
+
+https://www.youtube.com/watch?v=7pCUbjqzQE8
+Downloading: https://www.youtube.com/watch?v=7pCUbjqzQE8 using proxy: no proxy
+Waiting for an extra 5.1 seconds before downloading Video 144...
+
+https://www.youtube.com/watch?v=sI1CPcbuHMA
+Downloading: https://www.youtube.com/watch?v=sI1CPcbuHMA using proxy: no proxy
+Waiting for an extra 5.5 seconds before downloading Video 145...
+
+https://www.youtube.com/watch?v=GotLdLEkaEI
+Downloading: https://www.youtube.com/watch?v=GotLdLEkaEI using proxy: no proxy
+Waiting for an extra 5.5 seconds before downloading Video 146...
+
+https://www.youtube.com/watch?v=q2xOtZoUSjU
+Downloading: https://www.youtube.com/watch?v=q2xOtZoUSjU using proxy: no proxy
+Waiting for an extra 5.6 seconds before downloading Video 147...
+
+https://www.youtube.com/watch?v=vHDPPosB2Z0
+Downloading: https://www.youtube.com/watch?v=vHDPPosB2Z0 using proxy: no proxy
+Waiting for an extra 6.3 seconds before downloading Video 148...
+
+https://www.youtube.com/watch?v=5ysdEFhH0oo
+Downloading: https://www.youtube.com/watch?v=5ysdEFhH0oo using proxy: no proxy
+Waiting for an extra 6.3 seconds before downloading Video 149...
+
+https://www.youtube.com/watch?v=FXEj8q1kZbE
+Downloading: https://www.youtube.com/watch?v=FXEj8q1kZbE using proxy: no proxy
+Waiting for an extra 7.4 seconds before downloading Video 150...
+
+https://www.youtube.com/watch?v=gF1ZIlg2YkY
+Downloading: https://www.youtube.com/watch?v=gF1ZIlg2YkY using proxy: no proxy
+Waiting for an extra 8.1 seconds before downloading Video 151...
+
+https://www.youtube.com/watch?v=x0spryPpCx0
+Downloading: https://www.youtube.com/watch?v=x0spryPpCx0 using proxy: no proxy
+Waiting for an extra 7.9 seconds before downloading Video 152...
+
+https://www.youtube.com/watch?v=LKVBplIrKKE
+Downloading: https://www.youtube.com/watch?v=LKVBplIrKKE using proxy: no proxy
+Waiting for an extra 8.1 seconds before downloading Video 153...
+
+https://www.youtube.com/watch?v=sLAiFl3gIoc
+Downloading: https://www.youtube.com/watch?v=sLAiFl3gIoc using proxy: no proxy
+Waiting for an extra 9.3 seconds before downloading Video 154...
+
+https://www.youtube.com/watch?v=9MVHysHtfkI
+Downloading: https://www.youtube.com/watch?v=9MVHysHtfkI using proxy: no proxy
+Waiting for an extra 6.1 seconds before downloading Video 155...
+
+https://www.youtube.com/watch?v=qEVuJVdQVlw
+Downloading: https://www.youtube.com/watch?v=qEVuJVdQVlw using proxy: no proxy
+Waiting for an extra 5.9 seconds before downloading Video 156...
+
+https://www.youtube.com/watch?v=JnAn6L7Qq2w
+Downloading: https://www.youtube.com/watch?v=JnAn6L7Qq2w using proxy: no proxy
+Waiting for an extra 6.3 seconds before downloading Video 157...
+
+https://www.youtube.com/watch?v=X-IFEy24Z7g
+Downloading: https://www.youtube.com/watch?v=X-IFEy24Z7g using proxy: no proxy
+Waiting for an extra 6.7 seconds before downloading Video 158...
+
+https://www.youtube.com/watch?v=HmJGERARcEE
+Downloading: https://www.youtube.com/watch?v=HmJGERARcEE using proxy: no proxy
+Waiting for an extra 5.4 seconds before downloading Video 159...
+
+https://www.youtube.com/watch?v=4ql1_-xhRNY
+Downloading: https://www.youtube.com/watch?v=4ql1_-xhRNY using proxy: no proxy
+Error downloading https://www.youtube.com/watch?v=4ql1_-xhRNY using proxy  (return code: 1).
+Waiting for an extra 7.1 seconds before downloading Video 160...
+
+https://www.youtube.com/watch?v=AYitqmCL7T8
+Downloading: https://www.youtube.com/watch?v=AYitqmCL7T8 using proxy: no proxy
+Waiting for an extra 6.7 seconds before downloading Video 161...
+
+https://www.youtube.com/watch?v=H9LW9ay1R4w
+Downloading: https://www.youtube.com/watch?v=H9LW9ay1R4w using proxy: no proxy
+Waiting for an extra 7.9 seconds before downloading Video 162...
+
+https://www.youtube.com/watch?v=C2vEpRb3wdg
+Downloading: https://www.youtube.com/watch?v=C2vEpRb3wdg using proxy: no proxy
+Waiting for an extra 9.0 seconds before downloading Video 163...
+
+https://www.youtube.com/watch?v=W0mGuJwtM-4
+Downloading: https://www.youtube.com/watch?v=W0mGuJwtM-4 using proxy: no proxy
+Waiting for an extra 5.2 seconds before downloading Video 164...
+
+https://www.youtube.com/watch?v=b0A9Wvszxvo
+Downloading: https://www.youtube.com/watch?v=b0A9Wvszxvo using proxy: no proxy
+Waiting for an extra 6.6 seconds before downloading Video 165...
+
+https://www.youtube.com/watch?v=LOgrosAeZmM
+Downloading: https://www.youtube.com/watch?v=LOgrosAeZmM using proxy: no proxy
+Waiting for an extra 8.3 seconds before downloading Video 166...
+
+https://www.youtube.com/watch?v=zMDU392m-kA
+Downloading: https://www.youtube.com/watch?v=zMDU392m-kA using proxy: no proxy
+Waiting for an extra 5.8 seconds before downloading Video 167...
+
+https://www.youtube.com/watch?v=Bfpx8xuJdis
+Downloading: https://www.youtube.com/watch?v=Bfpx8xuJdis using proxy: no proxy
+Waiting for an extra 9.8 seconds before downloading Video 168...
+
+https://www.youtube.com/watch?v=rrYrWQClxIU
+Downloading: https://www.youtube.com/watch?v=rrYrWQClxIU using proxy: no proxy
+Waiting for an extra 5.1 seconds before downloading Video 169...
+
+https://www.youtube.com/watch?v=8nWKL31A6b4
+Downloading: https://www.youtube.com/watch?v=8nWKL31A6b4 using proxy: no proxy
+Waiting for an extra 5.4 seconds before downloading Video 170...
+
+https://www.youtube.com/watch?v=dVT-OdpOycI
+Downloading: https://www.youtube.com/watch?v=dVT-OdpOycI using proxy: no proxy
+Waiting for an extra 5.1 seconds before downloading Video 171...
+
+https://www.youtube.com/watch?v=0a6GYoyZPC0
+Downloading: https://www.youtube.com/watch?v=0a6GYoyZPC0 using proxy: no proxy
+Waiting for an extra 8.4 seconds before downloading Video 172...
+
+https://www.youtube.com/watch?v=pkQnhvnNrDM
+Downloading: https://www.youtube.com/watch?v=pkQnhvnNrDM using proxy: no proxy
+Waiting for an extra 6.8 seconds before downloading Video 173...
+
+https://www.youtube.com/watch?v=NkgFRm-M4lU
+Downloading: https://www.youtube.com/watch?v=NkgFRm-M4lU using proxy: no proxy
+Waiting for an extra 5.4 seconds before downloading Video 174...
+
+https://www.youtube.com/watch?v=tTnZTPQo448
+Downloading: https://www.youtube.com/watch?v=tTnZTPQo448 using proxy: no proxy
+Waiting for an extra 8.4 seconds before downloading Video 175...
+
+https://www.youtube.com/watch?v=T-0OPnSbDQ4
+Downloading: https://www.youtube.com/watch?v=T-0OPnSbDQ4 using proxy: no proxy
+Waiting for an extra 5.7 seconds before downloading Video 176...
+
+https://www.youtube.com/watch?v=nK2XPHPKxjA
+Downloading: https://www.youtube.com/watch?v=nK2XPHPKxjA using proxy: no proxy
+Waiting for an extra 5.6 seconds before downloading Video 177...
+
+https://www.youtube.com/watch?v=RvViCHozBN8
+Downloading: https://www.youtube.com/watch?v=RvViCHozBN8 using proxy: no proxy
+Waiting for an extra 8.6 seconds before downloading Video 178...
+
+https://www.youtube.com/watch?v=1x9Zp6kE42Y
+Downloading: https://www.youtube.com/watch?v=1x9Zp6kE42Y using proxy: no proxy
+Waiting for an extra 9.7 seconds before downloading Video 179...
+
+https://www.youtube.com/watch?v=ffA8k5SXEX0
+Downloading: https://www.youtube.com/watch?v=ffA8k5SXEX0 using proxy: no proxy
+Waiting for an extra 8.8 seconds before downloading Video 180...
+
+https://www.youtube.com/watch?v=vze1AjdSZco
+Downloading: https://www.youtube.com/watch?v=vze1AjdSZco using proxy: no proxy
+Waiting for an extra 9.7 seconds before downloading Video 181...
+
+https://www.youtube.com/watch?v=A8OuLBPN5pI
+Downloading: https://www.youtube.com/watch?v=A8OuLBPN5pI using proxy: no proxy
+Error downloading https://www.youtube.com/watch?v=A8OuLBPN5pI using proxy  (return code: 1).
+Waiting for an extra 8.0 seconds before downloading Video 182...
+
+https://www.youtube.com/watch?v=dl9c2dNVJMw
+Downloading: https://www.youtube.com/watch?v=dl9c2dNVJMw using proxy: no proxy
+Waiting for an extra 5.8 seconds before downloading Video 183...
+
+https://www.youtube.com/watch?v=BH2HiqIuXO0
+Downloading: https://www.youtube.com/watch?v=BH2HiqIuXO0 using proxy: no proxy
+Waiting for an extra 10.0 seconds before downloading Video 184...
+
+https://www.youtube.com/watch?v=G6sOHBuDL08
+Downloading: https://www.youtube.com/watch?v=G6sOHBuDL08 using proxy: no proxy
+Waiting for an extra 6.7 seconds before downloading Video 185...
+
+https://www.youtube.com/watch?v=fwPcMRf1IXY
+Downloading: https://www.youtube.com/watch?v=fwPcMRf1IXY using proxy: no proxy
+Waiting for an extra 7.3 seconds before downloading Video 186...
+
+https://www.youtube.com/watch?v=M1xDzgob1JI
+Downloading: https://www.youtube.com/watch?v=M1xDzgob1JI using proxy: no proxy
+Waiting for an extra 5.7 seconds before downloading Video 187...
+
+https://www.youtube.com/watch?v=NI_kPGZKabU
+Downloading: https://www.youtube.com/watch?v=NI_kPGZKabU using proxy: no proxy
+Waiting for an extra 8.0 seconds before downloading Video 188...
+
+https://www.youtube.com/watch?v=LqE32n-K7Qg
+Downloading: https://www.youtube.com/watch?v=LqE32n-K7Qg using proxy: no proxy
+Waiting for an extra 5.2 seconds before downloading Video 189...
+
+https://www.youtube.com/watch?v=Y-hnH1MuFjY
+Downloading: https://www.youtube.com/watch?v=Y-hnH1MuFjY using proxy: no proxy
+Waiting for an extra 5.4 seconds before downloading Video 190...
+
+https://www.youtube.com/watch?v=VAWQ7J3e06Q
+Downloading: https://www.youtube.com/watch?v=VAWQ7J3e06Q using proxy: no proxy
+Waiting for an extra 9.6 seconds before downloading Video 191...
+
+https://www.youtube.com/watch?v=Sw_iVa6bZgs
+Downloading: https://www.youtube.com/watch?v=Sw_iVa6bZgs using proxy: no proxy
+Waiting for an extra 9.6 seconds before downloading Video 192...
+
+https://www.youtube.com/watch?v=jbEfeSYio5U
+Downloading: https://www.youtube.com/watch?v=jbEfeSYio5U using proxy: no proxy
+Waiting for an extra 6.5 seconds before downloading Video 193...
+
+https://www.youtube.com/watch?v=2oRTFMqLIY4
+Downloading: https://www.youtube.com/watch?v=2oRTFMqLIY4 using proxy: no proxy
+Waiting for an extra 8.9 seconds before downloading Video 194...
+
+https://www.youtube.com/watch?v=LWwwzKolCLc
+Downloading: https://www.youtube.com/watch?v=LWwwzKolCLc using proxy: no proxy
+Waiting for an extra 8.7 seconds before downloading Video 195...
+
+https://www.youtube.com/watch?v=EY1ZUFmiNEw
+Downloading: https://www.youtube.com/watch?v=EY1ZUFmiNEw using proxy: no proxy
+Waiting for an extra 7.2 seconds before downloading Video 196...
+
+https://www.youtube.com/watch?v=_Yx9mKFncVw
+Downloading: https://www.youtube.com/watch?v=_Yx9mKFncVw using proxy: no proxy
+Waiting for an extra 5.1 seconds before downloading Video 197...
+
+https://www.youtube.com/watch?v=Q-HVKkm3EGQ
+Downloading: https://www.youtube.com/watch?v=Q-HVKkm3EGQ using proxy: no proxy
+Waiting for an extra 7.9 seconds before downloading Video 198...
+
+https://www.youtube.com/watch?v=IXMhsx2gdLw
+Downloading: https://www.youtube.com/watch?v=IXMhsx2gdLw using proxy: no proxy
+Waiting for an extra 6.9 seconds before downloading Video 199...
+
+https://www.youtube.com/watch?v=R1sMf67kxoY
+Downloading: https://www.youtube.com/watch?v=R1sMf67kxoY using proxy: no proxy
+Waiting for an extra 6.4 seconds before downloading Video 200...
+
+https://www.youtube.com/watch?v=zJp5P52iF-E
+Downloading: https://www.youtube.com/watch?v=zJp5P52iF-E using proxy: no proxy
+Waiting for an extra 9.0 seconds before downloading Video 201...
+
+https://www.youtube.com/watch?v=F9bL8hwtGCM
+Downloading: https://www.youtube.com/watch?v=F9bL8hwtGCM using proxy: no proxy
+Waiting for an extra 6.9 seconds before downloading Video 202...
+
+https://www.youtube.com/watch?v=d_orDy_FQ5M
+Downloading: https://www.youtube.com/watch?v=d_orDy_FQ5M using proxy: no proxy
+Waiting for an extra 10.0 seconds before downloading Video 203...
+
+https://www.youtube.com/watch?v=Mufk_bYhwRI
+Downloading: https://www.youtube.com/watch?v=Mufk_bYhwRI using proxy: no proxy
+Waiting for an extra 5.2 seconds before downloading Video 204...
+
+https://www.youtube.com/watch?v=3Ryv0Jdx4b8
+Downloading: https://www.youtube.com/watch?v=3Ryv0Jdx4b8 using proxy: no proxy
+Waiting for an extra 6.3 seconds before downloading Video 205...
+
+https://www.youtube.com/watch?v=58J_9QAzgrQ
+Downloading: https://www.youtube.com/watch?v=58J_9QAzgrQ using proxy: no proxy
+Waiting for an extra 7.2 seconds before downloading Video 206...
+
+https://www.youtube.com/watch?v=3f0LOSXEFIw
+Downloading: https://www.youtube.com/watch?v=3f0LOSXEFIw using proxy: no proxy
+Waiting for an extra 5.4 seconds before downloading Video 207...
+
+https://www.youtube.com/watch?v=wFA750RlgVE
+Downloading: https://www.youtube.com/watch?v=wFA750RlgVE using proxy: no proxy
+Waiting for an extra 5.7 seconds before downloading Video 208...
+
+https://www.youtube.com/watch?v=wZAGfTA-o8I
+Downloading: https://www.youtube.com/watch?v=wZAGfTA-o8I using proxy: no proxy
+Waiting for an extra 8.4 seconds before downloading Video 209...
+
+https://www.youtube.com/watch?v=Ar5Xnp5STR4
+Downloading: https://www.youtube.com/watch?v=Ar5Xnp5STR4 using proxy: no proxy
+Waiting for an extra 9.8 seconds before downloading Video 210...
+
+https://www.youtube.com/watch?v=vF8pY8Om840
+Downloading: https://www.youtube.com/watch?v=vF8pY8Om840 using proxy: no proxy
+Waiting for an extra 7.5 seconds before downloading Video 211...
+
+https://www.youtube.com/watch?v=42KNwQ6u42U
+Downloading: https://www.youtube.com/watch?v=42KNwQ6u42U using proxy: no proxy
+Waiting for an extra 9.2 seconds before downloading Video 212...
+
+https://www.youtube.com/watch?v=oB8PpdeSXRQ
+Downloading: https://www.youtube.com/watch?v=oB8PpdeSXRQ using proxy: no proxy
+Waiting for an extra 8.9 seconds before downloading Video 213...
+
+https://www.youtube.com/watch?v=PRAB7Iz3Gow
+Downloading: https://www.youtube.com/watch?v=PRAB7Iz3Gow using proxy: no proxy
+Waiting for an extra 7.0 seconds before downloading Video 214...
+
+https://www.youtube.com/watch?v=gkmMTspxJSk
+Downloading: https://www.youtube.com/watch?v=gkmMTspxJSk using proxy: no proxy
+Waiting for an extra 7.0 seconds before downloading Video 215...
+
+https://www.youtube.com/watch?v=B704fR5y3-U
+Downloading: https://www.youtube.com/watch?v=B704fR5y3-U using proxy: no proxy
+Waiting for an extra 7.5 seconds before downloading Video 216...
+
+https://www.youtube.com/watch?v=mHKrjUZJoK4
+Downloading: https://www.youtube.com/watch?v=mHKrjUZJoK4 using proxy: no proxy
+Waiting for an extra 7.9 seconds before downloading Video 217...
+
+https://www.youtube.com/watch?v=OeUFzid1kwg
+Downloading: https://www.youtube.com/watch?v=OeUFzid1kwg using proxy: no proxy
+Waiting for an extra 6.4 seconds before downloading Video 218...
+
+https://www.youtube.com/watch?v=-QmTVqWMo_s
+Downloading: https://www.youtube.com/watch?v=-QmTVqWMo_s using proxy: no proxy
+Waiting for an extra 6.2 seconds before downloading Video 219...
+
+https://www.youtube.com/watch?v=JQk0Ul5pIXQ
+Downloading: https://www.youtube.com/watch?v=JQk0Ul5pIXQ using proxy: no proxy
+Waiting for an extra 8.5 seconds before downloading Video 220...
+
+https://www.youtube.com/watch?v=EHeDeF57DeU
+Downloading: https://www.youtube.com/watch?v=EHeDeF57DeU using proxy: no proxy
+Waiting for an extra 7.4 seconds before downloading Video 221...
+
+https://www.youtube.com/watch?v=9sRCjaXILS4
+Downloading: https://www.youtube.com/watch?v=9sRCjaXILS4 using proxy: no proxy
+Waiting for an extra 9.7 seconds before downloading Video 222...
+
+https://www.youtube.com/watch?v=YIgNV2BclvA
+Downloading: https://www.youtube.com/watch?v=YIgNV2BclvA using proxy: no proxy
+Waiting for an extra 9.5 seconds before downloading Video 223...
+
+https://www.youtube.com/watch?v=TgnxwkUbI_g
+Downloading: https://www.youtube.com/watch?v=TgnxwkUbI_g using proxy: no proxy
+Waiting for an extra 8.5 seconds before downloading Video 224...
+
+https://www.youtube.com/watch?v=Yb2kYo2Ev4o
+Downloading: https://www.youtube.com/watch?v=Yb2kYo2Ev4o using proxy: no proxy
+Waiting for an extra 7.2 seconds before downloading Video 225...
+
+https://www.youtube.com/watch?v=S7nVamiOfa0
+Downloading: https://www.youtube.com/watch?v=S7nVamiOfa0 using proxy: no proxy
+Waiting for an extra 9.2 seconds before downloading Video 226...
+
+https://www.youtube.com/watch?v=ZEfnpFuzxnE
+Downloading: https://www.youtube.com/watch?v=ZEfnpFuzxnE using proxy: no proxy
+Waiting for an extra 7.6 seconds before downloading Video 227...
+
+https://www.youtube.com/watch?v=siQ4UEToz7Y
+Downloading: https://www.youtube.com/watch?v=siQ4UEToz7Y using proxy: no proxy
+Waiting for an extra 5.8 seconds before downloading Video 228...
+
+https://www.youtube.com/watch?v=eno43p879UA
+Downloading: https://www.youtube.com/watch?v=eno43p879UA using proxy: no proxy
+Waiting for an extra 5.5 seconds before downloading Video 229...
+
+https://www.youtube.com/watch?v=JY43PceHMq4
+Downloading: https://www.youtube.com/watch?v=JY43PceHMq4 using proxy: no proxy
+Waiting for an extra 7.2 seconds before downloading Video 230...
+
+https://www.youtube.com/watch?v=eP7VM1bTjLs
+Downloading: https://www.youtube.com/watch?v=eP7VM1bTjLs using proxy: no proxy
+Waiting for an extra 10.0 seconds before downloading Video 231...
+
+https://www.youtube.com/watch?v=33Qu-gmkHgc
+Downloading: https://www.youtube.com/watch?v=33Qu-gmkHgc using proxy: no proxy
+Waiting for an extra 7.0 seconds before downloading Video 232...
+
+https://www.youtube.com/watch?v=b2-EU7ZkZ4E
+Downloading: https://www.youtube.com/watch?v=b2-EU7ZkZ4E using proxy: no proxy
+Waiting for an extra 8.4 seconds before downloading Video 233...
+
+https://www.youtube.com/watch?v=WlhuYvrE3vA
+Downloading: https://www.youtube.com/watch?v=WlhuYvrE3vA using proxy: no proxy
+Waiting for an extra 7.5 seconds before downloading Video 234...
+
+https://www.youtube.com/watch?v=hJWzyi0le7k
+Downloading: https://www.youtube.com/watch?v=hJWzyi0le7k using proxy: no proxy
+Error downloading https://www.youtube.com/watch?v=hJWzyi0le7k using proxy  (return code: 1).
+Waiting for an extra 10.0 seconds before downloading Video 235...
+
+https://www.youtube.com/watch?v=7P072OPMAic
+Downloading: https://www.youtube.com/watch?v=7P072OPMAic using proxy: no proxy
+Waiting for an extra 6.4 seconds before downloading Video 236...
+
+https://www.youtube.com/watch?v=-LWANhTMY8w
+Downloading: https://www.youtube.com/watch?v=-LWANhTMY8w using proxy: no proxy
+Error downloading https://www.youtube.com/watch?v=-LWANhTMY8w using proxy  (return code: 1).
+Waiting for an extra 7.2 seconds before downloading Video 237...
+
+https://www.youtube.com/watch?v=pgBWS16rxmE
+Downloading: https://www.youtube.com/watch?v=pgBWS16rxmE using proxy: no proxy
+Waiting for an extra 9.9 seconds before downloading Video 238...
+
+https://www.youtube.com/watch?v=tKFFi8RIw3U
+Downloading: https://www.youtube.com/watch?v=tKFFi8RIw3U using proxy: no proxy
+Waiting for an extra 9.7 seconds before downloading Video 239...
+
+https://www.youtube.com/watch?v=GgE2VODXulQ
+Downloading: https://www.youtube.com/watch?v=GgE2VODXulQ using proxy: no proxy
+Waiting for an extra 7.1 seconds before downloading Video 240...
+
+https://www.youtube.com/watch?v=iqy3axjC-uA
+Downloading: https://www.youtube.com/watch?v=iqy3axjC-uA using proxy: no proxy
+Waiting for an extra 8.4 seconds before downloading Video 241...
+
+https://www.youtube.com/watch?v=DWB4nb6gtmo
+Downloading: https://www.youtube.com/watch?v=DWB4nb6gtmo using proxy: no proxy
+Waiting for an extra 8.7 seconds before downloading Video 242...
+
+https://www.youtube.com/watch?v=4B5qdJjDs1M
+Downloading: https://www.youtube.com/watch?v=4B5qdJjDs1M using proxy: no proxy
+Waiting for an extra 7.0 seconds before downloading Video 243...
+
+https://www.youtube.com/watch?v=gBjnt9awQAM
+Downloading: https://www.youtube.com/watch?v=gBjnt9awQAM using proxy: no proxy
+Waiting for an extra 6.7 seconds before downloading Video 244...
+
+https://www.youtube.com/watch?v=WTcGyIw6ePg
+Downloading: https://www.youtube.com/watch?v=WTcGyIw6ePg using proxy: no proxy
+Waiting for an extra 5.6 seconds before downloading Video 245...
+
+https://www.youtube.com/watch?v=Rw3T9DJXwos
+Downloading: https://www.youtube.com/watch?v=Rw3T9DJXwos using proxy: no proxy
+Waiting for an extra 6.4 seconds before downloading Video 246...
+
+https://www.youtube.com/watch?v=brR1FH6nUCY
+Downloading: https://www.youtube.com/watch?v=brR1FH6nUCY using proxy: no proxy
+Waiting for an extra 6.8 seconds before downloading Video 247...
+
+https://www.youtube.com/watch?v=Ofv2AYEKr38
+Downloading: https://www.youtube.com/watch?v=Ofv2AYEKr38 using proxy: no proxy
+Waiting for an extra 9.6 seconds before downloading Video 248...
+
+https://www.youtube.com/watch?v=EwMm6DH-XD0
+Downloading: https://www.youtube.com/watch?v=EwMm6DH-XD0 using proxy: no proxy
+Waiting for an extra 7.0 seconds before downloading Video 249...
+
+https://www.youtube.com/watch?v=wUA0ncaHT40
+Downloading: https://www.youtube.com/watch?v=wUA0ncaHT40 using proxy: no proxy
+Waiting for an extra 8.8 seconds before downloading Video 250...
+
