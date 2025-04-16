@@ -32,7 +32,7 @@ def download_video(url, proxy):
         "--referer", "https://www.youtube.com/",
         "--cookies", "cookies.txt",
         "--download-sections", "*0-30",
-        "-f", "bv[ext=mp4],ba",
+        "-f", "bv[ext=mp4],ba[ext=m4a]",
         "-o", "data/%(width&video|audio)s/%(id)s.%(ext)s"
     ]
     # If a proxy is provided, include it.
@@ -68,7 +68,7 @@ def main():
     os.makedirs("data", exist_ok=True)
 
     try:
-        with open("missing.txt", "r") as file:
+        with open("missing2.txt", "r") as file:
             video_ids = [line.strip() for line in file if line.strip()]
     except FileNotFoundError:
         print("Error: 'V2M-20k.txt' not found. Please ensure the file exists in the same directory as this script.")

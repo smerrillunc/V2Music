@@ -5,3 +5,9 @@ preprocessing/optical_flow
 preprocessing/video
 V2M
 preprocessing/VidMuse-V2M-Dataset
+out/
+err/
+preprocessing/bg_audio
+*.tar.gz
+missing.txt
+missing2.txt
