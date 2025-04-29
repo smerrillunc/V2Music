@@ -1,0 +1,489 @@
+_wandb:
+    value:
+        cli_version: 0.19.7
+        m: []
+        python_version: 3.9.21
+        t:
+            "1":
+                - 1
+                - 5
+                - 11
+                - 33
+                - 41
+                - 49
+                - 50
+                - 53
+                - 55
+                - 105
+            "2":
+                - 1
+                - 5
+                - 11
+                - 33
+                - 41
+                - 49
+                - 50
+                - 53
+                - 55
+                - 105
+            "3":
+                - 13
+                - 14
+                - 23
+                - 55
+                - 61
+            "4": 3.9.21
+            "5": 0.19.7
+            "6": 4.51.1
+            "8":
+                - 5
+            "12": 0.19.7
+            "13": linux-x86_64
+autocast:
+    value: true
+autocast_dtype:
+    value: float16
+benchmark_no_load:
+    value: false
+cache.path:
+    value: None
+cache.write:
+    value: false
+cache.write_num_shards:
+    value: 1
+cache.write_shard:
+    value: 0
+channels:
+    value: 1
+checkpoint.keep_every_states:
+    value: None
+checkpoint.keep_last:
+    value: 1
+checkpoint.save_every:
+    value: 1
+checkpoint.save_last:
+    value: true
+classifier_free_guidance.inference_coef:
+    value: 3
+classifier_free_guidance.training_dropout:
+    value: 0.3
+codebooks_pattern.coarse_first.delays:
+    value: '[0, 0, 0]'
+codebooks_pattern.delay.delays:
+    value: '[0, 1, 2, 3]'
+codebooks_pattern.delay.empty_initial:
+    value: 0
+codebooks_pattern.delay.flatten_first:
+    value: 0
+codebooks_pattern.modeling:
+    value: delay
+codebooks_pattern.music_lm.group_by:
+    value: 2
+codebooks_pattern.unroll.delays:
+    value: '[0, 0, 0, 0]'
+codebooks_pattern.unroll.flattening:
+    value: '[0, 1, 2, 3]'
+compression_model_checkpoint:
+    value: //pretrained/facebook/encodec_32khz
+compression_model_n_q:
+    value: None
+conditioners.description.model:
+    value: t5
+conditioners.description.t5.finetune:
+    value: false
+conditioners.description.t5.name:
+    value: t5-base
+conditioners.description.t5.normalize_text:
+    value: false
+conditioners.description.t5.word_dropout:
+    value: 0.3
+continue_from:
+    value: //pretrained/facebook/musicgen-small
+dataset.batch_size:
+    value: 8
+dataset.evaluate.num_samples:
+    value: 1
+dataset.generate.num_samples:
+    value: 1
+dataset.generate.return_info:
+    value: true
+dataset.min_segment_ratio:
+    value: 0.8
+dataset.num_samples:
+    value: None
+dataset.num_workers:
+    value: 3
+dataset.return_info:
+    value: true
+dataset.sample_on_duration:
+    value: false
+dataset.sample_on_weight:
+    value: false
+dataset.segment_duration:
+    value: 29
+dataset.shuffle:
+    value: false
+dataset.train.drop_desc_p:
+    value: 0.5
+dataset.train.drop_other_p:
+    value: 0.5
+dataset.train.merge_text_p:
+    value: 0.25
+dataset.train.num_samples:
+    value: 13293
+dataset.train.permutation_on_files:
+    value: false
+dataset.train.shuffle:
+    value: true
+dataset.train.shuffle_seed:
+    value: 0
+dataset.valid.num_samples:
+    value: 1899
+datasource.evaluate:
+    value: /work/users/t/i/tis/VidMuse/egs/V2M20K/eval
+datasource.generate:
+    value: /work/users/t/i/tis/VidMuse/egs/V2M20K/eval
+datasource.max_channels:
+    value: 2
+datasource.max_sample_rate:
+    value: 44100
+datasource.train:
+    value: /work/users/t/i/tis/VidMuse/egs/V2M20K/train
+datasource.valid:
+    value: /work/users/t/i/tis/VidMuse/egs/V2M20K/valid
+deadlock.timeout:
+    value: 600
+deadlock.use:
+    value: true
+device:
+    value: cuda
+dora.dir:
+    value: /checkpoint/tis/experiments/audiocraft/outputs
+dora.exclude:
+    value: '[''device'', ''wandb.*'', ''tensorboard.*'', ''logging.*'', ''dataset.num_workers'', ''eval.num_workers'', ''special.*'', ''metrics.visqol.bin'', ''metrics.fad.bin'', ''execute_only'', ''execute_best'', ''generate.every'', ''optim.eager_sync'', ''profiler.*'', ''deadlock.*'', ''efficient_attention_backend'', ''num_threads'', ''mp_start_method'']'
+dora.git_save:
+    value: true
+dora.use_rendezvous:
+    value: false
+dtype:
+    value: float32
+efficient_attention_backend:
+    value: torch
+evaluate.every:
+    value: 1
+evaluate.fixed_generation_duration:
+    value: None
+evaluate.metrics.base:
+    value: false
+evaluate.metrics.chroma_cosine:
+    value: false
+evaluate.metrics.fad:
+    value: false
+evaluate.metrics.kld:
+    value: false
+evaluate.metrics.text_consistency:
+    value: false
+evaluate.num_workers:
+    value: 5
+evaluate.truncate_audio:
+    value: None
+execute_inplace:
+    value: false
+execute_only:
+    value: None
+fsdp.buffer_dtype:
+    value: float32
+fsdp.param_dtype:
+    value: float16
+fsdp.per_block:
+    value: true
+fsdp.reduce_dtype:
+    value: float32
+fsdp.sharding_strategy:
+    value: shard_grad_op
+fsdp.use:
+    value: false
+fuser.cross:
+    value: '[''description'']'
+fuser.cross_attention_pos_emb:
+    value: false
+fuser.cross_attention_pos_emb_scale:
+    value: 1
+fuser.input_interpolate:
+    value: '[]'
+fuser.prepend:
+    value: '[]'
+fuser.sum:
+    value: '[]'
+generate.audio.format:
+    value: wav
+generate.audio.loudness_headroom_db:
+    value: 14
+generate.audio.sample_rate:
+    value: 32000
+generate.audio.strategy:
+    value: loudness
+generate.every:
+    value: 1
+generate.lm.gen_duration:
+    value: None
+generate.lm.gen_gt_samples:
+    value: false
+generate.lm.prompt_duration:
+    value: None
+generate.lm.prompted_samples:
+    value: true
+generate.lm.remove_prompts:
+    value: false
+generate.lm.temp:
+    value: 1
+generate.lm.top_k:
+    value: 250
+generate.lm.top_p:
+    value: 0
+generate.lm.unprompted_samples:
+    value: true
+generate.lm.use_sampling:
+    value: true
+generate.num_workers:
+    value: 5
+generate.path:
+    value: samples
+interleave_stereo_codebooks.per_timestep:
+    value: false
+interleave_stereo_codebooks.use:
+    value: false
+label:
+    value: None
+lm_model:
+    value: transformer_lm
+logging.level:
+    value: INFO
+logging.log_tensorboard:
+    value: true
+logging.log_updates:
+    value: 10
+logging.log_wandb:
+    value: true
+metrics.chroma_cosine.chroma_base.argmax:
+    value: true
+metrics.chroma_cosine.chroma_base.n_chroma:
+    value: 12
+metrics.chroma_cosine.chroma_base.radix2_exp:
+    value: 14
+metrics.chroma_cosine.chroma_base.sample_rate:
+    value: 32000
+metrics.chroma_cosine.model:
+    value: chroma_base
+metrics.chroma_cosine.use_gt:
+    value: false
+metrics.fad.model:
+    value: tf
+metrics.fad.tf.bin:
+    value: None
+metrics.fad.tf.model_path:
+    value: //reference/fad/vggish_model.ckpt
+metrics.fad.use_gt:
+    value: false
+metrics.kld.model:
+    value: passt
+metrics.kld.passt.pretrained_length:
+    value: 20
+metrics.kld.use_gt:
+    value: false
+metrics.text_consistency.clap.enable_fusion:
+    value: false
+metrics.text_consistency.clap.model_arch:
+    value: HTSAT-base
+metrics.text_consistency.clap.model_path:
+    value: //reference/clap/music_audioset_epoch_15_esc_90.14.pt
+metrics.text_consistency.model:
+    value: clap
+metrics.text_consistency.use_gt:
+    value: false
+mp_start_method:
+    value: forkserver
+num_threads:
+    value: 1
+optim.adam.betas:
+    value: '[0.9, 0.95]'
+optim.adam.eps:
+    value: 1e-08
+optim.adam.weight_decay:
+    value: 0.1
+optim.eager_sync:
+    value: true
+optim.ema.decay:
+    value: 0.99
+optim.ema.device:
+    value: cuda
+optim.ema.updates:
+    value: 10
+optim.ema.use:
+    value: true
+optim.epochs:
+    value: 10
+optim.lr:
+    value: 3.5e-05
+optim.max_norm:
+    value: 1
+optim.optimizer:
+    value: adamw
+optim.updates_per_epoch:
+    value: 208
+profiler.enabled:
+    value: false
+sample_rate:
+    value: 32000
+schedule.cosine.cycle_length:
+    value: 1
+schedule.cosine.lr_min_ratio:
+    value: 0
+schedule.cosine.warmup:
+    value: 4000
+schedule.exponential.lr_decay:
+    value: None
+schedule.inverse_sqrt.warmup:
+    value: None
+schedule.inverse_sqrt.warmup_init_lr:
+    value: 0
+schedule.linear_warmup.warmup:
+    value: None
+schedule.linear_warmup.warmup_init_lr:
+    value: 0
+schedule.lr_scheduler:
+    value: cosine
+schedule.polynomial_decay.end_lr:
+    value: 0
+schedule.polynomial_decay.power:
+    value: 1
+schedule.polynomial_decay.warmup:
+    value: None
+schedule.polynomial_decay.zero_lr_warmup_steps:
+    value: 0
+schedule.step.gamma:
+    value: None
+schedule.step.step_size:
+    value: None
+seed:
+    value: 2036
+show:
+    value: false
+slurm.comment:
+    value: None
+slurm.constraint:
+    value: None
+slurm.cpus_per_gpu:
+    value: 4
+slurm.exclude:
+    value: None
+slurm.gpus:
+    value: 8
+slurm.mem_per_gpu:
+    value: 64
+slurm.one_task_per_node:
+    value: false
+slurm.partition:
+    value: l40-gpu
+slurm.qos:
+    value: gpu_access
+slurm.setup:
+    value: '[''source ~/.bashrc'', ''echo "FFMPEG located at $(which ffmpeg)"'', ''echo "$(ffmpeg -version)"'', ''cd /work/users/t/i/tis/VidMuse'', ''source .venv/bin/activate'']'
+slurm.time:
+    value: 10080
+solver:
+    value: musicgen
+tensorboard.name:
+    value: None
+tensorboard.sub_dir:
+    value: None
+tensorboard.with_media_logging:
+    value: false
+tokens.padding_with_special_token:
+    value: false
+transformer_lm.activation:
+    value: gelu
+transformer_lm.attention_as_float32:
+    value: false
+transformer_lm.attention_dropout:
+    value: None
+transformer_lm.bias_attn:
+    value: false
+transformer_lm.bias_ff:
+    value: false
+transformer_lm.bias_proj:
+    value: false
+transformer_lm.card:
+    value: 2048
+transformer_lm.causal:
+    value: true
+transformer_lm.checkpointing:
+    value: none
+transformer_lm.cross_attention:
+    value: false
+transformer_lm.custom:
+    value: false
+transformer_lm.depthwise_init:
+    value: current
+transformer_lm.dim:
+    value: 1024
+transformer_lm.dropout:
+    value: 0
+transformer_lm.emb_lr:
+    value: None
+transformer_lm.hidden_scale:
+    value: 4
+transformer_lm.kv_repeat:
+    value: 1
+transformer_lm.layer_scale:
+    value: None
+transformer_lm.memory_efficient:
+    value: true
+transformer_lm.n_q:
+    value: 4
+transformer_lm.norm:
+    value: layer_norm
+transformer_lm.norm_first:
+    value: true
+transformer_lm.num_heads:
+    value: 16
+transformer_lm.num_layers:
+    value: 24
+transformer_lm.past_context:
+    value: None
+transformer_lm.positional_embedding:
+    value: sin
+transformer_lm.qk_layer_norm:
+    value: false
+transformer_lm.qk_layer_norm_cross:
+    value: false
+transformer_lm.two_step_cfg:
+    value: false
+transformer_lm.weight_init:
+    value: gaussian
+transformer_lm.xpos:
+    value: false
+transformer_lm.zero_bias_init:
+    value: true
+video.add_global.global_feature_path:
+    value: ""
+video.add_global.if_add_gobal:
+    value: true
+video.add_global.mode:
+    value: average
+video.add_global.num_frames:
+    value: 64
+video.video_fps:
+    value: 2
+video.video_overlap:
+    value: 0
+video.visual_encoder:
+    value: clip
+wandb.group:
+    value: training
+wandb.name:
+    value: training1
+wandb.project:
+    value: V2M
+wandb.with_media_logging:
+    value: true

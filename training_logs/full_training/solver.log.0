@@ -1,0 +1,302 @@
+[[36m04-28 05:09:32[0m][[34mdora.distrib[0m][[32mINFO[0m] - Distributed init: 0/8 (local 0) from submitit[0m
+[[36m04-28 05:09:32[0m][[34mflashy.solver[0m][[32mINFO[0m] - Instantiating solver MusicGenSolver for XP 6420c4e9[0m
+[[36m04-28 05:09:32[0m][[34mflashy.solver[0m][[32mINFO[0m] - All XP logs are stored in /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9[0m
+[[36m04-28 05:09:35[0m][[34maudiocraft.solvers.builders[0m][[32mINFO[0m] - Loading audio data split train: /work/users/t/i/tis/VidMuse/egs/V2M20K/train[0m
+[[36m04-28 05:09:35[0m][[34maudiocraft.solvers.builders[0m][[32mINFO[0m] - Loading audio data split valid: /work/users/t/i/tis/VidMuse/egs/V2M20K/valid[0m
+[[36m04-28 05:09:35[0m][[34maudiocraft.solvers.builders[0m][[32mINFO[0m] - Loading audio data split evaluate: /work/users/t/i/tis/VidMuse/egs/V2M20K/eval[0m
+[[36m04-28 05:09:35[0m][[34maudiocraft.solvers.builders[0m][[32mINFO[0m] - Loading audio data split generate: /work/users/t/i/tis/VidMuse/egs/V2M20K/eval[0m
+[[36m04-28 05:09:35[0m][[34mroot[0m][[32mINFO[0m] - Getting pretrained compression model from HF facebook/encodec_32khz[0m
+[[36m04-28 05:09:36[0m][[34mflashy.solver[0m][[32mINFO[0m] - Compression model has 4 codebooks with 2048 cardinality, and a framerate of 50[0m
+[[36m04-28 05:09:42[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model hash: 4f08a717f8c26b25a5fa9fd7b8d7b525e2d86247[0m
+[[36m04-28 05:09:42[0m][[34mflashy.solver[0m][[32mINFO[0m] - Initializing EMA on the model with decay = 0.99 every 10 updates[0m
+[[36m04-28 05:09:42[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model size: 487.38 M params[0m
+[[36m04-28 05:09:42[0m][[34mflashy.solver[0m][[32mINFO[0m] - Base memory usage, with model, grad and optim: 7.80 GB[0m
+[[36m04-28 05:09:42[0m][[34mflashy.solver[0m][[32mINFO[0m] - Restoring weights and history.[0m
+[[36m04-28 05:09:42[0m][[34mflashy.solver[0m][[32mINFO[0m] - Loading a pretrained model. Ignoring 'load_best' and 'ignore_state_keys' params.[0m
+[[36m04-28 05:09:43[0m][[34mflashy.solver[0m][[32mINFO[0m] - Checkpoint source is not the current xp: Load state_dict from best state.[0m
+[[36m04-28 05:09:43[0m][[34mflashy.solver[0m][[32mINFO[0m] - Ignoring keys when loading best [][0m
+[[36m04-28 05:09:45[0m][[34mflashy.solver[0m][[32mINFO[0m] - Loading state_dict from best state.[0m
+[[36m04-28 05:09:47[0m][[34mflashy.solver[0m][[32mINFO[0m] - Re-initializing EMA from best state[0m
+[[36m04-28 05:09:47[0m][[34mflashy.solver[0m][[32mINFO[0m] - Initializing EMA on the model with decay = 0.99 every 10 updates[0m
+[[36m04-28 05:09:49[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model hash: b1b559107a511eb37843921739b29787dd706e4c[0m
+[[36m04-28 05:12:09[0m][[34maudiocraft.modules.codebooks_patterns[0m][[32mINFO[0m] - New pattern, time steps: 1450, sequence steps: 1454[0m
+[[36m04-28 05:19:30[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 1 | 20/208 | 24.2 sec/it | lr 8.75E-08 | grad_norm INF | grad_scale 9752.381 | ce 7.467 | ppl 1799.967[0m
+[[36m04-28 05:27:57[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 1 | 40/208 | 24.8 sec/it | lr 2.67E-07 | grad_norm 6.663E+01 | grad_scale 8192.000 | ce 6.023 | ppl 445.132[0m
+[[36m04-28 05:36:23[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 1 | 60/208 | 24.9 sec/it | lr 4.42E-07 | grad_norm 1.712E+01 | grad_scale 8192.000 | ce 5.216 | ppl 188.678[0m
+[[36m04-28 05:44:51[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 1 | 80/208 | 25.1 sec/it | lr 6.17E-07 | grad_norm 1.233E+01 | grad_scale 8192.000 | ce 4.683 | ppl 113.531[0m
+[[36m04-28 05:53:32[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 1 | 100/208 | 25.3 sec/it | lr 7.92E-07 | grad_norm 1.067E+01 | grad_scale 8192.000 | ce 4.187 | ppl 68.237[0m
+[[36m04-28 06:01:53[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 1 | 120/208 | 25.2 sec/it | lr 9.67E-07 | grad_norm 6.246E+00 | grad_scale 8192.000 | ce 3.655 | ppl 41.179[0m
+[[36m04-28 06:10:16[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 1 | 140/208 | 25.2 sec/it | lr 1.14E-06 | grad_norm 3.266E+00 | grad_scale 8192.000 | ce 3.365 | ppl 29.642[0m
+[[36m04-28 06:18:40[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 1 | 160/208 | 25.2 sec/it | lr 1.32E-06 | grad_norm 2.051E+00 | grad_scale 8192.000 | ce 3.234 | ppl 25.715[0m
+[[36m04-28 06:27:29[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 1 | 180/208 | 25.3 sec/it | lr 1.49E-06 | grad_norm 1.669E+00 | grad_scale 8192.000 | ce 3.148 | ppl 23.921[0m
+[[36m04-28 06:35:58[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 1 | 200/208 | 25.4 sec/it | lr 1.67E-06 | grad_norm 1.494E+00 | grad_scale 8192.000 | ce 3.177 | ppl 24.337[0m
+[[36m04-28 06:38:11[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mTrain Summary | Epoch 1 | lr=9.06E-07 | grad_norm=INF | grad_scale=8349.538 | ce=4.396 | ppl=278.706 | duration=5301.555[0m
+[[36m04-28 06:41:57[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 1 | 3/30 | 34.9 sec/it | ce 3.653 | ppl 38.987[0m
+[[36m04-28 06:43:14[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 1 | 6/30 | 30.9 sec/it | ce 3.552 | ppl 35.287[0m
+[[36m04-28 06:44:29[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 1 | 9/30 | 29.2 sec/it | ce 3.606 | ppl 37.067[0m
+[[36m04-28 06:45:48[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 1 | 12/30 | 28.5 sec/it | ce 3.780 | ppl 44.462[0m
+[[36m04-28 06:47:02[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 1 | 15/30 | 27.8 sec/it | ce 3.591 | ppl 36.435[0m
+[[36m04-28 06:48:02[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 1 | 18/30 | 26.6 sec/it | ce 3.585 | ppl 36.324[0m
+[[36m04-28 06:49:05[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 1 | 21/30 | 25.8 sec/it | ce 3.845 | ppl 49.618[0m
+[[36m04-28 06:50:19[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 1 | 24/30 | 25.7 sec/it | ce 3.510 | ppl 33.785[0m
+[[36m04-28 06:51:15[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 1 | 27/30 | 24.9 sec/it | ce 3.426 | ppl 32.054[0m
+[[36m04-28 06:51:18[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mValid Summary | Epoch 1 | ce=3.626 | ppl=38.648 | duration=786.704[0m
+[[36m04-28 06:51:18[0m][[34mflashy.solver[0m][[32mINFO[0m] - New best state with ce=3.626 (was inf)[0m
+[[36m04-28 06:51:21[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mEvaluate Summary | Epoch 1 | duration=0.002[0m
+[[36m04-28 06:51:21[0m][[34mflashy.solver[0m][[32mINFO[0m] - Generating samples in /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/samples[0m
+[[36m04-28 06:53:57[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mGenerate Summary | Epoch 1 | rtf=1.432 | duration=156.744[0m
+[[36m04-28 06:54:00[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model hash: 466daa851946bbac5bb427a1a398a69cec050e59[0m
+[[36m04-28 06:54:19[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint_1.th[0m
+[[36m04-28 06:54:39[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint.th[0m
+[[36m04-28 07:04:10[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 2 | 20/208 | 24.4 sec/it | lr 1.91E-06 | grad_norm 1.457E+00 | grad_scale 8192.000 | ce 3.153 | ppl 24.002[0m
+[[36m04-28 07:12:22[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 2 | 40/208 | 24.5 sec/it | lr 2.09E-06 | grad_norm 1.382E+00 | grad_scale 8192.000 | ce 3.168 | ppl 24.272[0m
+[[36m04-28 07:20:18[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 2 | 60/208 | 24.3 sec/it | lr 2.26E-06 | grad_norm 1.410E+00 | grad_scale 8192.000 | ce 3.234 | ppl 25.864[0m
+[[36m04-28 07:27:44[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 2 | 80/208 | 23.8 sec/it | lr 2.44E-06 | grad_norm 1.397E+00 | grad_scale 8192.000 | ce 3.215 | ppl 25.351[0m
+[[36m04-28 07:36:05[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 2 | 100/208 | 24.0 sec/it | lr 2.61E-06 | grad_norm 1.450E+00 | grad_scale 8192.000 | ce 3.139 | ppl 23.578[0m
+[[36m04-28 07:44:17[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 2 | 120/208 | 24.1 sec/it | lr 2.79E-06 | grad_norm 1.451E+00 | grad_scale 8192.000 | ce 3.093 | ppl 22.619[0m
+[[36m04-28 07:51:43[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 2 | 140/208 | 23.9 sec/it | lr 2.96E-06 | grad_norm 1.418E+00 | grad_scale 8192.000 | ce 3.200 | ppl 25.084[0m
+[[36m04-28 08:00:16[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 2 | 160/208 | 24.1 sec/it | lr 3.14E-06 | grad_norm 1.461E+00 | grad_scale 8192.000 | ce 3.137 | ppl 23.433[0m
+[[36m04-28 08:08:16[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 2 | 180/208 | 24.1 sec/it | lr 3.31E-06 | grad_norm 1.386E+00 | grad_scale 8192.000 | ce 3.119 | ppl 23.053[0m
+[[36m04-28 08:15:47[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 2 | 200/208 | 23.9 sec/it | lr 3.49E-06 | grad_norm 1.444E+00 | grad_scale 8192.000 | ce 3.165 | ppl 24.232[0m
+[[36m04-28 08:18:16[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mTrain Summary | Epoch 2 | lr=2.73E-06 | grad_norm=1.425E+00 | grad_scale=8192.000 | ce=3.171 | ppl=24.435 | duration=5016.391[0m
+[[36m04-28 08:21:45[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 2 | 3/30 | 33.8 sec/it | ce 3.211 | ppl 25.043[0m
+[[36m04-28 08:23:00[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 2 | 6/30 | 30.0 sec/it | ce 3.165 | ppl 23.975[0m
+[[36m04-28 08:24:14[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 2 | 9/30 | 28.4 sec/it | ce 3.162 | ppl 23.715[0m
+[[36m04-28 08:25:32[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 2 | 12/30 | 27.8 sec/it | ce 3.363 | ppl 29.278[0m
+[[36m04-28 08:26:44[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 2 | 15/30 | 27.1 sec/it | ce 3.193 | ppl 24.563[0m
+[[36m04-28 08:27:45[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 2 | 18/30 | 26.0 sec/it | ce 3.185 | ppl 24.353[0m
+[[36m04-28 08:28:46[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 2 | 21/30 | 25.3 sec/it | ce 3.460 | ppl 33.710[0m
+[[36m04-28 08:29:59[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 2 | 24/30 | 25.2 sec/it | ce 3.071 | ppl 21.745[0m
+[[36m04-28 08:30:58[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 2 | 27/30 | 24.6 sec/it | ce 3.064 | ppl 22.184[0m
+[[36m04-28 08:31:01[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mValid Summary | Epoch 2 | ce=3.224 | ppl=25.843 | duration=764.750[0m
+[[36m04-28 08:31:01[0m][[34mflashy.solver[0m][[32mINFO[0m] - New best state with ce=3.224 (was 3.626)[0m
+[[36m04-28 08:31:04[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mEvaluate Summary | Epoch 2 | duration=0.002[0m
+[[36m04-28 08:31:04[0m][[34mflashy.solver[0m][[32mINFO[0m] - Generating samples in /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/samples[0m
+[[36m04-28 08:33:42[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mGenerate Summary | Epoch 2 | rtf=1.431 | duration=158.023[0m
+[[36m04-28 08:33:45[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model hash: 9a64aea98a133e68c61d0a8cc1e69cf626351b97[0m
+[[36m04-28 08:34:06[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint_2.th[0m
+[[36m04-28 08:34:28[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint.th[0m
+[[36m04-28 08:44:13[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 3 | 20/208 | 25.1 sec/it | lr 3.73E-06 | grad_norm 1.431E+00 | grad_scale 8192.000 | ce 3.131 | ppl 23.169[0m
+[[36m04-28 08:52:45[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 3 | 40/208 | 25.3 sec/it | lr 3.91E-06 | grad_norm 1.445E+00 | grad_scale 8192.000 | ce 3.164 | ppl 24.235[0m
+[[36m04-28 09:01:02[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 3 | 60/208 | 25.2 sec/it | lr 4.08E-06 | grad_norm 1.394E+00 | grad_scale 8192.000 | ce 3.212 | ppl 25.342[0m
+[[36m04-28 09:08:52[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 3 | 80/208 | 24.8 sec/it | lr 4.26E-06 | grad_norm 1.486E+00 | grad_scale 8192.000 | ce 3.095 | ppl 22.510[0m
+[[36m04-28 09:17:33[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 3 | 100/208 | 25.0 sec/it | lr 4.43E-06 | grad_norm 1.490E+00 | grad_scale 8192.000 | ce 3.160 | ppl 24.221[0m
+[[36m04-28 09:25:27[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 3 | 120/208 | 24.8 sec/it | lr 4.61E-06 | grad_norm 1.452E+00 | grad_scale 8192.000 | ce 3.154 | ppl 24.209[0m
+[[36m04-28 09:33:48[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 3 | 140/208 | 24.8 sec/it | lr 4.78E-06 | grad_norm 1.454E+00 | grad_scale 8192.000 | ce 3.144 | ppl 23.734[0m
+[[36m04-28 09:42:35[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 3 | 160/208 | 25.0 sec/it | lr 4.96E-06 | grad_norm 1.442E+00 | grad_scale 8192.000 | ce 3.181 | ppl 24.542[0m
+[[36m04-28 09:50:41[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 3 | 180/208 | 24.9 sec/it | lr 5.13E-06 | grad_norm 1.425E+00 | grad_scale 8192.000 | ce 3.058 | ppl 21.812[0m
+[[36m04-28 09:58:49[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 3 | 200/208 | 24.9 sec/it | lr 5.31E-06 | grad_norm 1.487E+00 | grad_scale 8192.000 | ce 3.126 | ppl 23.398[0m
+[[36m04-28 10:01:12[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mTrain Summary | Epoch 3 | lr=4.55E-06 | grad_norm=1.452E+00 | grad_scale=8192.000 | ce=3.142 | ppl=23.764 | duration=5204.119[0m
+[[36m04-28 10:04:42[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 3 | 3/30 | 33.8 sec/it | ce 3.164 | ppl 23.894[0m
+[[36m04-28 10:05:56[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 3 | 6/30 | 29.8 sec/it | ce 3.120 | ppl 22.910[0m
+[[36m04-28 10:07:11[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 3 | 9/30 | 28.4 sec/it | ce 3.107 | ppl 22.439[0m
+[[36m04-28 10:08:30[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 3 | 12/30 | 27.9 sec/it | ce 3.315 | ppl 27.919[0m
+[[36m04-28 10:09:44[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 3 | 15/30 | 27.3 sec/it | ce 3.147 | ppl 23.480[0m
+[[36m04-28 10:10:43[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 3 | 18/30 | 26.1 sec/it | ce 3.139 | ppl 23.228[0m
+[[36m04-28 10:11:46[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 3 | 21/30 | 25.4 sec/it | ce 3.413 | ppl 32.092[0m
+[[36m04-28 10:12:58[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 3 | 24/30 | 25.2 sec/it | ce 3.026 | ppl 20.791[0m
+[[36m04-28 10:13:56[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 3 | 27/30 | 24.6 sec/it | ce 3.024 | ppl 21.302[0m
+[[36m04-28 10:13:59[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mValid Summary | Epoch 3 | ce=3.179 | ppl=24.691 | duration=766.413[0m
+[[36m04-28 10:13:59[0m][[34mflashy.solver[0m][[32mINFO[0m] - New best state with ce=3.179 (was 3.224)[0m
+[[36m04-28 10:14:02[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mEvaluate Summary | Epoch 3 | duration=0.002[0m
+[[36m04-28 10:14:02[0m][[34mflashy.solver[0m][[32mINFO[0m] - Generating samples in /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/samples[0m
+[[36m04-28 10:16:35[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mGenerate Summary | Epoch 3 | rtf=1.389 | duration=153.778[0m
+[[36m04-28 10:16:39[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model hash: 1ea0b3bffb75e28c6b23b034234ab061d624feae[0m
+[[36m04-28 10:16:59[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint_3.th[0m
+[[36m04-28 10:17:22[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint.th[0m
+[[36m04-28 10:27:34[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 4 | 20/208 | 26.4 sec/it | lr 5.55E-06 | grad_norm 1.450E+00 | grad_scale 8192.000 | ce 3.075 | ppl 22.129[0m
+[[36m04-28 10:36:22[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 4 | 40/208 | 26.4 sec/it | lr 5.73E-06 | grad_norm 1.442E+00 | grad_scale 8192.000 | ce 3.061 | ppl 21.738[0m
+[[36m04-28 10:45:13[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 4 | 60/208 | 26.5 sec/it | lr 5.90E-06 | grad_norm 1.583E+00 | grad_scale 8192.000 | ce 3.105 | ppl 23.003[0m
+[[36m04-28 10:54:00[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 4 | 80/208 | 26.4 sec/it | lr 6.08E-06 | grad_norm 1.451E+00 | grad_scale 8192.000 | ce 3.191 | ppl 24.780[0m
+[[36m04-28 11:02:19[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 4 | 100/208 | 26.1 sec/it | lr 6.25E-06 | grad_norm 1.453E+00 | grad_scale 8192.000 | ce 3.132 | ppl 23.693[0m
+[[36m04-28 11:10:54[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 4 | 120/208 | 26.1 sec/it | lr 6.43E-06 | grad_norm 1.508E+00 | grad_scale 8192.000 | ce 3.160 | ppl 24.345[0m
+[[36m04-28 11:19:43[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 4 | 140/208 | 26.1 sec/it | lr 6.60E-06 | grad_norm 1.511E+00 | grad_scale 8192.000 | ce 3.137 | ppl 23.561[0m
+[[36m04-28 11:28:50[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 4 | 160/208 | 26.3 sec/it | lr 6.78E-06 | grad_norm 1.552E+00 | grad_scale 8192.000 | ce 3.034 | ppl 21.601[0m
+[[36m04-28 11:37:24[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 4 | 180/208 | 26.2 sec/it | lr 6.95E-06 | grad_norm 1.464E+00 | grad_scale 8192.000 | ce 3.143 | ppl 23.738[0m
+[[36m04-28 11:46:01[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 4 | 200/208 | 26.2 sec/it | lr 7.13E-06 | grad_norm 1.576E+00 | grad_scale 8192.000 | ce 3.107 | ppl 22.841[0m
+[[36m04-28 11:48:07[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mTrain Summary | Epoch 4 | lr=6.37E-06 | grad_norm=1.498E+00 | grad_scale=8192.000 | ce=3.136 | ppl=23.614 | duration=5444.491[0m
+[[36m04-28 11:51:35[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 4 | 3/30 | 33.3 sec/it | ce 3.150 | ppl 23.568[0m
+[[36m04-28 11:52:50[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 4 | 6/30 | 29.7 sec/it | ce 3.106 | ppl 22.599[0m
+[[36m04-28 11:54:05[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 4 | 9/30 | 28.2 sec/it | ce 3.089 | ppl 22.020[0m
+[[36m04-28 11:55:23[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 4 | 12/30 | 27.7 sec/it | ce 3.301 | ppl 27.526[0m
+[[36m04-28 11:56:37[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 4 | 15/30 | 27.2 sec/it | ce 3.133 | ppl 23.157[0m
+[[36m04-28 11:57:37[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 4 | 18/30 | 26.0 sec/it | ce 3.122 | ppl 22.845[0m
+[[36m04-28 11:58:40[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 4 | 21/30 | 25.4 sec/it | ce 3.397 | ppl 31.519[0m
+[[36m04-28 11:59:53[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 4 | 24/30 | 25.2 sec/it | ce 3.013 | ppl 20.511[0m
+[[36m04-28 12:00:50[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 4 | 27/30 | 24.6 sec/it | ce 3.012 | ppl 21.046[0m
+[[36m04-28 12:00:54[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mValid Summary | Epoch 4 | ce=3.165 | ppl=24.344 | duration=766.229[0m
+[[36m04-28 12:00:54[0m][[34mflashy.solver[0m][[32mINFO[0m] - New best state with ce=3.165 (was 3.179)[0m
+[[36m04-28 12:00:56[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mEvaluate Summary | Epoch 4 | duration=0.002[0m
+[[36m04-28 12:00:56[0m][[34mflashy.solver[0m][[32mINFO[0m] - Generating samples in /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/samples[0m
+[[36m04-28 12:03:37[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mGenerate Summary | Epoch 4 | rtf=1.408 | duration=160.876[0m
+[[36m04-28 12:03:40[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model hash: c332b0d4caf5667d63c2eab102249ca73a8c42ec[0m
+[[36m04-28 12:04:01[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint_4.th[0m
+[[36m04-28 12:04:24[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint.th[0m
+[[36m04-28 12:13:55[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 5 | 20/208 | 24.3 sec/it | lr 7.37E-06 | grad_norm 1.488E+00 | grad_scale 8192.000 | ce 3.116 | ppl 23.337[0m
+[[36m04-28 12:22:11[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 5 | 40/208 | 24.6 sec/it | lr 7.55E-06 | grad_norm 1.545E+00 | grad_scale 8192.000 | ce 3.145 | ppl 23.686[0m
+[[36m04-28 12:31:47[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 5 | 60/208 | 26.0 sec/it | lr 7.72E-06 | grad_norm 1.599E+00 | grad_scale 8192.000 | ce 3.111 | ppl 23.291[0m
+[[36m04-28 12:39:49[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 5 | 80/208 | 25.5 sec/it | lr 7.90E-06 | grad_norm 1.555E+00 | grad_scale 8192.000 | ce 3.139 | ppl 23.526[0m
+[[36m04-28 12:48:34[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 5 | 100/208 | 25.6 sec/it | lr 8.07E-06 | grad_norm 1.529E+00 | grad_scale 8192.000 | ce 3.121 | ppl 22.973[0m
+[[36m04-28 12:56:52[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 5 | 120/208 | 25.5 sec/it | lr 8.25E-06 | grad_norm 1.563E+00 | grad_scale 8192.000 | ce 3.100 | ppl 22.669[0m
+[[36m04-28 13:05:36[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 5 | 140/208 | 25.6 sec/it | lr 8.42E-06 | grad_norm 1.622E+00 | grad_scale 8192.000 | ce 3.133 | ppl 23.460[0m
+[[36m04-28 13:14:00[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 5 | 160/208 | 25.6 sec/it | lr 8.60E-06 | grad_norm 1.732E+00 | grad_scale 8192.000 | ce 3.131 | ppl 23.642[0m
+[[36m04-28 13:22:21[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 5 | 180/208 | 25.5 sec/it | lr 8.77E-06 | grad_norm 1.645E+00 | grad_scale 8192.000 | ce 3.001 | ppl 20.607[0m
+[[36m04-28 13:30:58[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 5 | 200/208 | 25.5 sec/it | lr 8.95E-06 | grad_norm 1.556E+00 | grad_scale 8192.000 | ce 3.140 | ppl 23.734[0m
+[[36m04-28 13:33:10[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mTrain Summary | Epoch 5 | lr=8.19E-06 | grad_norm=1.588E+00 | grad_scale=8192.000 | ce=3.123 | ppl=23.306 | duration=5326.832[0m
+[[36m04-28 13:36:38[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 5 | 3/30 | 33.6 sec/it | ce 3.145 | ppl 23.444[0m
+[[36m04-28 13:37:53[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 5 | 6/30 | 30.0 sec/it | ce 3.101 | ppl 22.474[0m
+[[36m04-28 13:39:09[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 5 | 9/30 | 28.6 sec/it | ce 3.080 | ppl 21.811[0m
+[[36m04-28 13:40:26[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 5 | 12/30 | 27.9 sec/it | ce 3.295 | ppl 27.372[0m
+[[36m04-28 13:41:43[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 5 | 15/30 | 27.5 sec/it | ce 3.128 | ppl 23.029[0m
+[[36m04-28 13:42:44[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 5 | 18/30 | 26.3 sec/it | ce 3.114 | ppl 22.644[0m
+[[36m04-28 13:43:46[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 5 | 21/30 | 25.6 sec/it | ce 3.389 | ppl 31.226[0m
+[[36m04-28 13:44:58[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 5 | 24/30 | 25.4 sec/it | ce 3.007 | ppl 20.402[0m
+[[36m04-28 13:45:57[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 5 | 27/30 | 24.8 sec/it | ce 3.008 | ppl 20.951[0m
+[[36m04-28 13:46:00[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mValid Summary | Epoch 5 | ce=3.159 | ppl=24.198 | duration=768.526[0m
+[[36m04-28 13:46:00[0m][[34mflashy.solver[0m][[32mINFO[0m] - New best state with ce=3.159 (was 3.165)[0m
+[[36m04-28 13:46:03[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mEvaluate Summary | Epoch 5 | duration=0.003[0m
+[[36m04-28 13:46:03[0m][[34mflashy.solver[0m][[32mINFO[0m] - Generating samples in /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/samples[0m
+[[36m04-28 13:48:40[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mGenerate Summary | Epoch 5 | rtf=1.421 | duration=157.268[0m
+[[36m04-28 13:48:44[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model hash: 4d81ec7463e36a7131572a98ff0887bb624243c1[0m
+[[36m04-28 13:49:03[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint_5.th[0m
+[[36m04-28 13:49:27[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint.th[0m
+[[36m04-28 13:59:53[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 6 | 20/208 | 26.9 sec/it | lr 9.19E-06 | grad_norm 1.652E+00 | grad_scale 8192.000 | ce 3.045 | ppl 21.564[0m
+[[36m04-28 14:08:54[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 6 | 40/208 | 27.0 sec/it | lr 9.37E-06 | grad_norm 1.736E+00 | grad_scale 8192.000 | ce 3.136 | ppl 23.751[0m
+[[36m04-28 14:17:05[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 6 | 60/208 | 26.2 sec/it | lr 9.54E-06 | grad_norm 1.584E+00 | grad_scale 8192.000 | ce 3.031 | ppl 21.311[0m
+[[36m04-28 14:25:25[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 6 | 80/208 | 25.9 sec/it | lr 9.72E-06 | grad_norm 2.561E+00 | grad_scale 8192.000 | ce 3.091 | ppl 22.305[0m
+[[36m04-28 14:34:27[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 6 | 100/208 | 26.1 sec/it | lr 9.89E-06 | grad_norm 1.699E+00 | grad_scale 8192.000 | ce 3.047 | ppl 21.504[0m
+[[36m04-28 14:43:09[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 6 | 120/208 | 26.1 sec/it | lr 1.01E-05 | grad_norm 2.072E+00 | grad_scale 8192.000 | ce 3.120 | ppl 23.230[0m
+[[36m04-28 14:51:38[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 6 | 140/208 | 26.0 sec/it | lr 1.02E-05 | grad_norm 1.719E+00 | grad_scale 8192.000 | ce 3.011 | ppl 20.995[0m
+[[36m04-28 15:00:44[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 6 | 160/208 | 26.2 sec/it | lr 1.04E-05 | grad_norm 1.546E+00 | grad_scale 8192.000 | ce 3.081 | ppl 22.264[0m
+[[36m04-28 15:09:20[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 6 | 180/208 | 26.1 sec/it | lr 1.06E-05 | grad_norm 1.633E+00 | grad_scale 8192.000 | ce 3.044 | ppl 21.482[0m
+[[36m04-28 15:18:13[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 6 | 200/208 | 26.2 sec/it | lr 1.08E-05 | grad_norm 1.568E+00 | grad_scale 8192.000 | ce 3.098 | ppl 22.446[0m
+[[36m04-28 15:20:23[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mTrain Summary | Epoch 6 | lr=1.00E-05 | grad_norm=1.770E+00 | grad_scale=8192.000 | ce=3.097 | ppl=22.709 | duration=5456.137[0m
+[[36m04-28 15:23:58[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 6 | 3/30 | 34.3 sec/it | ce 3.143 | ppl 23.404[0m
+[[36m04-28 15:25:12[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 6 | 6/30 | 30.3 sec/it | ce 3.098 | ppl 22.421[0m
+[[36m04-28 15:26:28[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 6 | 9/30 | 28.8 sec/it | ce 3.073 | ppl 21.657[0m
+[[36m04-28 15:27:46[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 6 | 12/30 | 28.1 sec/it | ce 3.293 | ppl 27.316[0m
+[[36m04-28 15:29:02[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 6 | 15/30 | 27.6 sec/it | ce 3.126 | ppl 22.977[0m
+[[36m04-28 15:30:00[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 6 | 18/30 | 26.3 sec/it | ce 3.108 | ppl 22.482[0m
+[[36m04-28 15:31:05[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 6 | 21/30 | 25.6 sec/it | ce 3.384 | ppl 31.022[0m
+[[36m04-28 15:32:18[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 6 | 24/30 | 25.5 sec/it | ce 3.005 | ppl 20.362[0m
+[[36m04-28 15:33:13[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 6 | 27/30 | 24.7 sec/it | ce 3.006 | ppl 20.916[0m
+[[36m04-28 15:33:16[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mValid Summary | Epoch 6 | ce=3.156 | ppl=24.130 | duration=771.692[0m
+[[36m04-28 15:33:16[0m][[34mflashy.solver[0m][[32mINFO[0m] - New best state with ce=3.156 (was 3.159)[0m
+[[36m04-28 15:33:18[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mEvaluate Summary | Epoch 6 | duration=0.002[0m
+[[36m04-28 15:33:18[0m][[34mflashy.solver[0m][[32mINFO[0m] - Generating samples in /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/samples[0m
+[[36m04-28 15:35:55[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mGenerate Summary | Epoch 6 | rtf=1.413 | duration=156.583[0m
+[[36m04-28 15:35:59[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model hash: c4bbf7f0c02d7d80c69c26c2848468a28e2e9727[0m
+[[36m04-28 15:36:18[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint_6.th[0m
+[[36m04-28 15:36:50[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint.th[0m
+[[36m04-28 15:46:39[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 7 | 20/208 | 24.7 sec/it | lr 1.10E-05 | grad_norm 1.750E+00 | grad_scale 8192.000 | ce 3.121 | ppl 23.114[0m
+[[36m04-28 15:55:11[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 7 | 40/208 | 25.1 sec/it | lr 1.12E-05 | grad_norm 1.623E+00 | grad_scale 8192.000 | ce 3.108 | ppl 22.727[0m
+[[36m04-28 16:03:42[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 7 | 60/208 | 25.3 sec/it | lr 1.14E-05 | grad_norm 1.717E+00 | grad_scale 8192.000 | ce 3.098 | ppl 22.635[0m
+[[36m04-28 16:12:20[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 7 | 80/208 | 25.4 sec/it | lr 1.15E-05 | grad_norm 1.719E+00 | grad_scale 8192.000 | ce 3.146 | ppl 23.740[0m
+[[36m04-28 16:21:18[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 7 | 100/208 | 25.7 sec/it | lr 1.17E-05 | grad_norm 1.692E+00 | grad_scale 8192.000 | ce 3.083 | ppl 22.335[0m
+[[36m04-28 16:29:43[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 7 | 120/208 | 25.7 sec/it | lr 1.19E-05 | grad_norm 1.643E+00 | grad_scale 8192.000 | ce 3.140 | ppl 23.578[0m
+[[36m04-28 16:38:44[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 7 | 140/208 | 25.8 sec/it | lr 1.21E-05 | grad_norm 1.625E+00 | grad_scale 8192.000 | ce 3.103 | ppl 23.020[0m
+[[36m04-28 16:47:37[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 7 | 160/208 | 25.9 sec/it | lr 1.22E-05 | grad_norm 1.682E+00 | grad_scale 8192.000 | ce 2.943 | ppl 19.836[0m
+[[36m04-28 16:56:28[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 7 | 180/208 | 26.0 sec/it | lr 1.24E-05 | grad_norm 1.622E+00 | grad_scale 8192.000 | ce 3.078 | ppl 22.326[0m
+[[36m04-28 17:05:21[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 7 | 200/208 | 26.1 sec/it | lr 1.26E-05 | grad_norm 1.675E+00 | grad_scale 8192.000 | ce 3.092 | ppl 22.632[0m
+[[36m04-28 17:07:32[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mTrain Summary | Epoch 7 | lr=1.18E-05 | grad_norm=1.674E+00 | grad_scale=8192.000 | ce=3.089 | ppl=22.545 | duration=5441.508[0m
+[[36m04-28 17:11:06[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 7 | 3/30 | 34.1 sec/it | ce 3.143 | ppl 23.401[0m
+[[36m04-28 17:12:22[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 7 | 6/30 | 30.4 sec/it | ce 3.098 | ppl 22.407[0m
+[[36m04-28 17:13:38[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 7 | 9/30 | 28.8 sec/it | ce 3.068 | ppl 21.542[0m
+[[36m04-28 17:14:57[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 7 | 12/30 | 28.2 sec/it | ce 3.293 | ppl 27.305[0m
+[[36m04-28 17:16:12[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 7 | 15/30 | 27.7 sec/it | ce 3.125 | ppl 22.966[0m
+[[36m04-28 17:17:13[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 7 | 18/30 | 26.5 sec/it | ce 3.103 | ppl 22.356[0m
+[[36m04-28 17:18:17[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 7 | 21/30 | 25.8 sec/it | ce 3.380 | ppl 30.853[0m
+[[36m04-28 17:19:31[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 7 | 24/30 | 25.7 sec/it | ce 3.005 | ppl 20.357[0m
+[[36m04-28 17:20:26[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 7 | 27/30 | 24.9 sec/it | ce 3.006 | ppl 20.911[0m
+[[36m04-28 17:20:30[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mValid Summary | Epoch 7 | ce=3.155 | ppl=24.100 | duration=776.908[0m
+[[36m04-28 17:20:30[0m][[34mflashy.solver[0m][[32mINFO[0m] - New best state with ce=3.155 (was 3.156)[0m
+[[36m04-28 17:20:32[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mEvaluate Summary | Epoch 7 | duration=0.002[0m
+[[36m04-28 17:20:32[0m][[34mflashy.solver[0m][[32mINFO[0m] - Generating samples in /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/samples[0m
+[[36m04-28 17:23:07[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mGenerate Summary | Epoch 7 | rtf=1.421 | duration=154.267[0m
+[[36m04-28 17:23:10[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model hash: 7eadf49f208041cab09b158b5a8306391e013e2e[0m
+[[36m04-28 17:23:30[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint_7.th[0m
+[[36m04-28 17:24:03[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint.th[0m
+[[36m04-28 17:34:12[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 8 | 20/208 | 25.4 sec/it | lr 1.28E-05 | grad_norm 1.616E+00 | grad_scale 8192.000 | ce 3.059 | ppl 22.022[0m
+[[36m04-28 17:43:00[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 8 | 40/208 | 25.9 sec/it | lr 1.30E-05 | grad_norm 1.792E+00 | grad_scale 8192.000 | ce 3.065 | ppl 21.904[0m
+[[36m04-28 17:51:47[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 8 | 60/208 | 26.0 sec/it | lr 1.32E-05 | grad_norm 1.777E+00 | grad_scale 8192.000 | ce 3.034 | ppl 21.274[0m
+[[36m04-28 18:00:35[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 8 | 80/208 | 26.1 sec/it | lr 1.34E-05 | grad_norm 1.779E+00 | grad_scale 8192.000 | ce 3.124 | ppl 23.106[0m
+[[36m04-28 18:09:30[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 8 | 100/208 | 26.2 sec/it | lr 1.35E-05 | grad_norm 1.661E+00 | grad_scale 8192.000 | ce 3.056 | ppl 22.145[0m
+[[36m04-28 18:18:13[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 8 | 120/208 | 26.2 sec/it | lr 1.37E-05 | grad_norm 1.756E+00 | grad_scale 8192.000 | ce 3.027 | ppl 21.044[0m
+[[36m04-28 18:27:08[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 8 | 140/208 | 26.3 sec/it | lr 1.39E-05 | grad_norm 1.658E+00 | grad_scale 8192.000 | ce 3.125 | ppl 23.203[0m
+[[36m04-28 18:35:37[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 8 | 160/208 | 26.2 sec/it | lr 1.41E-05 | grad_norm 1.656E+00 | grad_scale 8192.000 | ce 2.949 | ppl 19.404[0m
+[[36m04-28 18:44:37[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 8 | 180/208 | 26.3 sec/it | lr 1.42E-05 | grad_norm 1.708E+00 | grad_scale 8192.000 | ce 3.110 | ppl 22.652[0m
+[[36m04-28 18:53:00[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 8 | 200/208 | 26.2 sec/it | lr 1.44E-05 | grad_norm 1.730E+00 | grad_scale 8192.000 | ce 3.047 | ppl 21.450[0m
+[[36m04-28 18:55:24[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mTrain Summary | Epoch 8 | lr=1.36E-05 | grad_norm=1.714E+00 | grad_scale=8192.000 | ce=3.077 | ppl=22.228 | duration=5480.972[0m
+[[36m04-28 18:58:50[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 8 | 3/30 | 33.7 sec/it | ce 3.144 | ppl 23.429[0m
+[[36m04-28 19:00:06[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 8 | 6/30 | 30.0 sec/it | ce 3.098 | ppl 22.418[0m
+[[36m04-28 19:01:22[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 8 | 9/30 | 28.6 sec/it | ce 3.063 | ppl 21.434[0m
+[[36m04-28 19:02:41[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 8 | 12/30 | 28.1 sec/it | ce 3.294 | ppl 27.329[0m
+[[36m04-28 19:03:56[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 8 | 15/30 | 27.5 sec/it | ce 3.126 | ppl 22.981[0m
+[[36m04-28 19:04:56[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 8 | 18/30 | 26.4 sec/it | ce 3.097 | ppl 22.226[0m
+[[36m04-28 19:05:58[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 8 | 21/30 | 25.6 sec/it | ce 3.377 | ppl 30.718[0m
+[[36m04-28 19:07:11[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 8 | 24/30 | 25.4 sec/it | ce 3.006 | ppl 20.378[0m
+[[36m04-28 19:08:10[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 8 | 27/30 | 24.8 sec/it | ce 3.007 | ppl 20.929[0m
+[[36m04-28 19:08:13[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mValid Summary | Epoch 8 | ce=3.155 | ppl=24.096 | duration=767.935[0m
+[[36m04-28 19:08:13[0m][[34mflashy.solver[0m][[32mINFO[0m] - New best state with ce=3.155 (was 3.155)[0m
+[[36m04-28 19:08:16[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mEvaluate Summary | Epoch 8 | duration=0.002[0m
+[[36m04-28 19:08:16[0m][[34mflashy.solver[0m][[32mINFO[0m] - Generating samples in /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/samples[0m
+[[36m04-28 19:10:53[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mGenerate Summary | Epoch 8 | rtf=1.420 | duration=157.031[0m
+[[36m04-28 19:10:56[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model hash: dd4899d9cbf554f6ec23c2fa74fc1d313c389584[0m
+[[36m04-28 19:11:14[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint_8.th[0m
+[[36m04-28 19:11:37[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint.th[0m
+[[36m04-28 19:22:14[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 9 | 20/208 | 27.4 sec/it | lr 1.46E-05 | grad_norm 1.725E+00 | grad_scale 8192.000 | ce 3.038 | ppl 21.330[0m
+[[36m04-28 19:31:44[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 9 | 40/208 | 27.9 sec/it | lr 1.48E-05 | grad_norm 1.715E+00 | grad_scale 8192.000 | ce 3.090 | ppl 23.092[0m
+[[36m04-28 19:40:40[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 9 | 60/208 | 27.6 sec/it | lr 1.50E-05 | grad_norm 1.721E+00 | grad_scale 8192.000 | ce 2.981 | ppl 20.159[0m
+[[36m04-28 19:49:38[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 9 | 80/208 | 27.4 sec/it | lr 1.52E-05 | grad_norm 1.772E+00 | grad_scale 8192.000 | ce 3.047 | ppl 22.151[0m
+[[36m04-28 19:58:24[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 9 | 100/208 | 27.2 sec/it | lr 1.54E-05 | grad_norm 1.777E+00 | grad_scale 8192.000 | ce 3.112 | ppl 22.777[0m
+[[36m04-28 20:07:07[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 9 | 120/208 | 27.0 sec/it | lr 1.55E-05 | grad_norm 1.764E+00 | grad_scale 8192.000 | ce 3.071 | ppl 22.220[0m
+[[36m04-28 20:16:27[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 9 | 140/208 | 27.2 sec/it | lr 1.57E-05 | grad_norm 1.741E+00 | grad_scale 8192.000 | ce 3.072 | ppl 22.183[0m
+[[36m04-28 20:24:59[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 9 | 160/208 | 27.0 sec/it | lr 1.59E-05 | grad_norm 1.785E+00 | grad_scale 8192.000 | ce 3.011 | ppl 20.720[0m
+[[36m04-28 20:34:06[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 9 | 180/208 | 27.0 sec/it | lr 1.61E-05 | grad_norm 1.768E+00 | grad_scale 8192.000 | ce 3.040 | ppl 21.412[0m
+[[36m04-28 20:43:14[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 9 | 200/208 | 27.0 sec/it | lr 1.62E-05 | grad_norm 1.763E+00 | grad_scale 8192.000 | ce 3.182 | ppl 24.457[0m
+[[36m04-28 20:45:14[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mTrain Summary | Epoch 9 | lr=1.55E-05 | grad_norm=1.754E+00 | grad_scale=8192.000 | ce=3.060 | ppl=21.885 | duration=5617.173[0m
+[[36m04-28 20:48:41[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 9 | 3/30 | 34.3 sec/it | ce 3.147 | ppl 23.484[0m
+[[36m04-28 20:49:56[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 9 | 6/30 | 30.3 sec/it | ce 3.100 | ppl 22.456[0m
+[[36m04-28 20:51:12[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 9 | 9/30 | 28.8 sec/it | ce 3.059 | ppl 21.341[0m
+[[36m04-28 20:52:31[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 9 | 12/30 | 28.2 sec/it | ce 3.296 | ppl 27.382[0m
+[[36m04-28 20:53:48[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 9 | 15/30 | 27.7 sec/it | ce 3.128 | ppl 23.021[0m
+[[36m04-28 20:54:48[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 9 | 18/30 | 26.5 sec/it | ce 3.093 | ppl 22.108[0m
+[[36m04-28 20:55:51[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 9 | 21/30 | 25.8 sec/it | ce 3.375 | ppl 30.602[0m
+[[36m04-28 20:57:03[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 9 | 24/30 | 25.6 sec/it | ce 3.008 | ppl 20.420[0m
+[[36m04-28 20:58:01[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 9 | 27/30 | 24.9 sec/it | ce 3.008 | ppl 20.961[0m
+[[36m04-28 20:58:06[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mValid Summary | Epoch 9 | ce=3.156 | ppl=24.114 | duration=770.519[0m
+[[36m04-28 20:58:07[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mEvaluate Summary | Epoch 9 | duration=0.002[0m
+[[36m04-28 20:58:07[0m][[34mflashy.solver[0m][[32mINFO[0m] - Generating samples in /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/samples[0m
+[[36m04-28 21:00:44[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mGenerate Summary | Epoch 9 | rtf=1.403 | duration=157.318[0m
+[[36m04-28 21:00:48[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model hash: fa70cce9de1661dc95c8ebc04c06f1052a30a39c[0m
+[[36m04-28 21:01:10[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint_9.th[0m
+[[36m04-28 21:01:34[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint.th[0m
+[[36m04-28 21:12:08[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 10 | 20/208 | 27.3 sec/it | lr 1.65E-05 | grad_norm 1.781E+00 | grad_scale 8192.000 | ce 3.020 | ppl 20.921[0m
+[[36m04-28 21:21:18[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 10 | 40/208 | 27.4 sec/it | lr 1.66E-05 | grad_norm 1.744E+00 | grad_scale 8192.000 | ce 2.928 | ppl 19.220[0m
+[[36m04-28 21:29:40[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 10 | 60/208 | 26.6 sec/it | lr 1.68E-05 | grad_norm 2.124E+00 | grad_scale 8192.000 | ce 2.976 | ppl 20.276[0m
+[[36m04-28 21:38:01[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 10 | 80/208 | 26.2 sec/it | lr 1.70E-05 | grad_norm 1.918E+00 | grad_scale 8192.000 | ce 3.055 | ppl 21.886[0m
+[[36m04-28 21:46:53[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 10 | 100/208 | 26.3 sec/it | lr 1.72E-05 | grad_norm 1.832E+00 | grad_scale 8192.000 | ce 3.061 | ppl 21.870[0m
+[[36m04-28 21:55:30[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 10 | 120/208 | 26.2 sec/it | lr 1.73E-05 | grad_norm 1.855E+00 | grad_scale 8192.000 | ce 3.001 | ppl 21.027[0m
+[[36m04-28 22:04:24[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 10 | 140/208 | 26.3 sec/it | lr 1.75E-05 | grad_norm 1.794E+00 | grad_scale 12697.600 | ce 3.190 | ppl 24.564[0m
+[[36m04-28 22:13:37[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 10 | 160/208 | 26.5 sec/it | lr 1.77E-05 | grad_norm 1.863E+00 | grad_scale 16384.000 | ce 3.050 | ppl 21.516[0m
+[[36m04-28 22:21:47[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 10 | 180/208 | 26.3 sec/it | lr 1.79E-05 | grad_norm 1.947E+00 | grad_scale 16384.000 | ce 3.073 | ppl 22.301[0m
+[[36m04-28 22:30:37[0m][[34mflashy.solver[0m][[32mINFO[0m] - Train | Epoch 10 | 200/208 | 26.3 sec/it | lr 1.80E-05 | grad_norm 1.890E+00 | grad_scale 16384.000 | ce 2.983 | ppl 20.624[0m
+[[36m04-28 22:32:44[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mTrain Summary | Epoch 10 | lr=1.73E-05 | grad_norm=1.878E+00 | grad_scale=11264.000 | ce=3.046 | ppl=21.611 | duration=5469.819[0m
+[[36m04-28 22:36:29[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 10 | 3/30 | 37.1 sec/it | ce 3.150 | ppl 23.552[0m
+[[36m04-28 22:37:49[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 10 | 6/30 | 32.7 sec/it | ce 3.102 | ppl 22.509[0m
+[[36m04-28 22:39:10[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 10 | 9/30 | 31.0 sec/it | ce 3.055 | ppl 21.253[0m
+[[36m04-28 22:40:35[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 10 | 12/30 | 30.4 sec/it | ce 3.299 | ppl 27.459[0m
+[[36m04-28 22:41:55[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 10 | 15/30 | 29.7 sec/it | ce 3.130 | ppl 23.079[0m
+[[36m04-28 22:42:58[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 10 | 18/30 | 28.3 sec/it | ce 3.088 | ppl 21.994[0m
+[[36m04-28 22:44:06[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 10 | 21/30 | 27.5 sec/it | ce 3.374 | ppl 30.518[0m
+[[36m04-28 22:45:24[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 10 | 24/30 | 27.3 sec/it | ce 3.011 | ppl 20.480[0m
+[[36m04-28 22:46:21[0m][[34mflashy.solver[0m][[32mINFO[0m] - Valid | Epoch 10 | 27/30 | 26.4 sec/it | ce 3.010 | ppl 21.009[0m
+[[36m04-28 22:46:24[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mValid Summary | Epoch 10 | ce=3.157 | ppl=24.150 | duration=818.845[0m
+[[36m04-28 22:46:26[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mEvaluate Summary | Epoch 10 | duration=0.003[0m
+[[36m04-28 22:46:26[0m][[34mflashy.solver[0m][[32mINFO[0m] - Generating samples in /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/samples[0m
+[[36m04-28 22:48:55[0m][[34mflashy.solver[0m][[32mINFO[0m] - [1mGenerate Summary | Epoch 10 | rtf=1.448 | duration=149.389[0m
+[[36m04-28 22:48:58[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model hash: 5d6353ecb7a1f3fcac50447136aa07cd5e58f30b[0m
+[[36m04-28 22:49:25[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint_10.th[0m
+[[36m04-28 22:49:46[0m][[34maudiocraft.utils.checkpoint[0m][[32mINFO[0m] - Checkpoint saved to /work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/checkpoint.th[0m
+[[36m04-28 22:49:46[0m][[34msubmitit[0m][[32mINFO[0m] - Job completed successfully[0m
+[[36m04-28 22:49:46[0m][[34msubmitit[0m][[32mINFO[0m] - Exiting after successful completion[0m

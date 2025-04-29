@@ -1,0 +1,25 @@
+{
+  "id": "d8aa0555ba9eeb2b11b93334f0dd7d577572b9ec_prompted_conditioned",
+  "path": "/work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/samples/1/d8aa0555ba9eeb2b11b93334f0dd7d577572b9ec_prompted_conditioned.wav",
+  "epoch": 1,
+  "duration": 29.0,
+  "conditioning": "/work/users/t/i/tis/V2Music/preprocessing/data/video/uuTvQcuSJFQ.mp4",
+  "prompt": {
+    "id": "d338e176d492f6ee8420d1d7f9ab9ae09968b506",
+    "path": "/work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/samples/1/prompt/d338e176d492f6ee8420d1d7f9ab9ae09968b506.wav",
+    "duration": 7.25
+  },
+  "reference": {
+    "id": "e552246362de6a8b60b9ff9c7490726d04bd4ee6",
+    "path": "/work/users/t/i/tis/VidMuse/output/VidMuse/xps/6420c4e9/samples/reference/e552246362de6a8b60b9ff9c7490726d04bd4ee6.wav",
+    "duration": 29.0
+  },
+  "generation_args": {
+    "classifier_free_guidance_training_dropout": 0.3,
+    "classifier_free_guidance_inference_coef": 3.0,
+    "use_sampling": true,
+    "temp": 1.0,
+    "top_k": 250,
+    "top_p": 0.0
+  }
+}

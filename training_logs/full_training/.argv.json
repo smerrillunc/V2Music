@@ -1,0 +1,1 @@
+["solver=VidMuse/v2m_train", "continue_from=//pretrained/facebook/musicgen-small", "model/lm/model_scale=small", "wandb.project=V2M", "wandb.name=training1"]
